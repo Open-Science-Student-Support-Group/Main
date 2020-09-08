@@ -1,0 +1,4 @@
+To do:
+  * Write blurb for promotion
+  * Figure out licences
+  * 
