@@ -1,0 +1,128 @@
+[
+    {
+        "client_msg_id": "02b4a227-92bb-4a5b-959d-9049d62b432f",
+        "type": "message",
+        "text": "Hi all! Thank you again to those who attended the session on Friday about pre-regostratopm\/ If you have time, please consider filling out our anonymous feedback form to let us know how today went for you and how we can\nimprove future sessions :) The survey can be found here:  <https:\/\/survey.ucalgary.ca\/jfe\/form\/SV_1Ib1mAY0oR278mV>",
+        "user": "U01ABLH7DPY",
+        "ts": "1606079575.006900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Online Survey Software | Qualtrics Survey Solutions",
+                "title_link": "https:\/\/survey.ucalgary.ca\/jfe\/form\/SV_1Ib1mAY0oR278mV",
+                "text": "The most powerful, simple and trusted way to gather experience data. Start your journey to experience management and try a free account today.",
+                "fallback": "Online Survey Software | Qualtrics Survey Solutions",
+                "from_url": "https:\/\/survey.ucalgary.ca\/jfe\/form\/SV_1Ib1mAY0oR278mV",
+                "service_icon": "http:\/\/co1.qualtrics.com\/WRQualtricsShared\/Graphics\/qipadicon.png",
+                "service_name": "survey.ucalgary.ca",
+                "id": 1,
+                "original_url": "https:\/\/survey.ucalgary.ca\/jfe\/form\/SV_1Ib1mAY0oR278mV"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4dSB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all! Thank you again to those who attended the session on Friday about pre-regostratopm\/ If you have time, please consider filling out our anonymous feedback form to let us know how today went for you and how we can\nimprove future sessions :) The survey can be found here:  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/survey.ucalgary.ca\/jfe\/form\/SV_1Ib1mAY0oR278mV"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Hi Everyone! Here are the slides from the pre-registration session. Please let Brittany or I know if you have any questions :slightly_smiling_face:",
+        "files": [
+            {
+                "id": "F01FP1FQ4TB",
+                "created": 1606079694,
+                "timestamp": 1606079694,
+                "name": "OSSSG_pre-registration.pdf",
+                "title": "OSSSG_pre-registration.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U01ANS2G30R",
+                "editable": false,
+                "size": 1238996,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01FP1FQ4TB\/osssg_pre-registration.pdf?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01FP1FQ4TB\/download\/osssg_pre-registration.pdf?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01FP1FQ4TB-fa8b46aec3\/osssg_pre-registration_thumb_pdf.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf_w": 1100,
+                "thumb_pdf_h": 619,
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01ANS2G30R\/F01FP1FQ4TB\/osssg_pre-registration.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01FP1FQ4TB-16cc622672",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v3gO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Everyone! Here are the slides from the pre-registration session. Please let Brittany or I know if you have any questions "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01ANS2G30R",
+        "display_as_bot": false,
+        "ts": "1606079699.007600",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01AGDAUB1S",
+                    "U01CJ00P65N",
+                    "U01AADVMMJ7"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

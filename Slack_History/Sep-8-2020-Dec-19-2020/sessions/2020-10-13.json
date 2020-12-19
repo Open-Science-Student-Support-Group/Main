@@ -1,0 +1,303 @@
+[
+    {
+        "client_msg_id": "309F8325-B503-4C35-8D7E-B8AC0405DCE6",
+        "type": "message",
+        "text": "Hello! I have drafted an email to Elaine to invite her to present at session 3 but I can’t find her email in the UCalgary contact book. Do either of you happen to have it? Thanks!",
+        "user": "U01ABLH7DPY",
+        "ts": "1602615058.001500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3ed",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello! I have drafted an email to Elaine to invite her to present at session 3 but I can’t find her email in the UCalgary contact book. Do either of you happen to have it? Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602615058.001500",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1602615262.003400",
+        "reply_users": [
+            "U01ANS2G30R",
+            "U01ABLH7DPY"
+        ],
+        "replies": [
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1602615198.001600"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1602615224.002300"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1602615256.003200"
+            },
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1602615262.003400"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1602615262.003400"
+    },
+    {
+        "client_msg_id": "88d1d95c-5cbe-41e2-8227-656beadd8e09",
+        "type": "message",
+        "text": "Absolutely - here you go! <mailto:elaine.atay1@ucalgary.ca|elaine.atay1@ucalgary.ca>",
+        "user": "U01ANS2G30R",
+        "ts": "1602615198.001600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6f2uS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Absolutely - here you go! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:elaine.atay1@ucalgary.ca",
+                                "text": "elaine.atay1@ucalgary.ca"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602615058.001500",
+        "parent_user_id": "U01ABLH7DPY"
+    },
+    {
+        "client_msg_id": "6CB438F6-88F3-4269-AE9F-751C655BAE61",
+        "type": "message",
+        "text": "Thank you - I had the spelling right and everything, I don’t know why I couldn’t find it!",
+        "user": "U01ABLH7DPY",
+        "ts": "1602615224.002300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P\/ff",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you - I had the spelling right and everything, I don’t know why I couldn’t find it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602615058.001500",
+        "parent_user_id": "U01ABLH7DPY"
+    },
+    {
+        "client_msg_id": "DF606F09-3A2A-49B8-B5BD-E0A2B04DA61A",
+        "type": "message",
+        "text": "Also Emiko, my email will be heavily inspired by your email to Liz which I used as a template :wink:",
+        "user": "U01ABLH7DPY",
+        "ts": "1602615256.003200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v9Ghi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also Emiko, my email will be heavily inspired by your email to Liz which I used as a template "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602615058.001500",
+        "parent_user_id": "U01ABLH7DPY",
+        "reactions": [
+            {
+                "name": "relaxed",
+                "users": [
+                    "U01ANS2G30R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "656d3516-eda2-4b57-a83b-380d3e6c655c",
+        "type": "message",
+        "text": "Sometimes I have issues finding things in the UCalgary contact book too - I just blame the contact book :slightly_smiling_face:",
+        "user": "U01ANS2G30R",
+        "ts": "1602615262.003400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HEA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sometimes I have issues finding things in the UCalgary contact book too - I just blame the contact book "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602615058.001500",
+        "parent_user_id": "U01ABLH7DPY"
+    },
+    {
+        "client_msg_id": "3963f255-6f9f-458b-a7eb-2b9f1bafcc61",
+        "type": "message",
+        "text": "Hi Sessions people! I updated the ‘how to… prep a session’ document and powerpoint template, so you can send those to Liz, if you think they might still be useful for her at this point!",
+        "user": "U01AA7U2ECA",
+        "ts": "1602646245.004700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fz4le",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Sessions people! I updated the ‘how to… prep a session’ document and powerpoint template, so you can send those to Liz, if you think they might still be useful for her at this point!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602646245.004700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1602690083.004800",
+        "reply_users": [
+            "U01ANS2G30R"
+        ],
+        "replies": [
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1602690083.004800"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1602690083.004800"
+    }
+]

@@ -1,0 +1,831 @@
+[
+    {
+        "client_msg_id": "FDF40EE9-3B12-4756-8CE3-4A5817E28BFB",
+        "type": "message",
+        "text": "If we get the Teams account can we create it through that? Or do we need a seperate sharepoint account?",
+        "user": "U01AA7U4UHY",
+        "ts": "1600874556.001100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IX\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If we get the Teams account can we create it through that? Or do we need a seperate sharepoint account?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600825920.002600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "A7D6A264-1DE4-4D5C-831E-97C8B1960D70",
+        "type": "message",
+        "text": "I think they’re one and the same, but I’ll look into it more today when I have some time",
+        "user": "U01ANS83U3T",
+        "ts": "1600875112.001800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mUYx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think they’re one and the same, but I’ll look into it more today when I have some time"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600825920.002600",
+        "parent_user_id": "U01AA7U2ECA",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01AA7U4UHY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "539E80B8-8C96-4655-8F8E-5CD64D759317",
+        "type": "message",
+        "text": "Sounds good!",
+        "user": "U01AA7U4UHY",
+        "ts": "1600875379.003000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qQY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds good!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600825920.002600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "8D998EF6-2E08-460D-8A24-053A80DE1698",
+        "type": "message",
+        "text": "Here’s some copyright\/copyleft stuff based on my knowledge of it:\n\n• Copyright is the default. You make it, you own it (unless you’re making something for an employer, then usually the employer owns it, but that’s not relevant here). So if you don’t want anyone else using your creative work then you just leave it as is. You can throw a copyright statement on it too just to be clear about it.\n\n• Copyleft—that is, licensing others to use your copyrighted work in some capacity—is something you must explicitly declare. There are many copyleft licenses, drafted by lawyers, to serve a variety of needs and purposes. It is important to note that you do not give up your copyright when you license your work, you’re just allowing others to use that work without violating your copyright.\n\nDifferent licenses are appropriate for different things:\n• CC are for creative works such as art, writing, etc. <https:\/\/creativecommons.org\/licenses\/|https:\/\/creativecommons.org\/licenses\/>\n• MIT, GNU, and others are for software <https:\/\/choosealicense.com|https:\/\/choosealicense.com>\n\nIt’s important to pick the right license from the start, as in some cases you need to get consent from every user of your license if you want to change to a different license.\n\nIt’s also important to think about how you want others to be able to use your licensed work, e.g., some licenses allow others to profit off your work and use it in a business, whereas others just let people use your work personally.",
+        "user": "U01AA7U4UHY",
+        "ts": "1600876235.018600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Choose a License",
+                "title": "Choose an open source license",
+                "title_link": "https:\/\/choosealicense.com\/",
+                "text": "Non-judgmental guidance on choosing a license for your open source project",
+                "fallback": "Choose a License: Choose an open source license",
+                "from_url": "https:\/\/choosealicense.com\/",
+                "service_icon": "https:\/\/choosealicense.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/choosealicense.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y1+1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here’s some copyright\/copyleft stuff based on my knowledge of it:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Copyright is the default. You make it, you own it (unless you’re making something for an employer, then usually the employer owns it, but that’s not relevant here). So if you don’t want anyone else using your creative work then you just leave it as is. You can throw a copyright statement on it too just to be clear about it."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Copyleft—that is, licensing others to use your copyrighted work in some capacity—is something you must explicitly declare. There are many copyleft licenses, drafted by lawyers, to serve a variety of needs and purposes. It is important to note that you do not give up your copyright when you license your work, you’re just allowing others to use that work without violating your copyright."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Different licenses are appropriate for different things:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "CC are for creative works such as art, writing, etc. "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/creativecommons.org\/licenses\/",
+                                        "text": "https:\/\/creativecommons.org\/licenses\/"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "MIT, GNU, and others are for software "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/choosealicense.com",
+                                        "text": "https:\/\/choosealicense.com"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\nIt’s important to pick the right license from the start, as in some cases you need to get consent from every user of your license if you want to change to a different license.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "It’s also important to think about how you want others to be able to use your licensed work, e.g., some licenses allow others to profit off your work and use it in a business, whereas others just let people use your work personally."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600876235.018600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1600916672.004000",
+        "reply_users": [
+            "U01ANS83U3T"
+        ],
+        "replies": [
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1600916672.004000"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "104bd836-a8df-4ae3-962c-41a3701b0cda",
+        "type": "message",
+        "text": "Awesome that you are exploring this! For as far as I know, the Teams account should give us access to create a SharePoint as well. I just imagined using Teams for registration\/having a ucalgary email list and sharing some basic files, so people who don’t want to jump into Slack\/GitHub\/OSF right away can get an idea of what we’re doing, but if you have other ideas\/find better ways, that’s awesome!",
+        "user": "U01AA7U2ECA",
+        "ts": "1600876702.018800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fPcgJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome that you are exploring this! For as far as I know, the Teams account should give us access to create a SharePoint as well. I just imagined using Teams for registration\/having a ucalgary email list and sharing some basic files, so people who don’t want to jump into Slack\/GitHub\/OSF right away can get an idea of what we’re doing, but if you have other ideas\/find better ways, that’s awesome!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600825920.002600",
+        "parent_user_id": "U01AA7U2ECA",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01AA7U4UHY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "777fdd34-96b4-4b50-92a6-ac12bb5b83e9",
+        "type": "message",
+        "text": "Just FYI, OneDrive can be integrated with OSF as well, in case that is helpful",
+        "user": "U01AA7U2ECA",
+        "ts": "1600876872.019000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=2AHO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just FYI, OneDrive can be integrated with OSF as well, in case that is helpful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600825920.002600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "EB321D90-A6D3-4E9F-AEC5-580A9EBBCE93",
+        "type": "message",
+        "text": "So if you make a Teams, it makes a linked SharePoint by default",
+        "user": "U01ANS83U3T",
+        "ts": "1600916430.001000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=7G8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So if you make a Teams, it makes a linked SharePoint by default"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600825920.002600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "98A45DF5-03AC-450E-8532-588ABF104EEE",
+        "type": "message",
+        "text": "You can also create a new SharePoint once you have a Teams account",
+        "user": "U01ANS83U3T",
+        "ts": "1600916455.001900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v5U0M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can also create a new SharePoint once you have a Teams account"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600825920.002600",
+        "parent_user_id": "U01AA7U2ECA",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01AA7U4UHY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FC10C58D-3D56-4D48-BA34-E708EF5DBA3D",
+        "type": "message",
+        "text": "This is awesome! Thanks for putting this on here, I knew some of this but most of this is new to me",
+        "user": "U01ANS83U3T",
+        "ts": "1600916672.004000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bz9oa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is awesome! Thanks for putting this on here, I knew some of this but most of this is new to me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600876235.018600",
+        "parent_user_id": "U01AA7U4UHY",
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "U01AA7U4UHY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "489B9CA7-0605-47CC-815A-818288551BD7",
+        "type": "message",
+        "text": "Sweet, so I guess we’re just waiting on <@U01AA7U2ECA> to hear back about Teams then! (Gwen, do you have an ETA on it?) If we don’t have it before our first session we’ll have to do things some other way though (no big deal).",
+        "user": "U01AA7U4UHY",
+        "ts": "1600916790.006300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X8jA6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sweet, so I guess we’re just waiting on "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01AA7U2ECA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to hear back about Teams then! (Gwen, do you have an ETA on it?) If we don’t have it before our first session we’ll have to do things some other way though (no big deal)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600825920.002600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "20ECDD68-FE2B-41AA-B7B4-DB28BBB0AF86",
+        "type": "message",
+        "text": "Well what we could do is get everyone’s uni emails, and make a OneDrive or an email chain in the meantime if we want. Then we can use those emails to add everyone to the SharePoint\/Teams hub and just transfer over what we need to",
+        "user": "U01ANS83U3T",
+        "ts": "1600917882.002100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fCZX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well what we could do is get everyone’s uni emails, and make a OneDrive or an email chain in the meantime if we want. Then we can use those emails to add everyone to the SharePoint\/Teams hub and just transfer over what we need to"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600825920.002600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "35EB9916-7A2B-4FA7-BD0D-61A376D7F84C",
+        "type": "message",
+        "text": "I’m just considering the delay with IT at the moment",
+        "user": "U01ANS83U3T",
+        "ts": "1600917938.002700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9dm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m just considering the delay with IT at the moment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600825920.002600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "13A1827E-F126-4513-9066-4484073B48CA",
+        "type": "message",
+        "text": "I’m having to wait upwards of a month to get a desktop from the psych department for my office",
+        "user": "U01ANS83U3T",
+        "ts": "1600917964.003500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+3m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m having to wait upwards of a month to get a desktop from the psych department for my office"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600825920.002600",
+        "parent_user_id": "U01AA7U2ECA",
+        "reactions": [
+            {
+                "name": "exploding_head",
+                "users": [
+                    "U01AA7U4UHY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3138edba-83ec-4a1d-b400-ada9380fcd59",
+        "type": "message",
+        "text": "ugh that sucks! The status is still ‘in progress’ for now, but I’m hoping this is a bit easier\/faster than getting a desktop? Anyway, I think we can wait a bit longer, maybe till early next week before working on an alternative (although it never hurts to be prepared, of course ^^)",
+        "user": "U01AA7U2ECA",
+        "ts": "1600918108.003700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B24",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ugh that sucks! The status is still ‘in progress’ for now, but I’m hoping this is a bit easier\/faster than getting a desktop? Anyway, I think we can wait a bit longer, maybe till early next week before working on an alternative (although it never hurts to be prepared, of course ^^)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600825920.002600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "2E9B9223-B853-4886-8A94-949239554BA5",
+        "type": "message",
+        "text": "I hope so too. We can decide on an alternative now and put it into action if we need to, but we can wait for awhile to see if we get the Teams access cuz it’s not too hard to throw together a well organized OneDrive folder",
+        "user": "U01ANS83U3T",
+        "ts": "1600918468.006300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uhG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I hope so too. We can decide on an alternative now and put it into action if we need to, but we can wait for awhile to see if we get the Teams access cuz it’s not too hard to throw together a well organized OneDrive folder"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600825920.002600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "03301184-7366-44A3-8BCB-D7673D5A1152",
+        "type": "message",
+        "text": "We should at least have everyone in the slack group’s uni email (you can see it if you click their profile). And sending out any files for the first session through email or onedrive will be quick and easy. So yeah, let’s just wait til next week to decide",
+        "user": "U01AA7U4UHY",
+        "ts": "1600919035.010500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tour",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We should at least have everyone in the slack group’s uni email (you can see it if you click their profile). And sending out any files for the first session through email or onedrive will be quick and easy. So yeah, let’s just wait til next week to decide"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600825920.002600",
+        "parent_user_id": "U01AA7U2ECA",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01ANS83U3T"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,190 @@
+[
+    {
+        "client_msg_id": "349819f1-016f-410a-bea9-501c7f4ab576",
+        "type": "message",
+        "text": "<@U01AA7U2ECA> and <@U01AGDAUB1S> Should I post on media as well?",
+        "user": "U01BM8QUSTS",
+        "ts": "1607635272.003000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "01c8086c20a1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-16\/1434346692659_01c8086c20a1bbd0c488_72.png",
+            "first_name": "",
+            "real_name": "Jenelle Morgan",
+            "display_name": "Jenelle Morgan",
+            "team": "T01A754ECJZ",
+            "name": "jenelle.morgan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2AEH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01AA7U2ECA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01AGDAUB1S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Should I post on media as well?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607459046.001700",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "89d95607-cf8b-4cac-8eb9-1075418f3933",
+        "type": "message",
+        "text": "*social media",
+        "user": "U01BM8QUSTS",
+        "ts": "1607635285.003200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "01c8086c20a1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-16\/1434346692659_01c8086c20a1bbd0c488_72.png",
+            "first_name": "",
+            "real_name": "Jenelle Morgan",
+            "display_name": "Jenelle Morgan",
+            "team": "T01A754ECJZ",
+            "name": "jenelle.morgan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8OM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "*social media"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607459046.001700",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "1681123a-30e0-4d95-8e1f-b52ddcdc9e61",
+        "type": "message",
+        "text": "<@U01BM8QUSTS> - that sounds like a great idea! May as well do it everywhere! But <@U01AA7U2ECA>, should we maybe wait until we have decided when the social time is going to be and make a joint post on social media about both of those things?",
+        "user": "U01AGDAUB1S",
+        "ts": "1607635482.003400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kYh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01BM8QUSTS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - that sounds like a great idea! May as well do it everywhere! But "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01AA7U2ECA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", should we maybe wait until we have decided when the social time is going to be and make a joint post on social media about both of those things?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607459046.001700",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "6f6a675f-f339-450c-b906-927e3f732072",
+        "type": "message",
+        "text": "Sure that sounds great! The time for the social has been decided - Dec 18 4pm :slightly_smiling_face:",
+        "user": "U01AA7U2ECA",
+        "ts": "1607640688.003600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xVQR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure that sounds great! The time for the social has been decided - Dec 18 4pm "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607459046.001700",
+        "parent_user_id": "U01AA7U2ECA"
+    }
+]

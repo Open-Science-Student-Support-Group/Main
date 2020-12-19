@@ -1,0 +1,130 @@
+[
+    {
+        "client_msg_id": "6d9c96bb-e4d6-45ee-ab0b-4aa396c35013",
+        "type": "message",
+        "text": "Happy Weekend <!everyone> ! We're now arriving at the last OSSSG session of the semester - how quickly time flies.\n\n*Session topic:* Troubleshooting Open Science (discussing barriers alongside solutions with implementing Open Science)\n*Presenter:* Dr. Rosemary Twomey\n*When:* December 4, 2020, 4-5:30 pm\n*To register and get more details about the session, please use this link:* <https:\/\/ucalgary.zoom.us\/meeting\/register\/tJcpduutqTMqEtf2ZOgR5FYOs371yjgr3bUK>\n\nSee you then!",
+        "user": "U01BM8QUSTS",
+        "ts": "1606546932.011600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "01c8086c20a1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-16\/1434346692659_01c8086c20a1bbd0c488_72.png",
+            "first_name": "",
+            "real_name": "Jenelle Morgan",
+            "display_name": "Jenelle Morgan",
+            "team": "T01A754ECJZ",
+            "name": "jenelle.morgan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+tMgd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Happy Weekend "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ! We're now arriving at the last OSSSG session of the semester - how quickly time flies.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Session topic: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Troubleshooting Open Science (discussing barriers alongside solutions with implementing Open Science)\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Presenter: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Dr. Rosemary Twomey\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "When: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "December 4, 2020, 4-5:30 pm\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "To register and get more details about the session, please use this link: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ucalgary.zoom.us\/meeting\/register\/tJcpduutqTMqEtf2ZOgR5FYOs371yjgr3bUK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nSee you then!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606546932.011600",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1606864294.013000",
+        "reply_users": [
+            "U01A3HZ3R63",
+            "U01BM8QUSTS",
+            "U01ANS2G30R",
+            "U01AGDAUB1S"
+        ],
+        "replies": [
+            {
+                "user": "U01A3HZ3R63",
+                "ts": "1606755871.011700"
+            },
+            {
+                "user": "U01BM8QUSTS",
+                "ts": "1606767170.011900"
+            },
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1606771583.012100"
+            },
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1606772000.012300"
+            },
+            {
+                "user": "U01A3HZ3R63",
+                "ts": "1606864294.013000"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1606864294.013000"
+    }
+]

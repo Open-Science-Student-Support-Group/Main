@@ -1,0 +1,127 @@
+[
+    {
+        "client_msg_id": "5703c5a6-b371-4cbf-9078-3c3b4a1cab4e",
+        "type": "message",
+        "text": "This might be a bit early for some of you, but if anyone is struggling with publishing null findings, here’s a call for papers: <https:\/\/www.journals.elsevier.com\/neuroimage-reports\/call-for-papers>",
+        "user": "U01AA7U2ECA",
+        "ts": "1602169649.006600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "NeuroImage: Reports",
+                "title_link": "https:\/\/www.journals.elsevier.com\/neuroimage-reports\/call-for-papers",
+                "text": "Call for Papers",
+                "fallback": "NeuroImage: Reports",
+                "thumb_url": "https:\/\/ars.els-cdn.com\/content\/image\/X26669560.jpg",
+                "from_url": "https:\/\/www.journals.elsevier.com\/neuroimage-reports\/call-for-papers",
+                "thumb_width": 564,
+                "thumb_height": 768,
+                "service_icon": "https:\/\/cdn.elsevier.io\/verona\/includes\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "journals.elsevier.com",
+                "id": 1,
+                "original_url": "https:\/\/www.journals.elsevier.com\/neuroimage-reports\/call-for-papers"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MEXD0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This might be a bit early for some of you, but if anyone is struggling with publishing null findings, here’s a call for papers: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.journals.elsevier.com\/neuroimage-reports\/call-for-papers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602169649.006600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1602344022.008300",
+        "reply_users": [
+            "U01AA7U2ECA"
+        ],
+        "replies": [
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1602344022.008300"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5288424B-0A4B-4914-B6BE-0A935D85E9FD",
+        "type": "message",
+        "text": "Workshop on November 10th for improving your workflow for reproducible science: <https:\/\/twitter.com\/ukrepro\/status\/1314116267494772736?s=21|https:\/\/twitter.com\/ukrepro\/status\/1314116267494772736?s=21>",
+        "user": "U01AA7U4UHY",
+        "ts": "1602179376.007900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mso",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Workshop on November 10th for improving your workflow for reproducible science: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/ukrepro\/status\/1314116267494772736?s=21",
+                                "text": "https:\/\/twitter.com\/ukrepro\/status\/1314116267494772736?s=21"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01ANS2G30R",
+                    "U01AA7U2ECA"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

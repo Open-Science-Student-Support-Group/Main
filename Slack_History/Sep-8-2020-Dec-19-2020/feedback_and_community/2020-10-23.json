@@ -1,0 +1,414 @@
+[
+    {
+        "client_msg_id": "6057d4fc-0f4d-428c-84ee-ad5bc63808ac",
+        "type": "message",
+        "text": "I think a shorter pin posted like what Jassleen drafted is perfect, and then the bot message can be a bit longer with mroe details for future reference. Thanks Jassleen!",
+        "user": "U01ABLH7DPY",
+        "ts": "1603478734.010800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ty3oy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think a shorter pin posted like what Jassleen drafted is perfect, and then the bot message can be a bit longer with mroe details for future reference. Thanks Jassleen!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603326165.009800",
+        "parent_user_id": "U01AADVMMJ7"
+    },
+    {
+        "client_msg_id": "fa950c21-e613-4fcb-a1f8-8e36bad226b1",
+        "type": "message",
+        "text": "Hi all! The feedback survey is live. You can view it here: <https:\/\/survey.ucalgary.ca\/jfe\/form\/SV_1Ib1mAY0oR278mV> I also added all of you collaborators on the Qualtrics project so you can see the data\/edit.You should have received an email invite. Feel free to let me know if I should make any edits before the group tonight. And I suppose we can drop this in the chat box at the end of the session and ask everyone to go fill it out, as well as in the session2 thread",
+        "user": "U01ABLH7DPY",
+        "ts": "1603478741.011100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01ABLH7DPY",
+            "ts": "1603479010.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H29Yt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all! The feedback survey is live. You can view it here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/survey.ucalgary.ca\/jfe\/form\/SV_1Ib1mAY0oR278mV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I also added all of you collaborators on the Qualtrics project so you can see the data\/edit.You should have received an email invite. Feel free to let me know if I should make any edits before the group tonight. And I suppose we can drop this in the chat box at the end of the session and ask everyone to go fill it out, as well as in the session2 thread"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603478741.011100",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1603489254.012000",
+        "reply_users": [
+            "U01AA7U2ECA",
+            "U01AADVMMJ7",
+            "U01ABLH7DPY"
+        ],
+        "replies": [
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1603479806.011400"
+            },
+            {
+                "user": "U01AADVMMJ7",
+                "ts": "1603488707.011600"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1603489254.012000"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ef67c165-d007-431f-b14d-1362d2955125",
+        "type": "message",
+        "text": "Thanks Chelsea, I think this looks great! I wonder if asking for the session topic instead of the date would be easier for people to remember? But otherwise, I think it’s good to go!",
+        "user": "U01AA7U2ECA",
+        "ts": "1603479806.011400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tFf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Chelsea, I think this looks great! I wonder if asking for the session topic instead of the date would be easier for people to remember? But otherwise, I think it’s good to go!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603478741.011100",
+        "parent_user_id": "U01ABLH7DPY"
+    },
+    {
+        "client_msg_id": "3d6ab3e6-65cb-4992-8190-aa46d8013366",
+        "type": "message",
+        "text": "This looks great Chelsea, thank you! I agree with Gwen about the date stuff, maybe the topic will make it easier to remember?",
+        "user": "U01AADVMMJ7",
+        "ts": "1603488707.011600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "bc87ba7ccce1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-25\/1445402318902_bc87ba7ccce142957a62_72.png",
+            "first_name": "Jassleen",
+            "real_name": "Jassleen Parmar",
+            "display_name": "Jassleen Parmar",
+            "team": "T01A754ECJZ",
+            "name": "jassleen.parmar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "61v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This looks great Chelsea, thank you! I agree with Gwen about the date stuff, maybe the topic will make it easier to remember?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603478741.011100",
+        "parent_user_id": "U01ABLH7DPY"
+    },
+    {
+        "client_msg_id": "9FFDD34D-CCE5-495A-96C1-9671E5D95591",
+        "type": "message",
+        "text": "Perfect! Made that change now so it’s good to go!",
+        "user": "U01ABLH7DPY",
+        "ts": "1603489254.012000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xCuN4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Perfect! Made that change now so it’s good to go!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603478741.011100",
+        "parent_user_id": "U01ABLH7DPY",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U01AA7U2ECA",
+                    "U01AADVMMJ7"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I have included the method in which I personally think we can run online slack engagement in this document. Any feedback would be great, I can start with this on Sunday as said in the document as well. I think we can benefit from a schedule like this.",
+        "files": [
+            {
+                "id": "F01CTT81ZB9",
+                "created": 1603497951,
+                "timestamp": 1603497951,
+                "name": "Slack Engagement and Moderation.docx",
+                "title": "Slack Engagement and Moderation.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U01AADVMMJ7",
+                "editable": false,
+                "size": 16979,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01CTT81ZB9\/slack_engagement_and_moderation.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01CTT81ZB9\/download\/slack_engagement_and_moderation.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CTT81ZB9-0435ea052d\/slack_engagement_and_moderation_converted.pdf?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CTT81ZB9-0435ea052d\/slack_engagement_and_moderation_thumb_pdf.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01AADVMMJ7\/F01CTT81ZB9\/slack_engagement_and_moderation.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01CTT81ZB9-f2d6eea71c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GbHrP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have included the method in which I personally think we can run online slack engagement in this document. Any feedback would be great, I can start with this on Sunday as said in the document as well. I think we can benefit from a schedule like this."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01AADVMMJ7",
+        "display_as_bot": false,
+        "ts": "1603498020.013800",
+        "thread_ts": "1603498020.013800",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1603813532.000100",
+        "reply_users": [
+            "U01AADVMMJ7",
+            "U01AA7U2ECA"
+        ],
+        "replies": [
+            {
+                "user": "U01AADVMMJ7",
+                "ts": "1603498616.014300"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1603594687.015100"
+            },
+            {
+                "user": "U01AADVMMJ7",
+                "ts": "1603667887.015300"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1603813532.000100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c3301429-6858-49c0-aabc-1048b95d1a22",
+        "type": "message",
+        "text": "<@U01AA7U2ECA> do you think we should have a short version of that bot message pinned in every thread then?",
+        "user": "U01AADVMMJ7",
+        "ts": "1603498073.014100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "bc87ba7ccce1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-25\/1445402318902_bc87ba7ccce142957a62_72.png",
+            "first_name": "Jassleen",
+            "real_name": "Jassleen Parmar",
+            "display_name": "Jassleen Parmar",
+            "team": "T01A754ECJZ",
+            "name": "jassleen.parmar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JOi9L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01AA7U2ECA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you think we should have a short version of that bot message pinned in every thread then?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603326165.009800",
+        "parent_user_id": "U01AADVMMJ7"
+    },
+    {
+        "client_msg_id": "d4b5afe2-3c09-4fe6-b69d-05a1672140cb",
+        "type": "message",
+        "text": "Also, Matt and Michael are working on the snack-bot, but I haven't received an update on that yet.",
+        "user": "U01AADVMMJ7",
+        "ts": "1603498616.014300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "bc87ba7ccce1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-25\/1445402318902_bc87ba7ccce142957a62_72.png",
+            "first_name": "Jassleen",
+            "real_name": "Jassleen Parmar",
+            "display_name": "Jassleen Parmar",
+            "team": "T01A754ECJZ",
+            "name": "jassleen.parmar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z9VJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, Matt and Michael are working on the snack-bot, but I haven't received an update on that yet."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603498020.013800",
+        "parent_user_id": "U01AADVMMJ7"
+    }
+]

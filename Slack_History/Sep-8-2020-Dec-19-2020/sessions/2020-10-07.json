@@ -1,0 +1,109 @@
+[
+    {
+        "client_msg_id": "5666f40d-d902-4b39-9b5a-a231650e3723",
+        "type": "message",
+        "text": "Yeah, that sounds great!",
+        "user": "U01AA7U2ECA",
+        "ts": "1602132170.045100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TWo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, that sounds great!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602028700.043100",
+        "parent_user_id": "U01ANS2G30R"
+    },
+    {
+        "client_msg_id": "831bc70d-f431-49b1-aa72-c046bb454a0e",
+        "type": "message",
+        "text": "Hey! I’ve been practicing\/finalizing my presentation, and unsurprisingly, I’m having trouble fitting into my time. I’m going to try and cut as much as possible, but I was just wondering how much I would be messing up the timing of everything if my presentation goes up to 20 minutes?",
+        "user": "U01AA7U2ECA",
+        "ts": "1602132337.046700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MTr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey! I’ve been practicing\/finalizing my presentation, and unsurprisingly, I’m having trouble fitting into my time. I’m going to try and cut as much as possible, but I was just wondering how much I would be messing up the timing of everything if my presentation goes up to 20 minutes?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602132337.046700",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1602209043.049300",
+        "reply_users": [
+            "U01ANS2G30R",
+            "U01ABLH7DPY",
+            "U01AA7U2ECA"
+        ],
+        "replies": [
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1602167103.047500"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1602190743.048600"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1602204210.048800"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1602209043.049300"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1602190743.048600"
+    }
+]

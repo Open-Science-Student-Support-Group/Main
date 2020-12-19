@@ -1,0 +1,48 @@
+[
+    {
+        "client_msg_id": "ef048766-5b9b-4da5-82b8-378906a873d2",
+        "type": "message",
+        "text": "Hey :slightly_smiling_face: Thanks for filling out the doodle poll! It seems there is already no time left that we are all available, so I’m thinking we can postpone a bit, especially as it seems the core team meeting will be later as well. How about late next week or early the week after (so Nov 26\/27\/30?)",
+        "user": "U01AA7U2ECA",
+        "ts": "1605665952.001800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tlO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thanks for filling out the doodle poll! It seems there is already no time left that we are all available, so I’m thinking we can postpone a bit, especially as it seems the core team meeting will be later as well. How about late next week or early the week after (so Nov 26\/27\/30?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

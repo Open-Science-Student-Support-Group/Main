@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "4D8CFFBF-8B49-43E3-AC1B-C537F2719119",
+        "type": "message",
+        "text": "I really don’t know much about neuroimaging but I imagine that another barrier to data sharing is $$$$ - it must be so much more expensive per participant so makes sense to me that some would hesitate to share openly ",
+        "user": "U01ABLH7DPY",
+        "ts": "1603086749.023700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pxsgn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I really don’t know much about neuroimaging but I imagine that another barrier to data sharing is $$$$ - it must be so much more expensive per participant so makes sense to me that some would hesitate to share openly "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602885089.009800",
+        "parent_user_id": "U01AA7U2ECA"
+    }
+]

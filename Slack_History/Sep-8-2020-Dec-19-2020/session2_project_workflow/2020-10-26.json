@@ -1,0 +1,280 @@
+[
+    {
+        "client_msg_id": "962a0431-927c-4cd7-b35f-2bb1eb240886",
+        "type": "message",
+        "text": "This probably overlaps somewhat with what people already wrote, but one of the things that was mentioned briefly and I think could be very helpful is figuring out how to integrate the different tools you’re using to keep track of your projects, make the whole process of keeping track less time-consuming\/more consistent :slightly_smiling_face:",
+        "user": "U01AA7U2ECA",
+        "ts": "1603730747.026600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qBL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This probably overlaps somewhat with what people already wrote, but one of the things that was mentioned briefly and I think could be very helpful is figuring out how to integrate the different tools you’re using to keep track of your projects, make the whole process of keeping track less time-consuming\/more consistent "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603668018.020600",
+        "parent_user_id": "U01AADVMMJ7",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U01AADVMMJ7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6DF83ADE-52EF-4261-B304-097DA5DC2510",
+        "type": "message",
+        "text": "GitHub actually has a lot of nice features for this if you want to keep everything in one place. Issues are the big one, as you can use them for notes, to-dos, milestone tracking, and tracking issues or features, etc. Especially since you can close different issues by adding “Fixes #X” to your commit messages, thus linking changes to code\/files to your action items.\n\n\nThere are also Kanban style (like Trello) project boards under the Projects tab. And then if you don’t like some of GitHub’s native offerings, you can integrate it with Slack, Trello, or other project management apps (and I believe those can interact with GitHub Issues in some ways).",
+        "user": "U01AA7U4UHY",
+        "ts": "1603732496.034800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G63o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "GitHub actually has a lot of nice features for this if you want to keep everything in one place. Issues are the big one, as you can use them for notes, to-dos, milestone tracking, and tracking issues or features, etc. Especially since you can close different issues by adding “Fixes #X” to your commit messages, thus linking changes to code\/files to your action items.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "There are also Kanban style (like Trello) project boards under the Projects tab. And then if you don’t like some of GitHub’s native offerings, you can integrate it with Slack, Trello, or other project management apps (and I believe those can interact with GitHub Issues in some ways)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603668018.020600",
+        "parent_user_id": "U01AADVMMJ7",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U01AADVMMJ7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B225A484-BB53-4110-A232-3ECE1AF7E8E7",
+        "type": "message",
+        "text": "Another thing to improve your life: If anyone is using Zotero and has hit the 500mb syncing limit on their free account, and would like more space without paying for it, you can use WebDAV (it’s a syncing protocol) with certain cloud storage providers. I use pcloud for my WebDAV syncing and get 10Gb of free storage with it. It works seamlessly; the only catch is you can’t use those WebDAV for a group Zotero library.\n\n<https:\/\/www.zotero.org\/support\/sync|https:\/\/www.zotero.org\/support\/sync>",
+        "user": "U01AA7U4UHY",
+        "ts": "1603733072.039400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "     sync    [Zotero Documentation]   ",
+                "title_link": "https:\/\/www.zotero.org\/support\/sync",
+                "text": "Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research.",
+                "fallback": "     sync    [Zotero Documentation]   ",
+                "from_url": "https:\/\/www.zotero.org\/support\/sync",
+                "service_icon": "https:\/\/www.zotero.org\/favicon.ico",
+                "service_name": "zotero.org",
+                "id": 1,
+                "original_url": "https:\/\/www.zotero.org\/support\/sync"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JjE8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Another thing to improve your life: If anyone is using Zotero and has hit the 500mb syncing limit on their free account, and would like more space without paying for it, you can use WebDAV (it’s a syncing protocol) with certain cloud storage providers. I use pcloud for my WebDAV syncing and get 10Gb of free storage with it. It works seamlessly; the only catch is you can’t use those WebDAV for a group Zotero library.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.zotero.org\/support\/sync",
+                                "text": "https:\/\/www.zotero.org\/support\/sync"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603733072.039400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1603737521.043400",
+        "reply_users": [
+            "U01ABLH7DPY",
+            "U01AA7U4UHY"
+        ],
+        "replies": [
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1603737277.040000"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1603737521.043400"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "62575BB0-B0D1-4FDA-A743-78614401311C",
+        "type": "message",
+        "text": "Thanks Michael. This is so helpful since I just ran into this issue this weekend! ",
+        "user": "U01ABLH7DPY",
+        "ts": "1603737277.040000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uHoe2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Michael. This is so helpful since I just ran into this issue this weekend! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603733072.039400",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "CE03B494-8F4C-4025-AD21-B7572E943408",
+        "type": "message",
+        "text": "You’re welcome! If you opt to use pcloud and use their european server, the URL string you put into zotero is: <ewebdav.pcloud.com:443|ewebdav.pcloud.com:443> (I think it’s different if you use their american server).",
+        "user": "U01AA7U4UHY",
+        "ts": "1603737521.043400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OTWR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You’re welcome! If you opt to use pcloud and use their european server, the URL string you put into zotero is: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "ewebdav.pcloud.com:443",
+                                "text": "ewebdav.pcloud.com:443"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (I think it’s different if you use their american server)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603733072.039400",
+        "parent_user_id": "U01AA7U4UHY"
+    }
+]

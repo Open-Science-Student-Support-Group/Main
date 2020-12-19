@@ -1,0 +1,159 @@
+[
+    {
+        "client_msg_id": "656016d3-8271-4f32-97a2-b6d2c1526bfe",
+        "type": "message",
+        "text": "Hi everyone, thank you for attending the open-data and ethics session Friday! After attending the session, what is something you wish was discussed more in the presentation or during discussions?",
+        "user": "U01AADVMMJ7",
+        "ts": "1605035098.048000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "bc87ba7ccce1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-25\/1445402318902_bc87ba7ccce142957a62_72.png",
+            "first_name": "Jassleen",
+            "real_name": "Jassleen Parmar",
+            "display_name": "Jassleen Parmar",
+            "team": "T01A754ECJZ",
+            "name": "jassleen.parmar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IFT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone, thank you for attending the open-data and ethics session Friday! After attending the session, what is something you wish was discussed more in the presentation or during discussions?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605035098.048000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1605113913.051200",
+        "reply_users": [
+            "U01AA7U2ECA",
+            "U01AA7U4UHY"
+        ],
+        "replies": [
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1605064870.048300"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1605113913.051200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "469ce01f-0a56-47e8-b23b-cd37500b8ae0",
+        "type": "message",
+        "text": "I view the consent process as all or nothing - the participant either consents to all the terms or they don't. You are right, Lorraine, there is a risk is that some participants may choose not to participate when part of the consent process is consenting to having their data posted. The participant would have to make the decision for themselves whether they accept the risk of being identified. Regardless, there should be provisions in place set by the researcher (which is also stated in the consent form) to minimize the risk of identifying any one participant, such as removing key variables (like age) that may identify any given participant in the sample. Or, a commitment to aggregate or transform certain variables to minimize risk of identifying outliers (e.g., age variable only indicates membership in one of three age categories). As Michael pointed out, this might limit reproducibility if it is a key variable in your analysis that must be removed but perhaps that is an acceptable concession if most analyses can be reproduced using the other variables. I also like Gwen's idea, I haven't seen that in a consent form yet. I wonder how much explanation there would have to be to convey these different situations to someone who is not familiar with research.",
+        "user": "U01ABLH7DPY",
+        "ts": "1605038979.048100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vUD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I view the consent process as all or nothing - the participant either consents to all the terms or they don't. You are right, Lorraine, there is a risk is that some participants may choose not to participate when part of the consent process is consenting to having their data posted. The participant would have to make the decision for themselves whether they accept the risk of being identified. Regardless, there should be provisions in place set by the researcher (which is also stated in the consent form) to minimize the risk of identifying any one participant, such as removing key variables (like age) that may identify any given participant in the sample. Or, a commitment to aggregate or transform certain variables to minimize risk of identifying outliers (e.g., age variable only indicates membership in one of three age categories). As Michael pointed out, this might limit reproducibility if it is a key variable in your analysis that must be removed but perhaps that is an acceptable concession if most analyses can be reproduced using the other variables. I also like Gwen's idea, I haven't seen that in a consent form yet. I wonder how much explanation there would have to be to convey these different situations to someone who is not familiar with research."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604938649.024500",
+        "parent_user_id": "U01BMFWRAG1"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Hmm, I think we covered quite a lot of aspects, but I am still curious what others think about publicly shared data and how it is used: in what situations could you imagine going over someone else’s analysis using their data? What are the boundaries (if any) of what you would feel comfortable with others using your data for?",
+        "user": "U01AA7U2ECA",
+        "ts": "1605064870.048300",
+        "thread_ts": "1605035098.048000",
+        "root": {
+            "client_msg_id": "656016d3-8271-4f32-97a2-b6d2c1526bfe",
+            "type": "message",
+            "text": "Hi everyone, thank you for attending the open-data and ethics session Friday! After attending the session, what is something you wish was discussed more in the presentation or during discussions?",
+            "user": "U01AADVMMJ7",
+            "ts": "1605035098.048000",
+            "team": "T01A754ECJZ",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "IFT",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hi everyone, thank you for attending the open-data and ethics session Friday! After attending the session, what is something you wish was discussed more in the presentation or during discussions?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1605035098.048000",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1605113913.051200",
+            "reply_users": [
+                "U01AA7U2ECA",
+                "U01AA7U4UHY"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xjp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hmm, I think we covered quite a lot of aspects, but I am still curious what others think about publicly shared data and how it is used: in what situations could you imagine going over someone else’s analysis using their data? What are the boundaries (if any) of what you would feel comfortable with others using your data for?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2d458b16-5730-4a4e-9b13-01f0f69d2bd6"
+    }
+]

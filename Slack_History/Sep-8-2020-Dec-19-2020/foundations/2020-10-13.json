@@ -1,0 +1,59 @@
+[
+    {
+        "type": "message",
+        "text": "I adjusted the powerpoint template a bit based on the things I ran into while making my own presentation, let me know what you think! I also added a copyright to it that allows anyone to use it, as long as they attribute ‘us’. I didn’t define who ‘us’ is yet though, maybe it can be Jassleen Parmar & the OSSSG, as Jassleen did most of the heavy lifting, but then we’ll likely keep updating it as we go so it’s also a group effort?",
+        "files": [
+            {
+                "id": "F01C422SXQF",
+                "created": 1602646264,
+                "timestamp": 1602646264,
+                "name": "OSSSG Powerpoint Template.pptx",
+                "title": "OSSSG Powerpoint Template.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "U01AA7U2ECA",
+                "editable": false,
+                "size": 477761,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01C422SXQF\/osssg_powerpoint_template.pptx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01C422SXQF\/download\/osssg_powerpoint_template.pptx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C422SXQF-6573f0476a\/osssg_powerpoint_template_converted.pdf?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C422SXQF-6573f0476a\/osssg_powerpoint_template_thumb_pdf.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01AA7U2ECA\/F01C422SXQF\/osssg_powerpoint_template.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01C422SXQF-597e3e950f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g\/B1T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I adjusted the powerpoint template a bit based on the things I ran into while making my own presentation, let me know what you think! I also added a copyright to it that allows anyone to use it, as long as they attribute ‘us’. I didn’t define who ‘us’ is yet though, maybe it can be Jassleen Parmar & the OSSSG, as Jassleen did most of the heavy lifting, but then we’ll likely keep updating it as we go so it’s also a group effort?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01AA7U2ECA",
+        "display_as_bot": false,
+        "ts": "1602646625.004000"
+    }
+]

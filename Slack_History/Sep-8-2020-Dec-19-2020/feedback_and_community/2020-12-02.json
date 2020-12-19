@@ -1,0 +1,126 @@
+[
+    {
+        "client_msg_id": "922a0894-7f86-4e3b-8e21-544eda9f44d1",
+        "type": "message",
+        "text": "sounds good. i added the following open ended question. let me know if you think the wording should be tweaked: The OSSSG strives to organize sessions that allow space for diverse voices, identities and conversations. Please share below how you think we can do to better incorporate equity, diversity and inclusion.",
+        "user": "U01ABLH7DPY",
+        "ts": "1606943924.000300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01ABLH7DPY",
+            "ts": "1606943938.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pAUC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sounds good. i added the following open ended question. let me know if you think the wording should be tweaked: The OSSSG strives to organize sessions that allow space for diverse voices, identities and conversations. Please share below how you think we can do to better incorporate equity, diversity and inclusion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606339630.002300",
+        "parent_user_id": "U01ABLH7DPY"
+    },
+    {
+        "client_msg_id": "06813acd-1750-41b2-a524-80cb28b42028",
+        "type": "message",
+        "text": "Thanks Chelsea! I think that sounds good, I would just tweak it so that it is not only about the sessions, but also about slack and everything else, maybe: \"The OSSSG strives to create space for diverse voices, identities and conversations. Please share below what you think we can do to better incorporate equity, diversity and inclusion, in our group sessions, Slack or elsewhere\"?",
+        "user": "U01AA7U2ECA",
+        "ts": "1606951229.000600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xOjLO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Chelsea! I think that sounds good, I would just tweak it so that it is not only about the sessions, but also about slack and everything else, maybe: \"The OSSSG strives to create space for diverse voices, identities and conversations. Please share below what you think we can do to better incorporate equity, diversity and inclusion, in our group sessions, Slack or elsewhere\"?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606339630.002300",
+        "parent_user_id": "U01ABLH7DPY"
+    },
+    {
+        "client_msg_id": "C91CB411-8B59-4797-A511-0DF9EBC780C2",
+        "type": "message",
+        "text": "Good catch Gwen! That sounds great ",
+        "user": "U01ABLH7DPY",
+        "ts": "1606951448.001000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9=Q\/Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good catch Gwen! That sounds great "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606339630.002300",
+        "parent_user_id": "U01ABLH7DPY"
+    }
+]

@@ -1,0 +1,1047 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01CSBG2Q1Y",
+                "created": 1602872681,
+                "timestamp": 1602872681,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01AGDAUB1S",
+                "editable": false,
+                "size": 1530250,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01CSBG2Q1Y\/image.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01CSBG2Q1Y\/download\/image.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CSBG2Q1Y-311a6ba639\/image_64.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CSBG2Q1Y-311a6ba639\/image_80.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CSBG2Q1Y-311a6ba639\/image_360.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360_w": 354,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CSBG2Q1Y-311a6ba639\/image_480.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_480_w": 472,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CSBG2Q1Y-311a6ba639\/image_160.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CSBG2Q1Y-311a6ba639\/image_720.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720_w": 708,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CSBG2Q1Y-311a6ba639\/image_800.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_800_w": 800,
+                "thumb_800_h": 814,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CSBG2Q1Y-311a6ba639\/image_960.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_960_w": 944,
+                "thumb_960_h": 960,
+                "original_w": 944,
+                "original_h": 960,
+                "thumb_tiny": "AwAwAC\/SYkdAT9KTcf7jfpVJbiU\/x\/pUDXk4ZsScD2FXyMDU3H+436Um8\/3G\/Sq0MspHLF\/fAqvc3NxFKQsnynkcCpsFjS3H+436U4HI6EfWspLycsMv+gqU3EuT8\/6VXs2BEv8ASq7HluO9WUKjPU\/hURVcnr+VauSJuia3kVsHnd0IBqG8BEoGOMDFPikiibhWLY5wM0TSRy4+Vg46571lpcq+hDGfmXirDfe\/CohsBB54pxkQnPzflWqkiboXb6UEH0qbY39xvypfLb+4azIsV4xguFB601oFJLBjx\/nrVoxN\/cNJ5bY+4aBlQrigCrBgbH3GpDA\/ZG\/KgD\/\/2Q==",
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01AGDAUB1S\/F01CSBG2Q1Y\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01CSBG2Q1Y-d66c0c4a58",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01AGDAUB1S",
+        "display_as_bot": false,
+        "ts": "1602872696.019400",
+        "thread_ts": "1602710939.006900",
+        "parent_user_id": "U01AKC8FU2H"
+    },
+    {
+        "type": "message",
+        "text": "<@U01AKC8FU2H> how’s the weather in your tropical paradise?",
+        "files": [
+            {
+                "id": "F01CT6HQB3M",
+                "created": 1602896435,
+                "timestamp": 1602896435,
+                "name": "File from iOS.MOV",
+                "title": "File from iOS",
+                "mimetype": "video\/quicktime",
+                "filetype": "mov",
+                "pretty_type": "QuickTime Movie",
+                "user": "U01ANS83U3T",
+                "editable": false,
+                "size": 16574515,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01CT6HQB3M\/file_from_ios.mov?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01CT6HQB3M\/download\/file_from_ios.mov?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CT6HQB3M-63f6c82671\/file_from_ios_thumb_video.jpeg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01ANS83U3T\/F01CT6HQB3M\/file_from_ios.mov",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01CT6HQB3M-36bb4c4126",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ckCB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01AKC8FU2H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " how’s the weather in your tropical paradise?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01ANS83U3T",
+        "display_as_bot": false,
+        "ts": "1602896486.020300",
+        "client_msg_id": "0630715D-771C-47B6-A5B3-269FB0BE0114"
+    },
+    {
+        "type": "message",
+        "text": "Messy from the rain last night and down to a crisp 61 this evening",
+        "files": [
+            {
+                "id": "F01CT6LJXFD",
+                "created": 1602896653,
+                "timestamp": 1602896653,
+                "name": "File from iOS.MOV",
+                "title": "File from iOS",
+                "mimetype": "video\/quicktime",
+                "filetype": "mov",
+                "pretty_type": "QuickTime Movie",
+                "user": "U01AKC8FU2H",
+                "editable": false,
+                "size": 6258866,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01CT6LJXFD\/file_from_ios.mov?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01CT6LJXFD\/download\/file_from_ios.mov?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CT6LJXFD-23f628d6cc\/file_from_ios_thumb_video.jpeg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01AKC8FU2H\/F01CT6LJXFD\/file_from_ios.mov",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01CT6LJXFD-107eb546bb",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AB=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Messy from the rain last night and down to a crisp 61 this evening"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01AKC8FU2H",
+        "display_as_bot": false,
+        "ts": "1602896695.021200",
+        "client_msg_id": "1601D755-DDAE-4E28-A8CB-1C18A192B422"
+    },
+    {
+        "client_msg_id": "176D07D4-32CE-4860-95B7-9B89E0DDBB39",
+        "type": "message",
+        "text": "I’ll trade you my snow for your pool",
+        "user": "U01ANS83U3T",
+        "ts": "1602897034.021800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FlDn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ll trade you my snow for your pool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "CED604C1-111C-4EF5-BBC8-C2B98DC1AB39",
+        "type": "message",
+        "text": "Throw in a jar of Canadian cheez whiz. Deal",
+        "user": "U01AKC8FU2H",
+        "ts": "1602897061.022500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "gb75aefd51e8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b75aefd51e80302aeb6fca694c22d0d1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Kaylee MacLean",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "kayleekooam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Berz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Throw in a jar of Canadian cheez whiz. Deal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602897061.022500",
+        "reply_count": 8,
+        "reply_users_count": 2,
+        "latest_reply": "1602898010.032500",
+        "reply_users": [
+            "U01ANS83U3T",
+            "U01AKC8FU2H"
+        ],
+        "replies": [
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1602897387.025700"
+            },
+            {
+                "user": "U01AKC8FU2H",
+                "ts": "1602897429.026200"
+            },
+            {
+                "user": "U01AKC8FU2H",
+                "ts": "1602897453.027100"
+            },
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1602897491.027900"
+            },
+            {
+                "user": "U01AKC8FU2H",
+                "ts": "1602897565.028900"
+            },
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1602897664.030700"
+            },
+            {
+                "user": "U01AKC8FU2H",
+                "ts": "1602897715.031700"
+            },
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1602898010.032500"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2530D3E7-5F2F-4A1D-88D4-47599117CBFD",
+        "type": "message",
+        "text": "Start a thread you two, you’re blowing up my notifications :sob:",
+        "user": "U01AA7U4UHY",
+        "ts": "1602897157.023300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t6a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Start a thread you two, you’re blowing up my notifications "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5684627F-C80E-40AB-B06A-191C58853EE1",
+        "type": "message",
+        "text": "Sick I’ll have my snow lawyer contact your pool lawyer to work out the deal. I’ll add a Kinder Surprise if you mail me a can of 4Loko",
+        "user": "U01ANS83U3T",
+        "ts": "1602897387.025700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w4DE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sick I’ll have my snow lawyer contact your pool lawyer to work out the deal. I’ll add a Kinder Surprise if you mail me a can of 4Loko"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602897061.022500",
+        "parent_user_id": "U01AKC8FU2H"
+    },
+    {
+        "client_msg_id": "97375A47-C4B0-497A-8B7B-A9F6197083DB",
+        "type": "message",
+        "text": "You don’t have 4Loko?",
+        "user": "U01AKC8FU2H",
+        "ts": "1602897429.026200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "gb75aefd51e8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b75aefd51e80302aeb6fca694c22d0d1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Kaylee MacLean",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "kayleekooam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SwzkU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You don’t have 4Loko?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602897061.022500",
+        "parent_user_id": "U01AKC8FU2H"
+    },
+    {
+        "client_msg_id": "22FF00A5-303F-47E9-835F-F635C71B538E",
+        "type": "message",
+        "text": "Idek why we have 4Loko. We don’t have the healthcare to support the consequences",
+        "user": "U01AKC8FU2H",
+        "ts": "1602897453.027100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "gb75aefd51e8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b75aefd51e80302aeb6fca694c22d0d1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Kaylee MacLean",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "kayleekooam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QL5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Idek why we have 4Loko. We don’t have the healthcare to support the consequences"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602897061.022500",
+        "parent_user_id": "U01AKC8FU2H"
+    },
+    {
+        "client_msg_id": "7BE9FBD8-BF0B-40B9-9C1D-C3F478627E09",
+        "type": "message",
+        "text": "I’m pretty sure the federal government will charge you with a human rights violation for selling that here",
+        "user": "U01ANS83U3T",
+        "ts": "1602897491.027900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KIC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m pretty sure the federal government will charge you with a human rights violation for selling that here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602897061.022500",
+        "parent_user_id": "U01AKC8FU2H"
+    },
+    {
+        "client_msg_id": "7987BB8B-5B1A-4A47-A357-D4D20D8F55E4",
+        "type": "message",
+        "text": "The federal government will charge me with a human rights violation for going there",
+        "user": "U01AKC8FU2H",
+        "ts": "1602897565.028900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "gb75aefd51e8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b75aefd51e80302aeb6fca694c22d0d1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Kaylee MacLean",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "kayleekooam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z6qWq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The federal government will charge me with a human rights violation for going there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602897061.022500",
+        "parent_user_id": "U01AKC8FU2H"
+    },
+    {
+        "client_msg_id": "065DBCFB-95E5-4DCA-8CB7-70BF437FAD63",
+        "type": "message",
+        "text": "Lmao no a Mountie on moose-back will pull you over and ask you to turn around if you feel like it, but also let you know that you can do you and just ignore him",
+        "user": "U01ANS83U3T",
+        "ts": "1602897664.030700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FbBO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lmao no a Mountie on moose-back will pull you over and ask you to turn around if you feel like it, but also let you know that you can do you and just ignore him"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602897061.022500",
+        "parent_user_id": "U01AKC8FU2H"
+    },
+    {
+        "type": "message",
+        "text": "These are foreign raviolis",
+        "files": [
+            {
+                "id": "F01DGRLULLQ",
+                "created": 1602897670,
+                "timestamp": 1602897670,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01AKC8FU2H",
+                "editable": false,
+                "size": 566656,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01DGRLULLQ\/image_from_ios.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01DGRLULLQ\/download\/image_from_ios.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01DGRLULLQ-23d6ba8f42\/image_from_ios_64.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01DGRLULLQ-23d6ba8f42\/image_from_ios_80.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01DGRLULLQ-23d6ba8f42\/image_from_ios_360.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01DGRLULLQ-23d6ba8f42\/image_from_ios_480.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01DGRLULLQ-23d6ba8f42\/image_from_ios_160.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01DGRLULLQ-23d6ba8f42\/image_from_ios_720.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01DGRLULLQ-23d6ba8f42\/image_from_ios_800.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01DGRLULLQ-23d6ba8f42\/image_from_ios_960.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01DGRLULLQ-23d6ba8f42\/image_from_ios_1024.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACQulBiZs9qzTV+UjYwb05qoUU9CfxFJDZHSqcGnCIsQFIJNKYZFOCtMRoQTqsQBI\/E1J9oT1X86y\/Lc9FP5UeVJ\/cP5UBYuTRM4wCMd6hEDbhnp61bYhRzUe7cPr0qUU0PhjwwkIyAOD6VMxURlwM8VESCAq7STxnrgURKTIwJyB1AoGyk24NzkU3J9T+davkxnqi\/lS+TH\/wA81\/KnckpNlmCDjPWlHzSAKfu81Hk5p0coVvnBBY9fakVYWV8SkrncBgVNFJsGHU7u+KrcF9wbIB4q2GDj3oESC5ix1I\/Cl+0xep\/KoBEG5JH4il8keq\/lQB\/\/2Q==",
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01AKC8FU2H\/F01DGRLULLQ\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01DGRLULLQ-167be0432b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eia",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "These are foreign raviolis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01AKC8FU2H",
+        "display_as_bot": false,
+        "ts": "1602897674.030900",
+        "edited": {
+            "user": "U01AKC8FU2H",
+            "ts": "1602897758.000000"
+        },
+        "client_msg_id": "CE5F7DB6-3D4F-4ADA-ACE7-2C5B5D3EEBF9",
+        "thread_ts": "1602779845.013900",
+        "parent_user_id": "U01AKC8FU2H",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01ANS83U3T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "18A5289C-E9A1-4F05-B958-593758A420B7",
+        "type": "message",
+        "text": "If I go to the Atlantic bubble it’s on sight though",
+        "user": "U01AKC8FU2H",
+        "ts": "1602897715.031700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "gb75aefd51e8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b75aefd51e80302aeb6fca694c22d0d1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Kaylee MacLean",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "kayleekooam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+IA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If I go to the Atlantic bubble it’s on sight though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602897061.022500",
+        "parent_user_id": "U01AKC8FU2H"
+    },
+    {
+        "client_msg_id": "0282C218-4FFC-44C8-9E15-F9D0B7CF3307",
+        "type": "message",
+        "text": "You can always just burst that bubble",
+        "user": "U01ANS83U3T",
+        "ts": "1602898010.032500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tz85Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can always just burst that bubble"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602897061.022500",
+        "parent_user_id": "U01AKC8FU2H"
+    },
+    {
+        "client_msg_id": "A9E2B04B-F68F-4322-AE07-A08A2918953F",
+        "type": "message",
+        "text": "Are Kinder Surprises crunchy-chokey foreign ravioli?",
+        "user": "U01ANS83U3T",
+        "ts": "1602898153.033800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H3rq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are Kinder Surprises crunchy-chokey foreign ravioli?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602779845.013900",
+        "parent_user_id": "U01AKC8FU2H"
+    },
+    {
+        "client_msg_id": "94B42ABC-0DF4-476F-9FDF-12CD9FE49485",
+        "type": "message",
+        "text": "Yes. We actually have them here but it’s two halves of a plastic egg, both sides sealed off. The toy in one half and the other half is like a ganache with a truffle. Not the same experience but the chocolate tastes better",
+        "user": "U01AKC8FU2H",
+        "ts": "1602898231.035500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "gb75aefd51e8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b75aefd51e80302aeb6fca694c22d0d1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Kaylee MacLean",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "kayleekooam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8\/Eg=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes. We actually have them here but it’s two halves of a plastic egg, both sides sealed off. The toy in one half and the other half is like a ganache with a truffle. Not the same experience but the chocolate tastes better"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602779845.013900",
+        "parent_user_id": "U01AKC8FU2H"
+    },
+    {
+        "client_msg_id": "CFDD8D68-7E9B-4532-992F-78C7A4169F80",
+        "type": "message",
+        "text": "What food would that be? Babushka doll?",
+        "user": "U01ANS83U3T",
+        "ts": "1602898358.036200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VHUo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What food would that be? Babushka doll?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602779845.013900",
+        "parent_user_id": "U01AKC8FU2H"
+    },
+    {
+        "client_msg_id": "E0B7DCBD-EF23-4C42-9B32-53EC62D032AA",
+        "type": "message",
+        "text": "Siamese twin ravioli",
+        "user": "U01AKC8FU2H",
+        "ts": "1602898385.036700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "gb75aefd51e8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b75aefd51e80302aeb6fca694c22d0d1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Kaylee MacLean",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "kayleekooam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "clnQu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Siamese twin ravioli"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602779845.013900",
+        "parent_user_id": "U01AKC8FU2H",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01ANS83U3T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FA9ED37B-0614-4AD0-95BF-39724D88BE15",
+        "type": "message",
+        "text": "I feel like that’s also an analogy for mitosis",
+        "user": "U01ANS83U3T",
+        "ts": "1602898810.037300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3isM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I feel like that’s also an analogy for mitosis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602779845.013900",
+        "parent_user_id": "U01AKC8FU2H"
+    },
+    {
+        "client_msg_id": "8E50C62A-42A4-424C-A453-774B3881DDC9",
+        "type": "message",
+        "text": "Our cells and bones are raviolis, our blood is soup. As a whole, we are sandwiches (commonly misinterpreted as raviolis)",
+        "user": "U01AKC8FU2H",
+        "ts": "1602898964.038800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "gb75aefd51e8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b75aefd51e80302aeb6fca694c22d0d1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Kaylee MacLean",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "kayleekooam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uMM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Our cells and bones are raviolis, our blood is soup. As a whole, we are sandwiches (commonly misinterpreted as raviolis)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602779845.013900",
+        "parent_user_id": "U01AKC8FU2H"
+    },
+    {
+        "client_msg_id": "69365D34-9AE6-4892-B337-D6EB7C99CBDC",
+        "type": "message",
+        "text": "Can I use that as lyrics in a heavy metal song?",
+        "user": "U01ANS83U3T",
+        "ts": "1602899062.039500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C0oAX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can I use that as lyrics in a heavy metal song?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602779845.013900",
+        "parent_user_id": "U01AKC8FU2H",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01AKC8FU2H"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "0147D906-E6F2-4A33-9FB4-AAE73F7FB3C3",
+        "type": "message",
+        "text": "<https:\/\/vm.tiktok.com\/ZMJu6h4e2\/|https:\/\/vm.tiktok.com\/ZMJu6h4e2\/>\nEvidence that a burrito is not a sandwich",
+        "user": "U01AKC8FU2H",
+        "ts": "1604263795.047400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "gb75aefd51e8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b75aefd51e80302aeb6fca694c22d0d1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Kaylee MacLean",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "kayleekooam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "TikTok",
+                "title": "Kenzie Lutece on TikTok",
+                "title_link": "https:\/\/vm.tiktok.com\/ZMJu6h4e2\/",
+                "text": "Is a burrito a sandwhich? White City Shopping Ctr v. PR Rest #lawyer #lawtok #tiktoklawyer #sandwich #burrito #attorney #fyp #foruoupage",
+                "fallback": "TikTok: Kenzie Lutece on TikTok",
+                "from_url": "https:\/\/vm.tiktok.com\/ZMJu6h4e2\/",
+                "service_icon": "https:\/\/m.tiktok.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/vm.tiktok.com\/ZMJu6h4e2\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=2lOu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/vm.tiktok.com\/ZMJu6h4e2\/",
+                                "text": "https:\/\/vm.tiktok.com\/ZMJu6h4e2\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nEvidence that a burrito is not a sandwich"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602779845.013900",
+        "parent_user_id": "U01AKC8FU2H",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01ANS83U3T"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

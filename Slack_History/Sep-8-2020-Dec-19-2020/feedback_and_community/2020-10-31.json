@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "8dc5fd18-7746-4f2d-9086-06a2e4d48384",
+        "type": "message",
+        "text": "No pressure, but do we still want to do the social check-in?",
+        "user": "U01AA7U2ECA",
+        "ts": "1604197498.000200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uk4Mp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No pressure, but do we still want to do the social check-in?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603854490.001300",
+        "parent_user_id": "U01AADVMMJ7"
+    },
+    {
+        "client_msg_id": "82eb8d1f-1b93-4ea4-8aa0-eeafbd4b828d",
+        "type": "message",
+        "text": "<@U01ABLH7DPY>, I’m curious, have people filled in the survey?",
+        "user": "U01AA7U2ECA",
+        "ts": "1604197516.000700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mws=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01ABLH7DPY"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I’m curious, have people filled in the survey?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604197516.000700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1604334860.003400",
+        "reply_users": [
+            "U01ABLH7DPY",
+            "U01AA7U2ECA"
+        ],
+        "replies": [
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1604262191.003000"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1604334860.003400"
+            }
+        ],
+        "subscribed": false
+    }
+]

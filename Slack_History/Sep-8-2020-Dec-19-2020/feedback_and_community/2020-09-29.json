@@ -1,0 +1,48 @@
+[
+    {
+        "client_msg_id": "11b97e29-bd58-4801-9b5a-0fda12624f71",
+        "type": "message",
+        "text": "Thanks Chelsea! For the introductions we were just thinking it’d be great to get everyone on the members channel (I think I can do that as an admin) and then initiate a round of people introducing themselves, perhaps adding some fun fact\/more personal spin than just names\/lab\/research interests (but we didn’t have much inspiration yesterday.. :sweat_smile:). So it would basically just entail writing a welcome message inviting everyone to introduce themselves and then starting it off (we’ll all follow suit as well :))",
+        "user": "U01AA7U2ECA",
+        "ts": "1601390838.002700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qQKMM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Chelsea! For the introductions we were just thinking it’d be great to get everyone on the members channel (I think I can do that as an admin) and then initiate a round of people introducing themselves, perhaps adding some fun fact\/more personal spin than just names\/lab\/research interests (but we didn’t have much inspiration yesterday.. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "). So it would basically just entail writing a welcome message inviting everyone to introduce themselves and then starting it off (we’ll all follow suit as well :))"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

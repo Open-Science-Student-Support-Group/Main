@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "2DF73631-3BFF-425B-8149-7C2BEC247285",
+        "type": "message",
+        "text": "Hey! Can we do Tuesday at 4:30?",
+        "user": "U01ABLH7DPY",
+        "ts": "1601876832.035500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4oI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey! Can we do Tuesday at 4:30?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

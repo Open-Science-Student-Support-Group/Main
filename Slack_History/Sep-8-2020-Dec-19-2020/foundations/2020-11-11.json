@@ -1,0 +1,241 @@
+[
+    {
+        "client_msg_id": "749dd0da-252f-4038-b38f-9c36488f5a18",
+        "type": "message",
+        "text": "Sounds great, thanks so much for your work on this!",
+        "user": "U01AA7U2ECA",
+        "ts": "1605109224.007400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PMQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds great, thanks so much for your work on this!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605060624.004600",
+        "parent_user_id": "U01AADVMMJ7"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Okay, it's updated again if anyone wanted to see it.",
+        "user": "U01AADVMMJ7",
+        "ts": "1605124680.007600",
+        "thread_ts": "1605060624.004600",
+        "root": {
+            "client_msg_id": "4cccad8e-9601-4679-b7bd-7ddb0089cd1e",
+            "type": "message",
+            "text": "How about now? <https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSc8I0v4nfn3w1MiHxcgkVTz5JM-uG_Yox1EATXJVQVJbxYhgw\/viewform?usp=sf_link>",
+            "user": "U01AADVMMJ7",
+            "ts": "1605060624.004600",
+            "team": "T01A754ECJZ",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ClPZ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "How about now? "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSc8I0v4nfn3w1MiHxcgkVTz5JM-uG_Yox1EATXJVQVJbxYhgw\/viewform?usp=sf_link"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1605060624.004600",
+            "reply_count": 17,
+            "reply_users_count": 3,
+            "latest_reply": "1605140122.008400",
+            "reply_users": [
+                "U01ANS2G30R",
+                "U01AADVMMJ7",
+                "U01AA7U2ECA"
+            ],
+            "subscribed": true,
+            "last_read": "1605140122.008400"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SC2=G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay, it's updated again if anyone wanted to see it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1d7c4ac4-876d-43cd-b5c6-a6ca3d791a11"
+    },
+    {
+        "client_msg_id": "ba1abd36-7e8d-4ca7-a0a6-2a4a681ae5fc",
+        "type": "message",
+        "text": "I just took a quick look, but it looks great!",
+        "user": "U01ANS2G30R",
+        "ts": "1605124835.007900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4V+f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just took a quick look, but it looks great!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605060624.004600",
+        "parent_user_id": "U01AADVMMJ7",
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U01AADVMMJ7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fa142a9a-c0dd-4183-977a-c7f20ce41292",
+        "type": "message",
+        "text": "Looks good to me too! I think it’s ready to send out, and I can bring it up during the meeting on Friday as well :slightly_smiling_face:",
+        "user": "U01AA7U2ECA",
+        "ts": "1605139984.008200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lgwj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks good to me too! I think it’s ready to send out, and I can bring it up during the meeting on Friday as well "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605060624.004600",
+        "parent_user_id": "U01AADVMMJ7"
+    },
+    {
+        "client_msg_id": "228e896f-55ee-44d9-a4b8-e490cc252330",
+        "type": "message",
+        "text": "Perfect, thank you for the feedback. I'll link it in the thread and then I'm sure the reminder tomorrow will help as well.",
+        "user": "U01AADVMMJ7",
+        "ts": "1605140122.008400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "bc87ba7ccce1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-25\/1445402318902_bc87ba7ccce142957a62_72.png",
+            "first_name": "Jassleen",
+            "real_name": "Jassleen Parmar",
+            "display_name": "Jassleen Parmar",
+            "team": "T01A754ECJZ",
+            "name": "jassleen.parmar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O9PzF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Perfect, thank you for the feedback. I'll link it in the thread and then I'm sure the reminder tomorrow will help as well."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605060624.004600",
+        "parent_user_id": "U01AADVMMJ7"
+    }
+]

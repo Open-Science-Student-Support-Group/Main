@@ -1,0 +1,413 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1603323510.000200",
+        "user": "U01DSNJBQAC",
+        "text": "<@U01DSNJBQAC> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1603323511.000400",
+        "user": "U01AA7U4UHY",
+        "text": "<@U01AA7U4UHY> has joined the channel",
+        "inviter": "U01DSNJBQAC"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1603323512.000500",
+        "user": "U01DSNJBQAC",
+        "text": "<@U01DSNJBQAC> set the channel topic: Welcome to the Snack Club :cake::doughnut::chocolate_bar:!",
+        "topic": "Welcome to the Snack Club :cake::doughnut::chocolate_bar:!"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1603323512.000600",
+        "user": "U01DSNJBQAC",
+        "text": "<@U01DSNJBQAC> set the channel topic: Welcome to the Snack Club :cake::doughnut::chocolate_bar:!",
+        "topic": "Welcome to the Snack Club :cake::doughnut::chocolate_bar:!"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1603323513.000700",
+        "user": "U01DSNJBQAC",
+        "text": "<@U01DSNJBQAC> set the channel purpose: A place to have serendipitous conversations with your team.",
+        "purpose": "A place to have serendipitous conversations with your team."
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1603323513.000800",
+        "user": "U01DSNJBQAC",
+        "text": "<@U01DSNJBQAC> set the channel purpose: A place to have serendipitous conversations with your team.",
+        "purpose": "A place to have serendipitous conversations with your team."
+    },
+    {
+        "bot_id": "B01CZQK2X37",
+        "type": "message",
+        "text": "Welcome To The Snack Club!",
+        "user": "U01DSNJBQAC",
+        "ts": "1603323513.000900",
+        "team": "T01A754ECJZ",
+        "bot_profile": {
+            "id": "B01CZQK2X37",
+            "deleted": false,
+            "name": "Snack",
+            "updated": 1603323505,
+            "app_id": "A010GH02MCY",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029135366341_79bd8407939a8c2d1a6d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029135366341_79bd8407939a8c2d1a6d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029135366341_79bd8407939a8c2d1a6d_72.png"
+            },
+            "team_id": "T01A754ECJZ"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "ivS",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Welcome To The Snack Club <@U01AA7U4UHY>!* :cookie:\n\nI will guide you through your first Snack Time. :woman-raising-hand:\n\nTo start, you need at least 2 people in <#C01DSNJF29E|snack-club>.\n\n_Invite 1 more person to <#C01DSNJF29E|snack-club> to get started._",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "n2Af",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Snack onboarding message 1\/5.",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1603323565.001200",
+        "user": "U01ANS83U3T",
+        "text": "<@U01ANS83U3T> has joined the channel",
+        "inviter": "U01AA7U4UHY"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1603323565.001300",
+        "user": "U01ANS83U3T",
+        "text": "<@U01ANS83U3T> has joined the channel",
+        "inviter": "U01AA7U4UHY"
+    },
+    {
+        "bot_id": "B01CZQK2X37",
+        "type": "message",
+        "text": "Let's organize your first Snack Time! :cookie:",
+        "user": "U01DSNJBQAC",
+        "ts": "1603323566.001400",
+        "team": "T01A754ECJZ",
+        "bot_profile": {
+            "id": "B01CZQK2X37",
+            "deleted": false,
+            "name": "Snack",
+            "updated": 1603323505,
+            "app_id": "A010GH02MCY",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029135366341_79bd8407939a8c2d1a6d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029135366341_79bd8407939a8c2d1a6d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029135366341_79bd8407939a8c2d1a6d_72.png"
+            },
+            "team_id": "T01A754ECJZ"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "qYOFZ",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Hooray! We have enough people to test Snack!* 🥳\n\n_Click \"Snack Now!\" to organize your first <https:\/\/aboutsnack.com\/faq#question-what-are-snacks|Snack Time>._ :cookie:",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "actions",
+                "block_id": "FOjGN",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "start_snack_time",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Snack Now!",
+                            "emoji": true
+                        },
+                        "style": "primary",
+                        "value": "5070016"
+                    }
+                ]
+            },
+            {
+                "type": "context",
+                "block_id": "asN",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Snack onboarding message 2\/5.",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1603323579.001800",
+        "user": "U01AADVMMJ7",
+        "text": "<@U01AADVMMJ7> has joined the channel",
+        "inviter": "U01AA7U4UHY"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1603323579.001900",
+        "user": "U01AADVMMJ7",
+        "text": "<@U01AADVMMJ7> has joined the channel",
+        "inviter": "U01AA7U4UHY"
+    },
+    {
+        "bot_id": "B01CZQK2X37",
+        "type": "message",
+        "text": "There is an existing Snack Time event starting in 1 minute 55 seconds.",
+        "user": "U01DSNJBQAC",
+        "ts": "1603332020.002100",
+        "team": "T01A754ECJZ",
+        "bot_profile": {
+            "id": "B01CZQK2X37",
+            "deleted": false,
+            "name": "Snack",
+            "updated": 1603323505,
+            "app_id": "A010GH02MCY",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029135366341_79bd8407939a8c2d1a6d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029135366341_79bd8407939a8c2d1a6d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029135366341_79bd8407939a8c2d1a6d_72.png"
+            },
+            "team_id": "T01A754ECJZ"
+        },
+        "edited": {
+            "user": "B01CZQK2X37",
+            "ts": "1603332244.000000"
+        }
+    },
+    {
+        "bot_id": "B01CZQK2X37",
+        "type": "message",
+        "text": "Yay! You have organized a Snack Time!",
+        "user": "U01DSNJBQAC",
+        "ts": "1603332020.002300",
+        "team": "T01A754ECJZ",
+        "bot_profile": {
+            "id": "B01CZQK2X37",
+            "deleted": false,
+            "name": "Snack",
+            "updated": 1603323505,
+            "app_id": "A010GH02MCY",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029135366341_79bd8407939a8c2d1a6d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029135366341_79bd8407939a8c2d1a6d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029135366341_79bd8407939a8c2d1a6d_72.png"
+            },
+            "team_id": "T01A754ECJZ"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "mDia",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Yay! You have organized a Snack Time!* :confetti_ball:\n\nEvery Snack Time starts with an invitation sent to the channel.\n\nSnack Time invitation says how long until fun starts and how many people are participating.\n\n_Click \"Join\" to enter pairing._",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "o6U",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Snack onboarding message 3\/5. Attend Snack to proceed.",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B01CZQK2X37",
+        "type": "message",
+        "text": "Successful Snack Time! :apple:",
+        "user": "U01DSNJBQAC",
+        "ts": "1603332239.013700",
+        "team": "T01A754ECJZ",
+        "bot_profile": {
+            "id": "B01CZQK2X37",
+            "deleted": false,
+            "name": "Snack",
+            "updated": 1603323505,
+            "app_id": "A010GH02MCY",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029135366341_79bd8407939a8c2d1a6d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029135366341_79bd8407939a8c2d1a6d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029135366341_79bd8407939a8c2d1a6d_72.png"
+            },
+            "team_id": "T01A754ECJZ"
+        },
+        "edited": {
+            "user": "B01CZQK2X37",
+            "ts": "1603332359.000000"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "RlZU",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Successful Snack Time!* :apple:\n\n2 people are having a Snack. :yum:\n\nMissed it?",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "actions",
+                "block_id": "Aj5",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "start_snack_time",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Snack Now!",
+                            "emoji": true
+                        },
+                        "style": "primary",
+                        "value": "5070016"
+                    }
+                ]
+            },
+            {
+                "type": "context",
+                "block_id": "Bm3",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "What's <https:\/\/aboutsnack.com\/video-chat-roulette|Snack Time>?",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B01CZQK2X37",
+        "type": "message",
+        "text": "*Yippee! Your First Snack Is Ready!* ",
+        "user": "U01DSNJBQAC",
+        "ts": "1603332360.025200",
+        "team": "T01A754ECJZ",
+        "bot_profile": {
+            "id": "B01CZQK2X37",
+            "deleted": false,
+            "name": "Snack",
+            "updated": 1603323505,
+            "app_id": "A010GH02MCY",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029135366341_79bd8407939a8c2d1a6d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029135366341_79bd8407939a8c2d1a6d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029135366341_79bd8407939a8c2d1a6d_72.png"
+            },
+            "team_id": "T01A754ECJZ"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "Ixo",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Yippee! Your First Snack Is Ready!* :cake:\n\nYou are about to have a video call with the person you've matched.\n\n_Click \"Join Snack\" to join to the call._",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "H\/+",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Snack onboarding message 4\/5.",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B01CZQK2X37",
+        "type": "message",
+        "text": "Share this message to invite your team when ready:",
+        "user": "U01DSNJBQAC",
+        "ts": "1603332668.025300",
+        "team": "T01A754ECJZ",
+        "bot_profile": {
+            "id": "B01CZQK2X37",
+            "deleted": false,
+            "name": "Snack",
+            "updated": 1603323505,
+            "app_id": "A010GH02MCY",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029135366341_79bd8407939a8c2d1a6d_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029135366341_79bd8407939a8c2d1a6d_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-26\/1029135366341_79bd8407939a8c2d1a6d_72.png"
+            },
+            "team_id": "T01A754ECJZ"
+        },
+        "edited": {
+            "user": "B01CZQK2X37",
+            "ts": "1603898158.000000"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "z7b",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "Share this message to invite your team when ready:",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "CWjA",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "&gt; Hi everyone!\n&gt;\n&gt; We've started using the <https:\/\/aboutsnack.com\/|Snack> app to help us get to know each other better. <@U01DSNJBQAC> matches people in the <#C01DSNJF29E|snack-club> channel for short video chats with fun icebreakers.\n&gt;\n&gt; Join <#C01DSNJF29E|snack-club> to get in on the fun!  :cookie::cake::chocolate_bar:",
+                    "verbatim": false
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "F9d",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "Happy Snacking!",
+                    "verbatim": false
+                }
+            }
+        ]
+    }
+]

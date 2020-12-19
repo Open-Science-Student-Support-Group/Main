@@ -1,0 +1,305 @@
+[
+    {
+        "client_msg_id": "c53e65d5-1945-4c8e-b4d5-cd59ff67e0c7",
+        "type": "message",
+        "text": "Sounds great! I’ll send a meeting invite",
+        "user": "U01ANS2G30R",
+        "ts": "1601911299.035800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w8rR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds great! I’ll send a meeting invite"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f511e2c4-a2ea-481c-be8e-b8851f64f132",
+        "type": "message",
+        "text": "I might jump on as well if you don’t mind!",
+        "user": "U01AA7U2ECA",
+        "ts": "1601911512.036300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RxYF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I might jump on as well if you don’t mind!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5e936883-5a93-4232-afbe-afaadc3d72a6",
+        "type": "message",
+        "text": "Sure thing!",
+        "user": "U01ANS2G30R",
+        "ts": "1601911550.036500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i6n4V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure thing!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cf991b26-8708-4c37-abb2-316194b2a7e6",
+        "type": "message",
+        "text": "Thanks Emiko!",
+        "user": "U01AA7U2ECA",
+        "ts": "1601915708.039000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9dVu7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Emiko!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3f22b2ff-c17b-43c0-b469-cb7674bb842a",
+        "type": "message",
+        "text": "I updated the challenges\/discussion questions in the facilitation document, and added some other things as well. Thanks so much for setting it up Emiko!",
+        "user": "U01AA7U2ECA",
+        "ts": "1601929797.039800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6ST",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I updated the challenges\/discussion questions in the facilitation document, and added some other things as well. Thanks so much for setting it up Emiko!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601929797.039800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1601951408.040100",
+        "reply_users": [
+            "U01ANS2G30R",
+            "U01AA7U2ECA"
+        ],
+        "replies": [
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1601947755.039900"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1601951408.040100"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1601951408.040100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01ABLH7DPY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "56b3903e-10f9-494f-9a00-800e2a818b36",
+        "type": "message",
+        "text": "Thanks Gwen! Did you put those changes into the document on OSF? I’m still seeing the original document there.",
+        "user": "U01ANS2G30R",
+        "ts": "1601947755.039900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ozo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Gwen! Did you put those changes into the document on OSF? I’m still seeing the original document there."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601929797.039800",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "139717b5-1345-4ed6-86d0-91cc07d2bfbc",
+        "type": "message",
+        "text": "I thought I did, but it seems I was not successful… it should be there now :slightly_smiling_face:",
+        "user": "U01AA7U2ECA",
+        "ts": "1601951408.040100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Es3o2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I thought I did, but it seems I was not successful… it should be there now "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601929797.039800",
+        "parent_user_id": "U01AA7U2ECA"
+    }
+]

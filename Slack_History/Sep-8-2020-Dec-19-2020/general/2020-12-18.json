@@ -1,0 +1,81 @@
+[
+    {
+        "client_msg_id": "051610ea-6f92-4b19-b609-381e8be2f1e5",
+        "type": "message",
+        "text": "<!channel> Heey! After a busy semester and lots of discussion about Open Science, the time has finally come to unwind and just relax! So bring your drinks, snacks, and your lovely selves and come hang out with us at *4pm today* :tada:\n\nHere's the zoom info:\n<https:\/\/ucalgary.zoom.us\/j\/97591016672>\nMeeting ID: 975 9101 6672\nPasscode: 747521",
+        "user": "U01AA7U2ECA",
+        "ts": "1608326184.036800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zHc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Heey! After a busy semester and lots of discussion about Open Science, the time has finally come to unwind and just relax! So bring your drinks, snacks, and your lovely selves and come hang out with us at "
+                            },
+                            {
+                                "type": "text",
+                                "text": "4pm today",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nHere's the zoom info:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ucalgary.zoom.us\/j\/97591016672"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMeeting ID: 975 9101 6672\nPasscode: 747521"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U01BM8QUSTS",
+                    "U01AADVMMJ7"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

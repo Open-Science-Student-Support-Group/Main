@@ -1,0 +1,1686 @@
+[
+    {
+        "client_msg_id": "f66793cd-65c9-4a4b-9e4b-f0c3154b5f95",
+        "type": "message",
+        "text": "Sounds good! I’m planning to put that in the slides as well, with your emails\/slack handles, if you’re cool with that? Also, can I put in a picture for both of you?",
+        "user": "U01AA7U2ECA",
+        "ts": "1602101959.000100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cc8r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds good! I’m planning to put that in the slides as well, with your emails\/slack handles, if you’re cool with that? Also, can I put in a picture for both of you?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "6E6D57F4-D680-436B-BD31-0FCB7217BFB6",
+        "type": "message",
+        "text": "That’s a great idea! I’m all for that :3 and you absolutely can",
+        "user": "U01ANS83U3T",
+        "ts": "1602102009.000700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xxR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That’s a great idea! I’m all for that :3 and you absolutely can"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "24E76AD8-83A0-463F-9C76-8F1ECFBCD3EA",
+        "type": "message",
+        "text": "I’ll find a more professional picture of myself that isn’t me struggling to hold the overhead position lol",
+        "user": "U01ANS83U3T",
+        "ts": "1602102041.001600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hm99",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ll find a more professional picture of myself that isn’t me struggling to hold the overhead position lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "11e0e159-5ca6-4c8a-97c9-5eaad1d802be",
+        "type": "message",
+        "text": "haha I was gonna ask if you wanted that one or not :smile:",
+        "user": "U01AA7U2ECA",
+        "ts": "1602102067.001800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S+Shf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "haha I was gonna ask if you wanted that one or not "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01CJHAMZAM",
+                "created": 1602102067,
+                "timestamp": 1602102067,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01ANS83U3T",
+                "editable": false,
+                "size": 841288,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01CJHAMZAM\/image_from_ios.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01CJHAMZAM\/download\/image_from_ios.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CJHAMZAM-e4c33d9d8c\/image_from_ios_64.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CJHAMZAM-e4c33d9d8c\/image_from_ios_80.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CJHAMZAM-e4c33d9d8c\/image_from_ios_360.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CJHAMZAM-e4c33d9d8c\/image_from_ios_480.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CJHAMZAM-e4c33d9d8c\/image_from_ios_160.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CJHAMZAM-e4c33d9d8c\/image_from_ios_720.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CJHAMZAM-e4c33d9d8c\/image_from_ios_800.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CJHAMZAM-e4c33d9d8c\/image_from_ios_960.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CJHAMZAM-e4c33d9d8c\/image_from_ios_1024.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACS5Uc7tt2oTuPpT+9VpyVlJAJ4FQUiJbiaInJP41ehmEybh+Iqk7MwGY8ZHWrFqoWHOOSeaBssZozTc0ZoEJ3qtdkqykdG4qxg4LY4qtdv+7BYfLnnHaiwEIdlwdxPPrV5PlQA9cc1mxlN4CksSeBWqyeh\/OiwNjc0ZphyDgijmgB4fIqBlEkbJng8U4PwOM5pEUqAAuAP1qhFWwizcFiOEH61ok8nBqKIBPMZeNzcUpO0daAF84+lHnH0NVTIwJwcCjzX\/AL1AH\/\/Z",
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01ANS83U3T\/F01CJHAMZAM\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01CJHAMZAM-c976555265",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QGTOZ",
+                "elements": []
+            }
+        ],
+        "user": "U01ANS83U3T",
+        "display_as_bot": false,
+        "ts": "1602102074.002000",
+        "client_msg_id": "42F0D5DF-DB6B-4E6C-AFEF-8922926E01AF",
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "e7366e1e-58c7-498e-b090-5c23b4d934ab",
+        "type": "message",
+        "text": "UofC lab coat, nice! ^^",
+        "user": "U01AA7U2ECA",
+        "ts": "1602102102.002400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ADgx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "UofC lab coat, nice! ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "54DC4B7B-5ADA-4FD6-9ED1-046F247620CD",
+        "type": "message",
+        "text": "Thanks, I feel like it presents a more professional scientific image than my profile pic of me holding 84kg above my head lolol",
+        "user": "U01ANS83U3T",
+        "ts": "1602102178.004100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jhVi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, I feel like it presents a more professional scientific image than my profile pic of me holding 84kg above my head lolol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "3D4AB804-AFC0-4387-8D04-8E9775B2B0EE",
+        "type": "message",
+        "text": "Yeah that’s good with me too! I’m bad at pictures so I’ll give you some and you pick :upside_down_face:",
+        "user": "U01AA7U4UHY",
+        "ts": "1602102284.005200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+yfL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah that’s good with me too! I’m bad at pictures so I’ll give you some and you pick "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "upside_down_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "f0475076-a578-47e9-bdbc-882b33f69775",
+        "type": "message",
+        "text": "hehe yeah maybe :joy:",
+        "user": "U01AA7U2ECA",
+        "ts": "1602102293.005400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ltI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hehe yeah maybe "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "c5e5f415-e0f3-46de-abad-e322eab96fa9",
+        "type": "message",
+        "text": "Okay, sounds good, thanks Michael!",
+        "user": "U01AA7U2ECA",
+        "ts": "1602102309.005600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oKG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay, sounds good, thanks Michael!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01C2S3BA4D",
+                "created": 1602102496,
+                "timestamp": 1602102496,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01AA7U4UHY",
+                "editable": false,
+                "size": 497210,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01C2S3BA4D\/image_from_ios.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01C2S3BA4D\/download\/image_from_ios.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C2S3BA4D-261555e374\/image_from_ios_64.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C2S3BA4D-261555e374\/image_from_ios_80.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C2S3BA4D-261555e374\/image_from_ios_360.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C2S3BA4D-261555e374\/image_from_ios_480.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_480_w": 361,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C2S3BA4D-261555e374\/image_from_ios_160.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C2S3BA4D-261555e374\/image_from_ios_720.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720_w": 541,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C2S3BA4D-261555e374\/image_from_ios_800.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1065,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C2S3BA4D-261555e374\/image_from_ios_960.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_960_w": 721,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C2S3BA4D-261555e374\/image_from_ios_1024.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_1024_w": 769,
+                "thumb_1024_h": 1024,
+                "original_w": 2320,
+                "original_h": 3088,
+                "thumb_tiny": "AwAwACSYnjGMUgp25W7ilC80AIPelyBS7femkUABNJSFST96k2n+8KYisoB5qaJypIJJHbNV14PG73qR2AQt0qblCtM2fvYqRJd4+bqKQmNVUCPKnvVcyBJ2VRgHoKExtF0Px1Ao3\/7Qqr+89qMyU7k2HBEHXNNnClODShkA+6KYx3EegqUihBJMqBF59Pao9hzknJ9alyAPqKYDxzVWE2T71PNG5aizRmjlQXP\/2Q==",
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01AA7U4UHY\/F01C2S3BA4D\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01C2S3BA4D-3a1daeb605",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F01CJHTMLJD",
+                "created": 1602102497,
+                "timestamp": 1602102497,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01AA7U4UHY",
+                "editable": false,
+                "size": 213792,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01CJHTMLJD\/image_from_ios.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01CJHTMLJD\/download\/image_from_ios.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CJHTMLJD-07d27125a1\/image_from_ios_64.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CJHTMLJD-07d27125a1\/image_from_ios_80.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CJHTMLJD-07d27125a1\/image_from_ios_360.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360_w": 240,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CJHTMLJD-07d27125a1\/image_from_ios_480.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_480_w": 320,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CJHTMLJD-07d27125a1\/image_from_ios_160.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CJHTMLJD-07d27125a1\/image_from_ios_720.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720_w": 480,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CJHTMLJD-07d27125a1\/image_from_ios_800.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1200,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CJHTMLJD-07d27125a1\/image_from_ios_960.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_960_w": 640,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CJHTMLJD-07d27125a1\/image_from_ios_1024.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_1024_w": 682,
+                "thumb_1024_h": 1024,
+                "original_w": 1998,
+                "original_h": 2998,
+                "thumb_tiny": "AwAwAB+4BS4pqk9zVaS5dmIj6CkBbxSEVFBMZMq\/DDmpD0oAa3yxMT6VRiC7QxJ9atXLYhIqgjgcMMigpFqMqkyEMeSev0q2RxWWZMyjHygVpoQUGKBMy3mL5yaYDyKj704dKAFJJfJq7bynyyKok1NFJs5pMaP\/2Q==",
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01AA7U4UHY\/F01CJHTMLJD\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01CJHTMLJD-b45f2d26e0",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F01BZ77EYFQ",
+                "created": 1602102497,
+                "timestamp": 1602102497,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01AA7U4UHY",
+                "editable": false,
+                "size": 32531,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01BZ77EYFQ\/image_from_ios.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01BZ77EYFQ\/download\/image_from_ios.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BZ77EYFQ-3b71d6358f\/image_from_ios_64.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BZ77EYFQ-3b71d6358f\/image_from_ios_80.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BZ77EYFQ-3b71d6358f\/image_from_ios_360.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BZ77EYFQ-3b71d6358f\/image_from_ios_480.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BZ77EYFQ-3b71d6358f\/image_from_ios_160.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BZ77EYFQ-3b71d6358f\/image_from_ios_720.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "original_w": 748,
+                "original_h": 748,
+                "thumb_tiny": "AwAwADCVHViQDyDgipQKz7pCk24d+aeLxwBkA0CLkjrGuWOKhXoTx1NUndpXLMeTVmBVlkO9SVHQCgaRIR9KYRSKVWYpztPTPanSkKQMdaB2C8GVT+dVMVZcPIuGHTpVYqcZxxQJBtx3\/wDrVLE+wkHcPcVD0FOVypzxSGmOaTdNuOeKlmbJU+1Vu+TUhbKr7CgCyvXkHFQSW7qGOMqOetT+aBHnGCaQSEJk0MEipjIyTikYEdRirCbXYvjJ7AVGUZi31ouFhiLvbFSzxiIrgnp3qUtHbYVUy5HWmzgSR7s8igLH\/9k=",
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01AA7U4UHY\/F01BZ77EYFQ\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01BZ77EYFQ-1a8e59e011",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F01CVQ35VNC",
+                "created": 1602102498,
+                "timestamp": 1602102498,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01AA7U4UHY",
+                "editable": false,
+                "size": 463556,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01CVQ35VNC\/image_from_ios.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01CVQ35VNC\/download\/image_from_ios.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CVQ35VNC-7d06128ff1\/image_from_ios_64.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CVQ35VNC-7d06128ff1\/image_from_ios_80.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CVQ35VNC-7d06128ff1\/image_from_ios_360.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CVQ35VNC-7d06128ff1\/image_from_ios_480.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_480_w": 361,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CVQ35VNC-7d06128ff1\/image_from_ios_160.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CVQ35VNC-7d06128ff1\/image_from_ios_720.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720_w": 541,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CVQ35VNC-7d06128ff1\/image_from_ios_800.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1065,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CVQ35VNC-7d06128ff1\/image_from_ios_960.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_960_w": 721,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CVQ35VNC-7d06128ff1\/image_from_ios_1024.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_1024_w": 769,
+                "thumb_1024_h": 1024,
+                "original_w": 2320,
+                "original_h": 3088,
+                "thumb_tiny": "AwAwACTSJA6mq0tw27CYC9M0j7mtyxzv64Haq4wSMdaQD1LM3WlcY+bOcdu1AwhywxxQZVKgKOaBkIyc9TzS4PoaeuUGDx36Uu\/3\/SgB6ki644WQVDIRDIwUZY9SKllXhGLDKj1qOKTdJIU+8Wz+FNsErjDIwAD\/AMQ9aft2j7vTuabNK3lt5ij0BxSKSR83IPTFIbRYVARy1LsX+8ai8092K+wo83\/po9Ahr4VcZquSwkBU7W7EU1nY8dKVQDHz2P8AP\/8AVRYLjXZ3kHmc4qzCMrgdvWosZA7npUkZG\/b2pDJSmOCV+uc5pNo9VqYKCODjHYUuwetK4j\/\/2Q==",
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01AA7U4UHY\/F01CVQ35VNC\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01CVQ35VNC-ddae7e75be",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F01CC41PJ9J",
+                "created": 1602102498,
+                "timestamp": 1602102498,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01AA7U4UHY",
+                "editable": false,
+                "size": 175666,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01CC41PJ9J\/image_from_ios.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01CC41PJ9J\/download\/image_from_ios.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CC41PJ9J-c5a4c8d5d9\/image_from_ios_64.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CC41PJ9J-c5a4c8d5d9\/image_from_ios_80.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CC41PJ9J-c5a4c8d5d9\/image_from_ios_360.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CC41PJ9J-c5a4c8d5d9\/image_from_ios_480.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_480_w": 361,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CC41PJ9J-c5a4c8d5d9\/image_from_ios_160.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CC41PJ9J-c5a4c8d5d9\/image_from_ios_720.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720_w": 541,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CC41PJ9J-c5a4c8d5d9\/image_from_ios_800.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1065,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CC41PJ9J-c5a4c8d5d9\/image_from_ios_960.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_960_w": 721,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CC41PJ9J-c5a4c8d5d9\/image_from_ios_1024.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_1024_w": 769,
+                "thumb_1024_h": 1024,
+                "original_w": 2162,
+                "original_h": 2878,
+                "thumb_tiny": "AwAwACS1jbKKrTXLM5SIDGepq1cjEZI64rNiBJyKASLUVxIjKsgG0nqO1WZx8tUiGaPt05qwkhktQW6gUkU1YgP3j9aSnPw7fWkoEW7ph9nY+1ZkbAE5OM96WSd5Bhjx6U2N9jZwD7GgETnCRE7voPWiNiLdh7VDJIHwFQKPanRMRxjOexoG3ckEgbksAfrRuH98fnTmigZs7iM9hik8iH++fzFGgWZUoq3LbIqFlJGKqUXuJqxNAkbnDkg5496WcxnlMhhwajQkdOM1LJhkGOoFAEIxS8elNzRmgdz\/2Q==",
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01AA7U4UHY\/F01CC41PJ9J\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01CC41PJ9J-efb1407922",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X91NI",
+                "elements": []
+            }
+        ],
+        "user": "U01AA7U4UHY",
+        "ts": "1602102519.006000",
+        "client_msg_id": "9CD9540A-6145-4A94-9F0F-5FC71EBA18BF",
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "E5F87A60-DA8F-42D9-A23E-F070B42B521F",
+        "type": "message",
+        "text": "I have no sciencey pictures :grimacing:",
+        "user": "U01AA7U4UHY",
+        "ts": "1602102558.007600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jmacZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have no sciencey pictures "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "a3095df7-7abe-40a7-a57b-5f0edfc5c4c8",
+        "type": "message",
+        "text": "No worries, these are great! Mine isn’t science-y either :wink:",
+        "user": "U01AA7U2ECA",
+        "ts": "1602102810.007800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "USwW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No worries, these are great! Mine isn’t science-y either "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "d517c0dc-28a5-4888-8e60-c3c9926508d5",
+        "type": "message",
+        "text": "If we’re ever allowed back into the lab again we can make some EEG ones ^^",
+        "user": "U01AA7U2ECA",
+        "ts": "1602102823.008000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LdLn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If we’re ever allowed back into the lab again we can make some EEG ones ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "1572790D-99EE-4648-88FE-883978FF2F0C",
+        "type": "message",
+        "text": "If it makes you feel better, nobody in my lab has sciencey pics on our lab website lol it helps to make you more relatable and not seem like some publication generation machine lolol",
+        "user": "U01ANS83U3T",
+        "ts": "1602102925.009800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AiUNW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If it makes you feel better, nobody in my lab has sciencey pics on our lab website lol it helps to make you more relatable and not seem like some publication generation machine lolol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "F4841FCA-3D85-4981-A5AE-6D04C9C16ED1",
+        "type": "message",
+        "text": "I’m kind of anti-professional dress anyways lol",
+        "user": "U01AA7U4UHY",
+        "ts": "1602102963.010400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WWR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m kind of anti-professional dress anyways lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "D0924BFA-CB2C-467E-8F2C-3F548B164D77",
+        "type": "message",
+        "text": "I’m wearing a DOOM shirt under my lab coat in that pic and my supervisor wears sneakers to work everyday lol you’ve come to the right place",
+        "user": "U01ANS83U3T",
+        "ts": "1602103030.011800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RWuD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m wearing a DOOM shirt under my lab coat in that pic and my supervisor wears sneakers to work everyday lol you’ve come to the right place"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "552D1F44-8AE6-44A9-B81D-C48108BAAEDF",
+        "type": "message",
+        "text": "Perfect :ok_hand: DOOM the band or the game\/movie?",
+        "user": "U01AA7U4UHY",
+        "ts": "1602103082.012600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bhAW9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Perfect "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand"
+                            },
+                            {
+                                "type": "text",
+                                "text": " DOOM the band or the game\/movie?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "12592DC0-FB52-4978-926B-FA63B401B5F4",
+        "type": "message",
+        "text": "The game",
+        "user": "U01ANS83U3T",
+        "ts": "1602103202.012900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ww2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The game"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01C2T01N5T",
+                "created": 1602103217,
+                "timestamp": 1602103217,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01ANS83U3T",
+                "editable": false,
+                "size": 1594863,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01C2T01N5T\/image_from_ios.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01C2T01N5T\/download\/image_from_ios.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C2T01N5T-5450236d5b\/image_from_ios_64.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C2T01N5T-5450236d5b\/image_from_ios_80.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C2T01N5T-5450236d5b\/image_from_ios_360.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C2T01N5T-5450236d5b\/image_from_ios_480.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C2T01N5T-5450236d5b\/image_from_ios_160.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C2T01N5T-5450236d5b\/image_from_ios_720.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C2T01N5T-5450236d5b\/image_from_ios_800.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C2T01N5T-5450236d5b\/image_from_ios_960.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C2T01N5T-5450236d5b\/image_from_ios_1024.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACSF\/wDWke9TSIvGPeopB++P1qQsDnsBznGaSGIyMiBg360RvIScO3HvTmYNlcHIHrTYQVcg+lW3ZBpcvZozTc0ZrIZWlhAJbdz6VXclOcnBokIBYIxLE81E6sMZ6VaQXH79zZ\/vVPF3HUiqmDgdQDT8srkAjP1oYjTB4FFNjOY1z1wKWsxlKV1DnJzg9M4pguIyeY8gdBnNMeKQzORGxG49qkWKbHEQH1q2wE85T96JWPtTWkDMeAo9AKlW3n9UWlNmzHLyD8BSuBZiOYkI9KdTY12Iq5zgYzS1AH\/\/2Q==",
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01ANS83U3T\/F01C2T01N5T\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01C2T01N5T-8db763117b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OQtq",
+                "elements": []
+            }
+        ],
+        "user": "U01ANS83U3T",
+        "display_as_bot": false,
+        "ts": "1602103221.013200",
+        "client_msg_id": "50391CC4-5AB7-430A-9D31-CB53B8A55DBE",
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "CA959C36-C365-491C-A669-B556A2D46194",
+        "type": "message",
+        "text": "My office is also decorated with nerd stuff so definitely okay to be anti-professional lol",
+        "user": "U01ANS83U3T",
+        "ts": "1602103240.014100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W5OL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My office is also decorated with nerd stuff so definitely okay to be anti-professional lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "093BBA65-04A2-4924-9BE1-E3EAF27105C2",
+        "type": "message",
+        "text": "Mine just has musical instruments thrown around everywhere lol\n\nI still need to figure out how I’m going to play cyberpunk... I have a PS4 but I don’t think that’ll do it justice",
+        "user": "U01AA7U4UHY",
+        "ts": "1602103401.016800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AhG3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mine just has musical instruments thrown around everywhere lol\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "I still need to figure out how I’m going to play cyberpunk... I have a PS4 but I don’t think that’ll do it justice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "4CAA346D-99EC-4EB5-A601-6643B676304B",
+        "type": "message",
+        "text": "It definitely adds personality to your office to make it your own space :ok_hand:\n\nI’m a PC enthusiast so I recently upgraded my rig just so it could run Cyberpunk at 60fps and above 1080p lol it also helps that it makes running convolutional neural nets really easy with that hardware",
+        "user": "U01ANS83U3T",
+        "ts": "1602103570.019300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BMC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It definitely adds personality to your office to make it your own space "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI’m a PC enthusiast so I recently upgraded my rig just so it could run Cyberpunk at 60fps and above 1080p lol it also helps that it makes running convolutional neural nets really easy with that hardware"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "D2E84430-227F-493A-ACC2-DABA97F327FE",
+        "type": "message",
+        "text": "My brother has a nice PC too. I’m considering building one but I’m trying not to spend a bunch right now since I just got a 4k tv",
+        "user": "U01AA7U4UHY",
+        "ts": "1602103756.021500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OTJ8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My brother has a nice PC too. I’m considering building one but I’m trying not to spend a bunch right now since I just got a 4k tv"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "145AE2DF-D6A1-4692-85B6-E65007BD76A5",
+        "type": "message",
+        "text": "I mean that’s a totally valid purchase lol as an enthusiast I would say you could get away with a decent prebuilt setup that wouldn’t be insanely expensive, and would let you do some computational models while also handling any game at great quality above 1080p. Plus if your TV supports Display Port then you can just hook your rig up to it and play your games like you normally would",
+        "user": "U01ANS83U3T",
+        "ts": "1602103889.024800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Sc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I mean that’s a totally valid purchase lol as an enthusiast I would say you could get away with a decent prebuilt setup that wouldn’t be insanely expensive, and would let you do some computational models while also handling any game at great quality above 1080p. Plus if your TV supports Display Port then you can just hook your rig up to it and play your games like you normally would"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "4D45C53C-1438-45F9-AA50-A4DCF0679047",
+        "type": "message",
+        "text": "Yeah, the tv is also partly why I want the PC since I’d hook it up to that :joy:  How much would a machine like that cost?",
+        "user": "U01AA7U4UHY",
+        "ts": "1602104175.027000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iwvS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, the tv is also partly why I want the PC since I’d hook it up to that "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  How much would a machine like that cost?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "type": "message",
+        "text": "This one would definitely be suitable for what you’re looking for and is comparable to my setup. That price is really good too, especially if you don’t have the time or feel confident building your own machine",
+        "files": [
+            {
+                "id": "F01C67L2FV1",
+                "created": 1602104336,
+                "timestamp": 1602104336,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01ANS83U3T",
+                "editable": false,
+                "size": 942625,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01C67L2FV1\/image_from_ios.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01C67L2FV1\/download\/image_from_ios.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C67L2FV1-a4a947eef8\/image_from_ios_64.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C67L2FV1-a4a947eef8\/image_from_ios_80.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C67L2FV1-a4a947eef8\/image_from_ios_360.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C67L2FV1-a4a947eef8\/image_from_ios_480.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C67L2FV1-a4a947eef8\/image_from_ios_160.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C67L2FV1-a4a947eef8\/image_from_ios_720.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C67L2FV1-a4a947eef8\/image_from_ios_800.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C67L2FV1-a4a947eef8\/image_from_ios_960.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C67L2FV1-a4a947eef8\/image_from_ios_1024.jpg?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACSnRVryLbvN+tHkWv8Az3\/WlYdykx5pmavmCzzzN+tHkWf\/AD2P5\/8A1qYXKO40bjV3ybX\/AJ6n\/P4Unk2v\/PQ\/5\/CiwXLf2uEHGG+u2rByOgBrMa0k67gcnjmtIyKoBJGDxQIXn0Wkb0pdwprc96QDSDn7x\/Skwf7x\/SlPu1Jn3oGZn2i4\/vD8hSefcdN\/6CkDn0FG8+goAX7Rcf8APQ0efcf89DSbz6CgufamAebP\/wA9DR5s\/wDz0NNLt6Cje3pQB\/\/Z",
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01ANS83U3T\/F01C67L2FV1\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01C67L2FV1-b89eb6b9b0",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sT=0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This one would definitely be suitable for what you’re looking for and is comparable to my setup. That price is really good too, especially if you don’t have the time or feel confident building your own machine"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01ANS83U3T",
+        "display_as_bot": false,
+        "ts": "1602104385.028400",
+        "client_msg_id": "3F1481F9-C39D-4B7C-87D3-E1D4E28C52F4",
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "537BCF4C-5FA6-49D8-9F54-6C8195C31294",
+        "type": "message",
+        "text": "So much :sob:",
+        "user": "U01AA7U4UHY",
+        "ts": "1602104422.029000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hm=6y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So much "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "77742C6B-6BB8-4F1B-9755-664C55AB54F4",
+        "type": "message",
+        "text": "Lol that’s what I consider cheap for a powerful computer. The one John Epp lets me use for computational modelling costs 10K rip",
+        "user": "U01ANS83U3T",
+        "ts": "1602104499.030500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6yjUi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lol that’s what I consider cheap for a powerful computer. The one John Epp lets me use for computational modelling costs 10K rip"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "40532A78-344F-4D6B-9ECE-4950DF270122",
+        "type": "message",
+        "text": "It’s moreso that it’s a lot for what I’d want to spend right now, but yeah, it’s actually not bad. My synthesizer cost more than that and all it does is make cool sounds :joy:",
+        "user": "U01AA7U4UHY",
+        "ts": "1602104763.033600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5f2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It’s moreso that it’s a lot for what I’d want to spend right now, but yeah, it’s actually not bad. My synthesizer cost more than that and all it does is make cool sounds "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "A106834B-6106-4F23-AC6C-275A50ED4F05",
+        "type": "message",
+        "text": "Lol well that’s actually pretty useful for music tbh. If it’s out of your price range now, keep a note of the general things you want your computer to be able to do and you can always ask me down the road to look into a good deal on a quality machine for you :+1: ",
+        "user": "U01ANS83U3T",
+        "ts": "1602104894.035700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K=Bbr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lol well that’s actually pretty useful for music tbh. If it’s out of your price range now, keep a note of the general things you want your computer to be able to do and you can always ask me down the road to look into a good deal on a quality machine for you "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "31159263-3A5E-41C6-958D-6CE3BFFCAEB8",
+        "type": "message",
+        "text": "Yeah, it’s awesome; it’s fun doing sound design too. The only problem is now I want more synths lol\n\nSweet, thanks! I’ll definitely let you know. :+1:",
+        "user": "U01AA7U4UHY",
+        "ts": "1602105323.039400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nUw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, it’s awesome; it’s fun doing sound design too. The only problem is now I want more synths lol\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Sweet, thanks! I’ll definitely let you know. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "parent_user_id": "U01AA7U4UHY"
+    }
+]

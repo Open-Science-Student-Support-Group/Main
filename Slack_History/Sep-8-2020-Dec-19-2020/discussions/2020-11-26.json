@@ -1,0 +1,200 @@
+[
+    {
+        "client_msg_id": "76749b87-ffbd-4ab5-867d-83b596493409",
+        "type": "message",
+        "text": "Hey folks!\nI haven't really been active in this group, since I've been keeping my head down with classes and such.\nBut I recently talked about this upcoming conference with my supervisor and realized they they seem to be working in a little open science!\nHere's the email:\n\n&gt; SAS 2021 Call for Abstracts\n&gt; The Society for Affective Science (SAS) is delighted to announce its call for abstracts to be considered for the 2021 Annual Conference, held in an all-virtual format between April 15-30, 2021. This year's extended format aims to facilitate international participation and account for schedule adjustments due to the COVID-19 pandemic.\n&gt;  \n&gt; Program Highlights\n&gt; We are excited to announce that this year's invited program includes: \n&gt; TED-style talks by Lasana Harris, Dacher Keltner, Kristin Lagattuta, Matthew Nock, and Jamil Zaki\n&gt; Flash Talks, Salons and Methods Lunches by Gal Sheppes, Yukiko Uchida, Jessica Lougheed, Derek Isaacowitz, Ralph Adolphs and Lisa Feldman Barrett, covering an exciting array of topics. \n&gt; \n&gt; Advancing Interdisciplinary Science\n&gt; In line with our goal to facilitate interdisciplinarity, we welcome submissions from across the domain of affective science including anthropology, business, computer science, cultural studies, economics, education, geography, history, integrative medicine, law, linguistics, literature, neuroscience, philosophy, political science, psychiatry, psychology, public health, sociology, and theatre.\n&gt;  \n&gt; Abstract Submissions \n&gt; IMPORTANT: Abstracts are changing this year!\n&gt; Highly-ranked submissions will be published in a supplement of our journal Affective Science\n&gt; IMPORTANT: This does NOT preclude the work from being submitted\/ published as a full paper in any scientific outlet\n&gt; No poster\/flash talk distinction! Presenters of accepted abstracts will be offered TWO sessions to deliver a 5-7 minute pre-recorded presentation followed by live Q&amp;A\n&gt; TWO submission types:\n&gt; 1.   New Results Showcasing the latest new findings in affective science based on data collected and analyzed. We welcome and encourage preliminary work! \n&gt; *2.   New Idea NEW! Showcasing a new research idea, complete with planned experimental designs and analysis approach(es). Data is not required, other than for proof of concept. Work already pre-registered in another platform is admissible.* \n&gt; Extended abstract format: maximum 1-page PDF, including up to 1 figure\n&gt; No fee to submit an abstract. The fee structure for conference registration is reduced and will be announced soon.\n&gt; We encourage submissions from authors at all career stages.  \n&gt; \n&gt; Submission Deadline\n&gt; Abstracts must be submitted by Thursday, December 10th, 2020 at 11:59 p.m. Baker Island Time (BIT; UTC-12 — last timezone on earth) to be considered for inclusion in the program. \n&gt; \n&gt; Submission Review Process \n&gt; Abstracts will be evaluated based on scholarly merit by a double-blind peer review process with our Abstract Review Board.\n&gt; \n&gt; Questions?\n&gt; For abstract submissions, please contact the Abstract Committee Chairs, Maria Gendron at <mailto:maria.gendron@yale.edu|maria.gendron@yale.edu> and Hongbo Yu at <mailto:hongbo.yu@psych.ucsb.edu|hongbo.yu@psych.ucsb.edu>. For any other SAS 2021 conference related questions, please contact the Program Chair, Rachael Jack <mailto:atrachael.jack@glasgow.ac.uk|atrachael.jack@glasgow.ac.uk>\n&gt; For more updates, watch our website and follow us on Twitter (@affectScience)! \n&gt; SUBMISSION PORTAL OPEN SOON!\nThe \"New Idea\" abstract submission seems like a cool idea, given it can be just a proof of concept and pre-registration elsewhere is okay.\nWhat do folks think about this alternative form of abstract for conferences?\n\n(Unfortunately, the deadline is close now, but maybe some of you might be interested in submitting too! I know I'm going to attempt a last-minute abstract :sweat_smile:)",
+        "user": "U01A3HZ3R63",
+        "ts": "1606404661.026800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "169068bf7e39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-11\/1358561448611_169068bf7e3945f474ae_72.jpg",
+            "first_name": "",
+            "real_name": "Chelsie Hart",
+            "display_name": "Chelsie Hart",
+            "team": "T01A754ECJZ",
+            "name": "chelsie.hart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01A3HZ3R63",
+            "ts": "1606404698.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Springer",
+                "title": "Affective Science",
+                "title_link": "https:\/\/www.springer.com\/journal\/42761",
+                "text": "Affective Science, an official journal of the Society for Affective Science, covers the field of affective science in a broad manner, encompassing different ...",
+                "fallback": "Springer: Affective Science",
+                "from_url": "https:\/\/www.springer.com\/journal\/42761",
+                "thumb_url": "https:\/\/media.springernature.com\/w92\/springer-static\/cover\/journal\/42761.jpg",
+                "thumb_width": 92,
+                "thumb_height": 123,
+                "service_icon": "https:\/\/www.springer.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.springer.com\/journal\/42761"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S7ATs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey folks!\nI haven't really been active in this group, since I've been keeping my head down with classes and such.\nBut I recently talked about this upcoming conference with my supervisor and realized they they seem to be working in a little open science!\nHere's the email:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "SAS 2021 Call for Abstracts\nThe Society for Affective Science (SAS) is delighted to announce its call for abstracts to be considered for the 2021 Annual Conference, held in an all-virtual format between April 15-30, 2021. This year's extended format aims to facilitate international participation and account for schedule adjustments due to the COVID-19 pandemic.\n \nProgram Highlights\nWe are excited to announce that this year's invited program includes: \nTED-style talks by Lasana Harris, Dacher Keltner, Kristin Lagattuta, Matthew Nock, and Jamil Zaki\nFlash Talks, Salons and Methods Lunches by Gal Sheppes, Yukiko Uchida, Jessica Lougheed, Derek Isaacowitz, Ralph Adolphs and Lisa Feldman Barrett, covering an exciting array of topics. \n\nAdvancing Interdisciplinary Science\nIn line with our goal to facilitate interdisciplinarity, we welcome submissions from across the domain of affective science including anthropology, business, computer science, cultural studies, economics, education, geography, history, integrative medicine, law, linguistics, literature, neuroscience, philosophy, political science, psychiatry, psychology, public health, sociology, and theatre.\n \nAbstract Submissions \nIMPORTANT: Abstracts are changing this year!\nHighly-ranked submissions will be published in a supplement of our journal Affective Science\nIMPORTANT: This does NOT preclude the work from being submitted\/ published as a full paper in any scientific outlet\nNo poster\/flash talk distinction! Presenters of accepted abstracts will be offered TWO sessions to deliver a 5-7 minute pre-recorded presentation followed by live Q&A\nTWO submission types:\n1.   New Results Showcasing the latest new findings in affective science based on data collected and analyzed. We welcome and encourage preliminary work! \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2.   New Idea NEW! Showcasing a new research idea, complete with planned experimental designs and analysis approach(es). Data is not required, other than for proof of concept. Work already pre-registered in another platform is admissible. ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nExtended abstract format: maximum 1-page PDF, including up to 1 figure\nNo fee to submit an abstract. The fee structure for conference registration is reduced and will be announced soon.\nWe encourage submissions from authors at all career stages.  \n\nSubmission Deadline\nAbstracts must be submitted by Thursday, December 10th, 2020 at 11:59 p.m. Baker Island Time (BIT; UTC-12 — last timezone on earth) to be considered for inclusion in the program. \n\nSubmission Review Process \nAbstracts will be evaluated based on scholarly merit by a double-blind peer review process with our Abstract Review Board.\n\nQuestions?\nFor abstract submissions, please contact the Abstract Committee Chairs, Maria Gendron at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:maria.gendron@yale.edu",
+                                "text": "maria.gendron@yale.edu"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and Hongbo Yu at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:hongbo.yu@psych.ucsb.edu",
+                                "text": "hongbo.yu@psych.ucsb.edu"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". For any other SAS 2021 conference related questions, please contact the Program Chair, Rachael Jack "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:atrachael.jack@glasgow.ac.uk",
+                                "text": "atrachael.jack@glasgow.ac.uk"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nFor more updates, watch our website and follow us on Twitter (@affectScience)! \nSUBMISSION PORTAL OPEN SOON!"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nThe \"New Idea\" abstract submission seems like a cool idea, given it can be just a proof of concept and pre-registration elsewhere is okay.\nWhat do folks think about this alternative form of abstract for conferences?\n\n(Unfortunately, the deadline is close now, but maybe some of you might be interested in submitting too! I know I'm going to attempt a last-minute abstract "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606404661.026800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1606406343.027300",
+        "reply_users": [
+            "U01AA7U2ECA"
+        ],
+        "replies": [
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1606406343.027300"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01ABLH7DPY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c6210489-de16-47b4-ad59-0c392bec90a5",
+        "type": "message",
+        "text": "Yeah I’ve seen such ‘pre-registration’ abstracts pop-up in several places, and I think it’s actually really great for conferences as well, as they are supposed to be about ‘the latest’ findings, but then they also expect you to have your results ready 6 months ahead of time with the regular abstracts.. :sweat_smile:",
+        "user": "U01AA7U2ECA",
+        "ts": "1606406343.027300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BueE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah I’ve seen such ‘pre-registration’ abstracts pop-up in several places, and I think it’s actually really great for conferences as well, as they are supposed to be about ‘the latest’ findings, but then they also expect you to have your results ready 6 months ahead of time with the regular abstracts.. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606404661.026800",
+        "parent_user_id": "U01A3HZ3R63",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01A3HZ3R63"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,468 @@
+[
+    {
+        "client_msg_id": "e4ee0f28-ca86-486c-b3a9-1d4bb9cd5c30",
+        "type": "message",
+        "text": "uhm, I only see an option to make people owners, so if you can change anything as a member, we have to deal with that somehow",
+        "user": "U01AA7U2ECA",
+        "ts": "1601654974.000100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qliw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "uhm, I only see an option to make people owners, so if you can change anything as a member, we have to deal with that somehow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601577696.001600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "bba121e1-cd81-4d2f-bf52-9567d7d31c18",
+        "type": "message",
+        "text": "Oh, it seems there should also be a ‘guest’ role, which is more constrained: <https:\/\/sharegate.com\/blog\/add-members-office-365-groups-permissions>",
+        "user": "U01AA7U2ECA",
+        "ts": "1601654991.000300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ShareGate",
+                "title": "Who can add members to Office 365 Groups? Permissions for owners, members, and guests - ShareGate",
+                "title_link": "https:\/\/sharegate.com\/blog\/add-members-office-365-groups-permissions",
+                "text": "To create an effective governance strategy with Office 365 Groups, you need to understand the different permissions for owners, members, and guests.",
+                "fallback": "ShareGate: Who can add members to Office 365 Groups? Permissions for owners, members, and guests - ShareGate",
+                "image_url": "https:\/\/sharegate.com\/app\/uploads\/2019\/07\/rolesinoffice365groups-og-1.png",
+                "image_width": 478,
+                "image_height": 250,
+                "ts": 1564691118,
+                "from_url": "https:\/\/sharegate.com\/blog\/add-members-office-365-groups-permissions",
+                "image_bytes": 95391,
+                "service_icon": "https:\/\/sharegate.com\/app\/themes\/sharegate\/img\/favicons\/ShareGate_Favicon_16X16.png",
+                "id": 1,
+                "original_url": "https:\/\/sharegate.com\/blog\/add-members-office-365-groups-permissions"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AcW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh, it seems there should also be a ‘guest’ role, which is more constrained: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sharegate.com\/blog\/add-members-office-365-groups-permissions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601577696.001600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "b90382bc-525d-48d3-9f44-a8adc8522fed",
+        "type": "message",
+        "text": "Matt I made you owner too, so you can explore anything I can as well!",
+        "user": "U01AA7U2ECA",
+        "ts": "1601655021.000600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vsj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Matt I made you owner too, so you can explore anything I can as well!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601577696.001600",
+        "parent_user_id": "U01AA7U2ECA",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01ANS83U3T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9ad9ccb7-bcf7-4652-a955-56fcae71a3c7",
+        "type": "message",
+        "text": "I’m afraid guest access might be something IT needs to give permission for, which they might or might not do…",
+        "user": "U01AA7U2ECA",
+        "ts": "1601655109.000800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "raqle",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m afraid guest access might be something IT needs to give permission for, which they might or might not do…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601577696.001600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "6AD80547-BA39-4DDC-94EC-5F04FFD48D17",
+        "type": "message",
+        "text": "Hmmm, okay. Well access to the group is by approval only so I guess we could just be careful who we allow access to. I will try to get in contact with IT though cuz it’s important to make edit privileges exclusive to the organizing team members",
+        "user": "U01ANS83U3T",
+        "ts": "1601656197.003300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WXXE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hmmm, okay. Well access to the group is by approval only so I guess we could just be careful who we allow access to. I will try to get in contact with IT though cuz it’s important to make edit privileges exclusive to the organizing team members"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601577696.001600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "7C68B8DF-AA33-4CEB-9905-9496C174A8B7",
+        "type": "message",
+        "text": "I doubt anything will malicious will happen, my main concern is really that people may accidentally edit something or delete something",
+        "user": "U01ANS83U3T",
+        "ts": "1601656243.004400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NVB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I doubt anything will malicious will happen, my main concern is really that people may accidentally edit something or delete something"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601577696.001600",
+        "parent_user_id": "U01AA7U2ECA",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01AA7U4UHY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F51DC000-760D-43F4-900F-2B8666240641",
+        "type": "message",
+        "text": "Figure out who is responsible for technical issues (and whether to split that up by platform)",
+        "user": "U01AA7U4UHY",
+        "ts": "1601678502.005900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hE\/Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Figure out who is responsible for technical issues (and whether to split that up by platform)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601678502.005900",
+        "reply_count": 34,
+        "reply_users_count": 3,
+        "latest_reply": "1602105323.039400",
+        "reply_users": [
+            "U01ANS83U3T",
+            "U01AA7U4UHY",
+            "U01AA7U2ECA"
+        ],
+        "replies": [
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1601753397.001300"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1601771575.002000"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1602101959.000100"
+            },
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1602102009.000700"
+            },
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1602102041.001600"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1602102067.001800"
+            },
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1602102074.002000"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1602102102.002400"
+            },
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1602102178.004100"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1602102284.005200"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1602102293.005400"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1602102309.005600"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1602102519.006000"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1602102558.007600"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1602102810.007800"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1602102823.008000"
+            },
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1602102925.009800"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1602102963.010400"
+            },
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1602103030.011800"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1602103082.012600"
+            },
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1602103202.012900"
+            },
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1602103221.013200"
+            },
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1602103240.014100"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1602103401.016800"
+            },
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1602103570.019300"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1602103756.021500"
+            },
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1602103889.024800"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1602104175.027000"
+            },
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1602104385.028400"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1602104422.029000"
+            },
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1602104499.030500"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1602104763.033600"
+            },
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1602104894.035700"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1602105323.039400"
+            }
+        ],
+        "subscribed": false
+    }
+]

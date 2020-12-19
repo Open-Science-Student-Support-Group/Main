@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "eac27c4b-b546-4326-b048-3beb1450fafd",
+        "type": "message",
+        "text": "I might not make this session! Moving is time consuming :sweat_smile:",
+        "user": "U01A3HZ3R63",
+        "ts": "1603462578.006400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "169068bf7e39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-11\/1358561448611_169068bf7e3945f474ae_72.jpg",
+            "first_name": "",
+            "real_name": "Chelsie Hart",
+            "display_name": "Chelsie Hart",
+            "team": "T01A754ECJZ",
+            "name": "chelsie.hart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "03lhd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I might not make this session! Moving is time consuming "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603305947.005400",
+        "parent_user_id": "U01BM8QUSTS"
+    }
+]

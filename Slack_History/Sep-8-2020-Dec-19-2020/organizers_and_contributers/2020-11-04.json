@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "4e2dc651-2edd-4801-91da-29797111c46c",
+        "type": "message",
+        "text": "Hey everyone! We have done our normal promo for the session this week, but I think it is a rough week for lots of people and we haven't had a high registration. If you have time to engage on any of the social media posts, or slack, or just chat with people you know about registering, that would be amazing! Jenelle posted on both PGSA and GPPP Facebook pages last week!",
+        "user": "U01AGDAUB1S",
+        "ts": "1604524260.020000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CzFM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone! We have done our normal promo for the session this week, but I think it is a rough week for lots of people and we haven't had a high registration. If you have time to engage on any of the social media posts, or slack, or just chat with people you know about registering, that would be amazing! Jenelle posted on both PGSA and GPPP Facebook pages last week!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01BM8QUSTS"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U01AA7U2ECA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

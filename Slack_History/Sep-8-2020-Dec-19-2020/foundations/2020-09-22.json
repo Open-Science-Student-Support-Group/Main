@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "9191a0d5-752f-4427-96c8-421b3018daba",
+        "type": "message",
+        "text": "I can start working on some guidelines for facilitators - since I’ll be thinking through how to engage\/advise facilitators on their roles as part of session planning! I’d also suggest alongside the Powerpoint template, we provide recommendations for accessible presentations (e.g. alt text for images, minimum font size, colour contrast, colour-blind friendly colour schemes, etc). I’ve seen some conferences beginning to require accessible presentations, so it is a good practice to get into!",
+        "user": "U01ANS2G30R",
+        "ts": "1600788776.014600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E95SJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can start working on some guidelines for facilitators - since I’ll be thinking through how to engage\/advise facilitators on their roles as part of session planning! I’d also suggest alongside the Powerpoint template, we provide recommendations for accessible presentations (e.g. alt text for images, minimum font size, colour contrast, colour-blind friendly colour schemes, etc). I’ve seen some conferences beginning to require accessible presentations, so it is a good practice to get into!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600745323.012900",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "8f3161c9-004e-46c9-adf6-9401309cee5c",
+        "type": "message",
+        "text": "That sounds great Emiko! And yes, I’m definitely on board with providing guidelines for accessible presentations!",
+        "user": "U01AA7U2ECA",
+        "ts": "1600825563.000100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5lV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That sounds great Emiko! And yes, I’m definitely on board with providing guidelines for accessible presentations!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600745323.012900",
+        "parent_user_id": "U01AA7U2ECA"
+    }
+]

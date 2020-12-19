@@ -1,0 +1,504 @@
+[
+    {
+        "client_msg_id": "e7f65d00-b447-4e1a-b297-c64653d40120",
+        "type": "message",
+        "text": "Edit: don’t fill out this doodle poll for now, please respond to the poll below instead!\n\n<!channel> Hey Everyone! As promised, I’m planning the next core team meeting more in advance. Here’s a poll for Dec 1-3, which I have worked out as a good meeting time based on a timeline of what we need to discuss before the end of the semester and what needs to happen before that. As we will be discussing some important topics (e.g. topics for the Winter semester, changes to the group format, roles and who will be fulfilling them), I hope many of you can make it, especially current organizers! If this period is really bad for you due to deadlines\/other tasks, please let me know asap, and I will try to work out a timeline that works better! If you can make it work, please fill out the poll *by Wednesday night*: <https:\/\/doodle.com\/poll\/qqqgefnxxeb7ztqp?utm_source=poll&amp;utm_medium=link>",
+        "user": "U01AA7U2ECA",
+        "ts": "1605557739.004700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01AA7U2ECA",
+            "ts": "1605659588.000000"
+        },
+        "attachments": [
+            {
+                "title": "Doodle: OSSSG core meeting",
+                "title_link": "https:\/\/doodle.com\/poll\/qqqgefnxxeb7ztqp?utm_source=poll&utm_medium=link",
+                "text": "Doodle is the simplest way to schedule meetings with clients, colleagues, or friends. Find the best time for one-to-ones and team meetings with our user-friendly calendar tool. Get started today!",
+                "fallback": "Doodle: OSSSG core meeting",
+                "image_url": "https:\/\/doodle.com\/graphics\/static\/facebookSharingThumbnail.png",
+                "from_url": "https:\/\/doodle.com\/poll\/qqqgefnxxeb7ztqp?utm_source=poll&utm_medium=link",
+                "image_width": 300,
+                "image_height": 200,
+                "image_bytes": 6864,
+                "service_icon": "https:\/\/cdn2.doodle.com\/dist\/i\/7479b568749fca315a2969e30cbee4f5.png",
+                "service_name": "doodle.com",
+                "id": 1,
+                "original_url": "https:\/\/doodle.com\/poll\/qqqgefnxxeb7ztqp?utm_source=poll&amp;utm_medium=link"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sTS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Edit: don’t fill out this doodle poll for now, please respond to the poll below instead!\n\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hey Everyone! As promised, I’m planning the next core team meeting more in advance. Here’s a poll for Dec 1-3, which I have worked out as a good meeting time based on a timeline of what we need to discuss before the end of the semester and what needs to happen before that. As we will be discussing some important topics (e.g. topics for the Winter semester, changes to the group format, roles and who will be fulfilling them), I hope many of you can make it, especially current organizers! If this period is really bad for you due to deadlines\/other tasks, please let me know asap, and I will try to work out a timeline that works better! If you can make it work, please fill out the poll "
+                            },
+                            {
+                                "type": "text",
+                                "text": "by Wednesday night",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/doodle.com\/poll\/qqqgefnxxeb7ztqp?utm_source=poll&utm_medium=link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605557739.004700",
+        "reply_count": 7,
+        "reply_users_count": 5,
+        "latest_reply": "1605673744.012500",
+        "reply_users": [
+            "U01AGDAUB1S",
+            "U01AA7U2ECA",
+            "U01AA7U4UHY",
+            "U01ABLH7DPY",
+            "U01BM8QUSTS"
+        ],
+        "replies": [
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1605558287.004900"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1605558557.005100"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1605562868.006300"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1605582635.010700"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1605585908.010900"
+            },
+            {
+                "user": "U01BM8QUSTS",
+                "ts": "1605673198.012200"
+            },
+            {
+                "user": "U01BM8QUSTS",
+                "ts": "1605673744.012500"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4f89f2f0-2701-4e40-ab7f-e7550fc399c0",
+        "type": "message",
+        "text": "Hey <@U01AA7U2ECA>! Not sure about others, but I have a lot of deadlines of December 7th. If possible, could we have some options after that? If not, no worries, but doesn't hurt to ask!",
+        "user": "U01AGDAUB1S",
+        "ts": "1605558287.004900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=ZO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01AA7U2ECA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Not sure about others, but I have a lot of deadlines of December 7th. If possible, could we have some options after that? If not, no worries, but doesn't hurt to ask!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605557739.004700",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "5d5dd6c8-113a-4756-9ebd-bfc4ccd4c8c9",
+        "type": "message",
+        "text": "The plan was to pick topics before the last session on Dec 4, but other stuff I planned to discuss could easily be done after Dec. 7, so one way to go could be to just have a short meeting some time Dec. 1-3 to talk about the session structure and topics for next semester and then have another later in December to talk about the other stuff, if that works?",
+        "user": "U01AA7U2ECA",
+        "ts": "1605558557.005100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jf9R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The plan was to pick topics before the last session on Dec 4, but other stuff I planned to discuss could easily be done after Dec. 7, so one way to go could be to just have a short meeting some time Dec. 1-3 to talk about the session structure and topics for next semester and then have another later in December to talk about the other stuff, if that works?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605557739.004700",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "155F7F6D-76F2-4BBF-BF91-1DB1E8BD416A",
+        "type": "message",
+        "text": "Dec 1-3 is bad for me (stats exam, scholarship deadline). So I can’t attend unless it’s after this period",
+        "user": "U01AA7U4UHY",
+        "ts": "1605562868.006300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bECE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dec 1-3 is bad for me (stats exam, scholarship deadline). So I can’t attend unless it’s after this period"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605557739.004700",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "1C9A383A-CF52-4397-B7D5-4C2A0C57EADC",
+        "type": "message",
+        "text": "I agree that it’s important for max number of people to be able to attend the meeting because we will be discussing so many important future directions. I wonder whether we absolutely need to set the topics for next semester before the dec 4 session? And rather we can ask participants at dec 4 which topics they would find interesting\/want us to cover and we can bring that info to the organizer meeting after everyone’s deadlines. I know we wanted to advertise to attendees but it might not be worth the push considering the time of year. ",
+        "user": "U01ABLH7DPY",
+        "ts": "1605582635.010700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MYBO0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree that it’s important for max number of people to be able to attend the meeting because we will be discussing so many important future directions. I wonder whether we absolutely need to set the topics for next semester before the dec 4 session? And rather we can ask participants at dec 4 which topics they would find interesting\/want us to cover and we can bring that info to the organizer meeting after everyone’s deadlines. I know we wanted to advertise to attendees but it might not be worth the push considering the time of year. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605557739.004700",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "5c3e32d7-4f3e-4fb1-a657-91b88da3cff0",
+        "type": "message",
+        "text": "Hmm yeah, it seems like this is not the best timing.. Let’s see if we can find a time period that would be better :slightly_smiling_face:",
+        "user": "U01AA7U2ECA",
+        "ts": "1605585908.010900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QRAi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hmm yeah, it seems like this is not the best timing.. Let’s see if we can find a time period that would be better "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605557739.004700",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "bot_id": "B01CJ1B4VUM",
+        "type": "message",
+        "text": "Which week(s) would you likely be able to join a meeting? (you can vote for more than one)",
+        "user": "U01CMA136DR",
+        "ts": "1605586092.011200",
+        "team": "T01A754ECJZ",
+        "bot_profile": {
+            "id": "B01CJ1B4VUM",
+            "deleted": false,
+            "name": "Simple Poll",
+            "updated": 1602709028,
+            "app_id": "A0HFW7MR6",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-05-09\/1112549471909_7543dde099089941d3c3_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-05-09\/1112549471909_7543dde099089941d3c3_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-09\/1112549471909_7543dde099089941d3c3_72.png"
+            },
+            "team_id": "T01A754ECJZ"
+        },
+        "edited": {
+            "user": "B01CJ1B4VUM",
+            "ts": "1605726181.000000"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "poll-afa24c57-fbe5-45be-85ce-dc798e178b16-title-and-menu",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Which week(s) would you likely be able to join a meeting? (you can vote for more than one)*",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "overflow",
+                    "action_id": "title-and-menu",
+                    "options": [
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":information_source: View info",
+                                "emoji": true
+                            },
+                            "value": "view_info"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":pushpin: Capture Decision from Poll",
+                                "emoji": true
+                            },
+                            "value": "capture_decision_from_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":x: Delete Poll",
+                                "emoji": true
+                            },
+                            "value": "delete_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":house: Go to App Home",
+                                "emoji": true
+                            },
+                            "value": "go_to_app_home",
+                            "url": "slack:\/\/app?team=T01A754ECJZ&id=A0HFW7MR6&tab=home"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":bar_chart: Create new Poll",
+                                "emoji": true
+                            },
+                            "value": "create_new_poll"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-afa24c57-fbe5-45be-85ce-dc798e178b16-vote-1",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":one: November 23-27    `1`\n<@U01ANS83U3T>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-1",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":one:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-afa24c57-fbe5-45be-85ce-dc798e178b16-vote-2",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":two: November 30-December 4    `2`\n<@U01ABLH7DPY>, <@U01AADVMMJ7>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-2",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":two:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-afa24c57-fbe5-45be-85ce-dc798e178b16-vote-3",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":three: December 7-11    `5`\n<@U01ABLH7DPY>, <@U01ANS2G30R>, <@U01AA7U4UHY>, <@U01AADVMMJ7>, <@U01ANS83U3T>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-3",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":three:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-afa24c57-fbe5-45be-85ce-dc798e178b16-vote-4",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":four: December 14-18    `6`\n<@U01ABLH7DPY>, <@U01ANS2G30R>, <@U01AA7U4UHY>, <@U01BM8QUSTS>, <@U01AADVMMJ7>, <@U01ANS83U3T>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-4",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":four:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "hxpXW",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Created by <@U01AA7U2ECA> with \/poll",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ]
+    }
+]

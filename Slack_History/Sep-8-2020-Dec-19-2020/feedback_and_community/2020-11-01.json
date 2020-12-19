@@ -1,0 +1,66 @@
+[
+    {
+        "type": "message",
+        "text": "Yes we have receive three responses. I have attached a csv file with the raw data and comments to this message.The feedback was very constructive overall :slightly_smiling_face: you all should be able to access the qualtrics survey if you log onto your qualtrics account (I also think you should have received an email saying that you were added as a collaborator to the qualtrics project)  -  just in case you ever want to check and dont want to have to wait for me!",
+        "files": [
+            {
+                "id": "F01DSV1SSGK",
+                "created": 1604262189,
+                "timestamp": 1604262189,
+                "name": "OSSSG Feedback from Project Workflow Session (Session 2, October 23 2020).csv",
+                "title": "OSSSG Feedback from Project Workflow Session (Session 2, October 23 2020).csv",
+                "mimetype": "text\/csv",
+                "filetype": "csv",
+                "pretty_type": "CSV",
+                "user": "U01ABLH7DPY",
+                "editable": true,
+                "size": 4619,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01DSV1SSGK\/osssg_feedback_from_project_workflow_session__session_2__october_23_2020_.csv?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01DSV1SSGK\/download\/osssg_feedback_from_project_workflow_session__session_2__october_23_2020_.csv?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01ABLH7DPY\/F01DSV1SSGK\/osssg_feedback_from_project_workflow_session__session_2__october_23_2020_.csv",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01DSV1SSGK-2b8baac428",
+                "edit_link": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01ABLH7DPY\/F01DSV1SSGK\/osssg_feedback_from_project_workflow_session__session_2__october_23_2020_.csv\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LetDQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes we have receive three responses. I have attached a csv file with the raw data and comments to this message.The feedback was very constructive overall "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you all should be able to access the qualtrics survey if you log onto your qualtrics account (I also think you should have received an email saying that you were added as a collaborator to the qualtrics project)  -  just in case you ever want to check and dont want to have to wait for me!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01ABLH7DPY",
+        "display_as_bot": false,
+        "ts": "1604262191.003000",
+        "thread_ts": "1604197516.000700",
+        "parent_user_id": "U01AA7U2ECA"
+    }
+]

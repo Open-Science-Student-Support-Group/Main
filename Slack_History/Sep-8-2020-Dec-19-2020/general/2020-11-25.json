@@ -1,0 +1,89 @@
+[
+    {
+        "client_msg_id": "2f447f64-2e16-449e-89c5-c1941ad1cfe1",
+        "type": "message",
+        "text": "Hi <!everyone>! Hope you are all hanging in there as the semester begins to wrap up. We are hoping to plan a virtual OSSSG end of semester social sometime in December. We have not finalized a plan yet but depending on interest we are imagining that we will do some socializing and\/or play games over a virtual platform. Please fill out the Doodle poll below by *Monday December 7th* so we can find a time where most people are available! Also, feel free to suggest ideas for different activities\/games we could play. Thanks! <https:\/\/doodle.com\/poll\/ub9tgq2rxydm5yx3?utm_source=poll&amp;utm_medium=link>",
+        "user": "U01ABLH7DPY",
+        "ts": "1606344595.007100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Doodle: OSSSG End of Semester Social",
+                "title_link": "https:\/\/doodle.com\/poll\/ub9tgq2rxydm5yx3?utm_source=poll&utm_medium=link",
+                "text": "Doodle is the simplest way to schedule meetings with clients, colleagues, or friends. Find the best time for one-to-ones and team meetings with our user-friendly calendar tool. Get started today!",
+                "fallback": "Doodle: OSSSG End of Semester Social",
+                "image_url": "https:\/\/doodle.com\/graphics\/static\/facebookSharingThumbnail.png",
+                "from_url": "https:\/\/doodle.com\/poll\/ub9tgq2rxydm5yx3?utm_source=poll&utm_medium=link",
+                "image_width": 300,
+                "image_height": 200,
+                "image_bytes": 6864,
+                "service_icon": "https:\/\/cdn2.doodle.com\/dist\/i\/7479b568749fca315a2969e30cbee4f5.png",
+                "service_name": "doodle.com",
+                "id": 1,
+                "original_url": "https:\/\/doodle.com\/poll\/ub9tgq2rxydm5yx3?utm_source=poll&amp;utm_medium=link"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0GSS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Hope you are all hanging in there as the semester begins to wrap up. We are hoping to plan a virtual OSSSG end of semester social sometime in December. We have not finalized a plan yet but depending on interest we are imagining that we will do some socializing and\/or play games over a virtual platform. Please fill out the Doodle poll below by "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Monday December 7th",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " so we can find a time where most people are available! Also, feel free to suggest ideas for different activities\/games we could play. Thanks! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/doodle.com\/poll\/ub9tgq2rxydm5yx3?utm_source=poll&utm_medium=link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U01AA7U2ECA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

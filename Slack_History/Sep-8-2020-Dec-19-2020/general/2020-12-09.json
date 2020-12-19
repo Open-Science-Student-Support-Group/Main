@@ -1,0 +1,48 @@
+[
+    {
+        "client_msg_id": "0155aa8b-fd1a-4cfe-a478-79a280b3891a",
+        "type": "message",
+        "text": "<!channel> *** Call for organizers Winter 2021 ***\n\nAs I mentioned last Friday, we're looking for organizers for the Winter semester! Most roles require little time (0.5-3 hours per week). If you are interested in getting involved, please check out this document with brief role descriptions, and let me know if you want to take something on or have any questions! <https:\/\/docs.google.com\/document\/d\/1PbJlHtjhlLQ8Ml0w8F4ONdkXOniSsuQsdygWxQk72lU\/edit?usp=sharing>",
+        "user": "U01AA7U2ECA",
+        "ts": "1607547069.030200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xs8Z5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " *** Call for organizers Winter 2021 ***\n\nAs I mentioned last Friday, we're looking for organizers for the Winter semester! Most roles require little time (0.5-3 hours per week). If you are interested in getting involved, please check out this document with brief role descriptions, and let me know if you want to take something on or have any questions! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1PbJlHtjhlLQ8Ml0w8F4ONdkXOniSsuQsdygWxQk72lU\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

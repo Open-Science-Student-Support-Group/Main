@@ -1,0 +1,262 @@
+[
+    {
+        "client_msg_id": "0bc0b88d-bafd-46ee-bfb1-716ece0c49c6",
+        "type": "message",
+        "text": "For tomorrow, I’ve got these things on my mind to discuss:\n• community engagement\/challenge facilitator\n• conflict resolution document (Jenelle)\n• feedback (Chelsea)\n• moderation of Slack (Jassleen)\nIs there anything else?",
+        "user": "U01AA7U2ECA",
+        "ts": "1603228494.002100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RXH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For tomorrow, I’ve got these things on my mind to discuss:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "community engagement\/challenge facilitator"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "conflict resolution document (Jenelle)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "feedback (Chelsea)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "moderation of Slack (Jassleen)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is there anything else?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603228494.002100",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1603314201.005300",
+        "reply_users": [
+            "U01AADVMMJ7",
+            "U01ABLH7DPY",
+            "U01BM8QUSTS"
+        ],
+        "replies": [
+            {
+                "user": "U01AADVMMJ7",
+                "ts": "1603228991.002200"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1603242544.002700"
+            },
+            {
+                "user": "U01BM8QUSTS",
+                "ts": "1603314201.005300"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2be952fe-2f9e-4a0d-8d2d-0b7fda547593",
+        "type": "message",
+        "text": "I think that's a good list!",
+        "user": "U01AADVMMJ7",
+        "ts": "1603228991.002200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "bc87ba7ccce1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-25\/1445402318902_bc87ba7ccce142957a62_72.png",
+            "first_name": "Jassleen",
+            "real_name": "Jassleen Parmar",
+            "display_name": "Jassleen Parmar",
+            "team": "T01A754ECJZ",
+            "name": "jassleen.parmar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tn8yA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think that's a good list!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603228494.002100",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "51BB1F44-8A5F-441D-B05F-2A5133A41EE0",
+        "type": "message",
+        "text": "Yeah that will give us plenty to discuss! Thanks Gwen ",
+        "user": "U01ABLH7DPY",
+        "ts": "1603242544.002700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u9l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah that will give us plenty to discuss! Thanks Gwen "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603228494.002100",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "text": "See attached for what I came up with regrading a formal feedback form for the OSSSG group.\n \nLooking forward to discuss further – including type of feedback we want to elicit form participants, the length, components\/wording, and distribution :blush:\n \nSee you tomorrow!",
+        "files": [
+            {
+                "id": "F01D02X9ECS",
+                "created": 1603243333,
+                "timestamp": 1603243333,
+                "name": "feedback form osssg.docx",
+                "title": "feedback form osssg.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U01ABLH7DPY",
+                "editable": false,
+                "size": 17420,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01D02X9ECS\/feedback_form_osssg.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01D02X9ECS\/download\/feedback_form_osssg.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01D02X9ECS-871eaac49c\/feedback_form_osssg_converted.pdf?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01D02X9ECS-871eaac49c\/feedback_form_osssg_thumb_pdf.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01ABLH7DPY\/F01D02X9ECS\/feedback_form_osssg.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01D02X9ECS-f0ac6a3410",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T5cJe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "See attached for what I came up with regrading a formal feedback form for the OSSSG group.\n \nLooking forward to discuss further – including type of feedback we want to elicit form participants, the length, components\/wording, and distribution "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n \nSee you tomorrow!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01ABLH7DPY",
+        "display_as_bot": false,
+        "ts": "1603243337.002900",
+        "client_msg_id": "e605112c-cd71-4b7e-8394-388e4d9a9f24"
+    }
+]

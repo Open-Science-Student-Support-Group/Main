@@ -1,0 +1,756 @@
+[
+    {
+        "client_msg_id": "b9dda397-446d-4a0b-8947-ae4325294b21",
+        "type": "message",
+        "text": "I just spoke with Rosie about the plan for this Friday. She will introduce herself and talk brielfy about how they got involved in open science, and then will provide overview of barriers and solutions she has tried (successfully and not) for each of the practices we talked about this semester. Then she will share examples of her own metascience research and experience creating her first registered report. She is happy to stick around for the duration of the session and will be paired with participants. I will send out the session agenda soon for your feedback.\n\nQuestion for both of you: Rosie will be sharing some anecdotes about difficult conversations she has had to have with supervisors. She is okay with us recording the session but she does not want it to be widely available to people outside of the group. I told her that we only share the recording with the group, we do not post it freely on OSF or anything like that. Can I confirm that this is actually the case? And if it is not, could we make an exception for this presentation?",
+        "user": "U01ABLH7DPY",
+        "ts": "1606769902.002100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01ABLH7DPY",
+            "ts": "1606769992.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iGwz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just spoke with Rosie about the plan for this Friday. She will introduce herself and talk brielfy about how they got involved in open science, and then will provide overview of barriers and solutions she has tried (successfully and not) for each of the practices we talked about this semester. Then she will share examples of her own metascience research and experience creating her first registered report. She is happy to stick around for the duration of the session and will be paired with participants. I will send out the session agenda soon for your feedback.\n\nQuestion for both of you: Rosie will be sharing some anecdotes about difficult conversations she has had to have with supervisors. She is okay with us recording the session but she does not want it to be widely available to people outside of the group. I told her that we only share the recording with the group, we do not post it freely on OSF or anything like that. Can I confirm that this is actually the case? And if it is not, could we make an exception for this presentation?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e0319456-7143-4338-8252-cdf9326ba016",
+        "type": "message",
+        "text": "I think we would generally share the recordings openly online, but we can definitely make an exception, I can understand that she would not be comfortable just throwing that out into the world! If she is comfortable with recording and then just sharing it here on Slack, that would be great, but honestly, if she’d prefer not to record at all, that is fine too! The topic of this session is especially personal\/sensitive, so it would make sense for me to just share that with the people present",
+        "user": "U01AA7U2ECA",
+        "ts": "1606771520.004800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "et2R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think we would generally share the recordings openly online, but we can definitely make an exception, I can understand that she would not be comfortable just throwing that out into the world! If she is comfortable with recording and then just sharing it here on Slack, that would be great, but honestly, if she’d prefer not to record at all, that is fine too! The topic of this session is especially personal\/sensitive, so it would make sense for me to just share that with the people present"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606771520.004800",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1606771852.005800",
+        "reply_users": [
+            "U01ABLH7DPY",
+            "U01AA7U2ECA",
+            "U01ANS2G30R"
+        ],
+        "replies": [
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1606771714.005000"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1606771835.005300"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1606771850.005500"
+            },
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1606771852.005800"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1606771852.005800"
+    },
+    {
+        "client_msg_id": "157c6070-8a2a-43a0-949a-17cba8a3ab28",
+        "type": "message",
+        "text": "Thanks Gwen! I think she is fine with sharing it with other group members she just doesnt want it on a public youtube or anything. like that. What we can do is record it and confirm after the presentation that she is still comfortable with sharing, after she knows exactly what she spoke about.Let me know what you think :slightly_smiling_face:",
+        "user": "U01ABLH7DPY",
+        "ts": "1606771714.005000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01ABLH7DPY",
+            "ts": "1606771729.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rYFLS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Gwen! I think she is fine with sharing it with other group members she just doesnt want it on a public youtube or anything. like that. What we can do is record it and confirm after the presentation that she is still comfortable with sharing, after she knows exactly what she spoke about.Let me know what you think "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606771520.004800",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "dcc90272-9fcc-4693-9c52-00a864ed2ed4",
+        "type": "message",
+        "text": "Yeah that works!",
+        "user": "U01AA7U2ECA",
+        "ts": "1606771835.005300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XUxR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah that works!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606771520.004800",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "c6bc7cec-d87c-430a-81ab-1b133238c531",
+        "type": "message",
+        "text": "Great thanks :slightly_smiling_face:",
+        "user": "U01ABLH7DPY",
+        "ts": "1606771850.005500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OIf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great thanks "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606771520.004800",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "18a8fa59-18ca-4f7e-bc09-869c26dabfae",
+        "type": "message",
+        "text": "That sounds like a great plan! I think Matt has been planning to host the videos on YouTube, and then link them on Slack, but we can adjust that practice for this last session, depending on Rosie’s comfort level after the session! I just posted on the organizer channel that registrations are at 6 right now, but its not uncommon for registrations to increase the week-of, especially with an extra little push. Chelsea, just let me know if you need anything else from me in advance of the session!",
+        "user": "U01ANS2G30R",
+        "ts": "1606771852.005800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WCOM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That sounds like a great plan! I think Matt has been planning to host the videos on YouTube, and then link them on Slack, but we can adjust that practice for this last session, depending on Rosie’s comfort level after the session! I just posted on the organizer channel that registrations are at 6 right now, but its not uncommon for registrations to increase the week-of, especially with an extra little push. Chelsea, just let me know if you need anything else from me in advance of the session!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606771520.004800",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "text": "Here is a rough draft of facilitation guide, could you both let me know what you think of the format? it might be a bit complicated to implement. Also whoever will be chat facilitator will be busy and may not be able to participate in the discussion, which is not ideal - maybe you two have ideas on how to minimize this?",
+        "files": [
+            {
+                "id": "F01FMHD0KBQ",
+                "created": 1606771932,
+                "timestamp": 1606771932,
+                "name": "Facilitator Guide Troubleshooting Open Science.docx",
+                "title": "Facilitator Guide Troubleshooting Open Science.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U01ABLH7DPY",
+                "editable": false,
+                "size": 34822,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01FMHD0KBQ\/facilitator_guide_troubleshooting_open_science.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01FMHD0KBQ\/download\/facilitator_guide_troubleshooting_open_science.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01FMHD0KBQ-f8ec02d26b\/facilitator_guide_troubleshooting_open_science_converted.pdf?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01FMHD0KBQ-f8ec02d26b\/facilitator_guide_troubleshooting_open_science_thumb_pdf.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01ABLH7DPY\/F01FMHD0KBQ\/facilitator_guide_troubleshooting_open_science.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01FMHD0KBQ-3dfc0e05fa",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Tmp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is a rough draft of facilitation guide, could you both let me know what you think of the format? it might be a bit complicated to implement. Also whoever will be chat facilitator will be busy and may not be able to participate in the discussion, which is not ideal - maybe you two have ideas on how to minimize this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01ABLH7DPY",
+        "display_as_bot": false,
+        "ts": "1606771938.007300",
+        "thread_ts": "1606771938.007300",
+        "reply_count": 18,
+        "reply_users_count": 3,
+        "latest_reply": "1606945235.013700",
+        "reply_users": [
+            "U01ANS2G30R",
+            "U01AA7U2ECA",
+            "U01ABLH7DPY"
+        ],
+        "replies": [
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1606775270.007700"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1606776435.007900"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1606776678.008100"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1606776749.008400"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1606776820.008600"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1606776929.008800"
+            },
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1606777211.009000"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1606944239.009200"
+            },
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1606944852.009500"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1606944902.010100"
+            },
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1606944924.010300"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1606945021.011400"
+            },
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1606945051.011600"
+            },
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1606945123.011800"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1606945155.012500"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1606945171.013200"
+            },
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1606945221.013400"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1606945235.013700"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1606945235.013700"
+    },
+    {
+        "client_msg_id": "44d87862-bdca-45c9-a2eb-d986eb8a6fb9",
+        "type": "message",
+        "text": "Hi Chelsea, the guide is looking good so far - I think having the descriptions in the agenda will really help. I agree that the chat facilitator won’t be able to really participate, which is unfortunate, but I don’t see any way around it really? I think it would be too disruptive to rotate the person acting as chat facilitator through the session, which is the only idea I have. But maybe the chat facilitator can still contribute thoughts on the jamboard, or maybe pop into a breakout to listen, contribute without necessarily sharing their own stuff. That way they can still participate somewhat.",
+        "user": "U01ANS2G30R",
+        "ts": "1606775270.007700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h9ze",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Chelsea, the guide is looking good so far - I think having the descriptions in the agenda will really help. I agree that the chat facilitator won’t be able to really participate, which is unfortunate, but I don’t see any way around it really? I think it would be too disruptive to rotate the person acting as chat facilitator through the session, which is the only idea I have. But maybe the chat facilitator can still contribute thoughts on the jamboard, or maybe pop into a breakout to listen, contribute without necessarily sharing their own stuff. That way they can still participate somewhat."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606771938.007300",
+        "parent_user_id": "U01ABLH7DPY"
+    },
+    {
+        "client_msg_id": "b3162d4e-e4ed-457b-a6d4-79318bf258e3",
+        "type": "message",
+        "text": "I was thinking that the chat facilitator could maybe just stay in the main room with one or two (if there is an uneven number of participants) other participants, and just chat with them about the topic to whatever degree they are able - it will still not be perfect, but I think that will at least take away less time from taking part themselves? Also, I see why a 3 minute warning would be good, but maybe that is not strictly necessary? I don't feel strongly about this, so we can keep it, it's just another way I was thinking we could lower the burden of the chat facilitator",
+        "user": "U01AA7U2ECA",
+        "ts": "1606776435.007900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N0EVC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was thinking that the chat facilitator could maybe just stay in the main room with one or two (if there is an uneven number of participants) other participants, and just chat with them about the topic to whatever degree they are able - it will still not be perfect, but I think that will at least take away less time from taking part themselves? Also, I see why a 3 minute warning would be good, but maybe that is not strictly necessary? I don't feel strongly about this, so we can keep it, it's just another way I was thinking we could lower the burden of the chat facilitator"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606771938.007300",
+        "parent_user_id": "U01ABLH7DPY"
+    },
+    {
+        "client_msg_id": "61e09e08-757d-4f55-83a5-38aead7428e5",
+        "type": "message",
+        "text": "I've also been thinking a bit about the discussion questions for the breakout, and I like what you have Chelsea, but rephrased it a bit to make it more general so people who have not taken part up to now don't feel called out too much, and added two, I was thinking we could have one topic per round, so there is hopefully not too much overlap, and the last one as a 'spare' or 'bonus' in case a duo has little to say about the topic we are currently on:\n1. Have you used any open science practices this semester? If yes, which ones? If no, are there circumstances that make the use of open science practices difficult for you?\n2. Have you talked about open science practices with your supervisor, lab members and\/or collaborators this semester? If yes, how did that go? If no, is there anything that makes it hard to discuss open science with the people you work with?\n3. What do you find difficult\/daunting about open science (either in theory or practice)?\n4. When did you first hear about open science? How has your thinking about this changed since then?",
+        "user": "U01AA7U2ECA",
+        "ts": "1606776678.008100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01AA7U2ECA",
+            "ts": "1606776716.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L5lQA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've also been thinking a bit about the discussion questions for the breakout, and I like what you have Chelsea, but rephrased it a bit to make it more general so people who have not taken part up to now don't feel called out too much, and added two, I was thinking we could have one topic per round, so there is hopefully not too much overlap, and the last one as a 'spare' or 'bonus' in case a duo has little to say about the topic we are currently on:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Have you used any open science practices this semester? If yes, which ones? If no, are there circumstances that make the use of open science practices difficult for you?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Have you talked about open science practices with your supervisor, lab members and\/or collaborators this semester? If yes, how did that go? If no, is there anything that makes it hard to discuss open science with the people you work with?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What do you find difficult\/daunting about open science (either in theory or practice)?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "When did you first hear about open science? How has your thinking about this changed since then?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606771938.007300",
+        "parent_user_id": "U01ABLH7DPY"
+    },
+    {
+        "client_msg_id": "33ed1dcf-4fa5-4bbc-947a-62ae2788de82",
+        "type": "message",
+        "text": "Alternatively, #4 could be a nice opening topic and we could do 4 rounds and have a bit less time for full group discussion",
+        "user": "U01AA7U2ECA",
+        "ts": "1606776749.008400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8b+d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alternatively, #4 could be a nice opening topic and we could do 4 rounds and have a bit less time for full group discussion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606771938.007300",
+        "parent_user_id": "U01ABLH7DPY"
+    },
+    {
+        "client_msg_id": "b31621e7-d938-4e91-8e44-6d2340218504",
+        "type": "message",
+        "text": "I feel like I just have to experience this before really knowing how many rounds\/minutes per round is too little\/too much.. :sweat_smile:",
+        "user": "U01AA7U2ECA",
+        "ts": "1606776820.008600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HRD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I feel like I just have to experience this before really knowing how many rounds\/minutes per round is too little\/too much.. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606771938.007300",
+        "parent_user_id": "U01ABLH7DPY"
+    },
+    {
+        "client_msg_id": "839cab3a-7d2f-481e-acfc-c82ddf43bb31",
+        "type": "message",
+        "text": "Otherwise, I think this all looks great Chelsea, thanks for setting this up!",
+        "user": "U01AA7U2ECA",
+        "ts": "1606776929.008800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PJr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Otherwise, I think this all looks great Chelsea, thanks for setting this up!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606771938.007300",
+        "parent_user_id": "U01ABLH7DPY"
+    },
+    {
+        "client_msg_id": "653818f5-fce5-4273-872a-089c19e4bbeb",
+        "type": "message",
+        "text": "I like the idea of keeping a 3-minute warning, it can be too easy for one person to dominate with what they want to share, or lose track of time, so having a prompt to “switch” is really helpful.\n\nI’d lean towards just three rounds for this first time, because I think there could be some interesting discussion that comes up with the full group at the end. Plus, there is less potential for monotony or repetition. But I definitely agree that it is hard to know how this format will work until we have tried it out!\n\nAlso - I was seeing the discussion prompts more as things to guide the one-on-one conversations, and less that each round had to address one of those questions - but maybe I interpreted that incorrectly?",
+        "user": "U01ANS2G30R",
+        "ts": "1606777211.009000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3aYa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I like the idea of keeping a 3-minute warning, it can be too easy for one person to dominate with what they want to share, or lose track of time, so having a prompt to “switch” is really helpful.\n\nI’d lean towards just three rounds for this first time, because I think there could be some interesting discussion that comes up with the full group at the end. Plus, there is less potential for monotony or repetition. But I definitely agree that it is hard to know how this format will work until we have tried it out!\n\nAlso - I was seeing the discussion prompts more as things to guide the one-on-one conversations, and less that each round had to address one of those questions - but maybe I interpreted that incorrectly?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606771938.007300",
+        "parent_user_id": "U01ABLH7DPY"
+    }
+]

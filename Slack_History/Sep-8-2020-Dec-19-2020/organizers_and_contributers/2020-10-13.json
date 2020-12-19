@@ -1,0 +1,149 @@
+[
+    {
+        "bot_id": "B01AGKD04SY",
+        "type": "message",
+        "text": "",
+        "user": "U01AP2WAHGR",
+        "ts": "1602636125.000100",
+        "team": "T01A754ECJZ",
+        "bot_profile": {
+            "id": "B01AGKD04SY",
+            "deleted": false,
+            "name": "GitHub",
+            "updated": 1599596265,
+            "app_id": "A8GBNUWU8",
+            "icons": {
+                "image_36": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-12-19\/288981919427_f45f04edd92902a96859_36.png",
+                "image_48": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-12-19\/288981919427_f45f04edd92902a96859_48.png",
+                "image_72": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-12-19\/288981919427_f45f04edd92902a96859_72.png"
+            },
+            "team_id": "T01A754ECJZ"
+        },
+        "attachments": [
+            {
+                "author_name": "GwenvdW",
+                "fallback": "[Open-Science-Student-Support-Group\/Main] <https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/compare\/1bcd437dfa9d...e538a87f52d2|3 new commits> pushed to <https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/tree\/master|`master`>",
+                "text": "*<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/compare\/1bcd437dfa9d...e538a87f52d2|3 new commits> pushed to <https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/tree\/master|`master`>*\n<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/commit\/29b2f12ded979c864c0854ca7ad7386dfce7c430|`29b2f12d`> - Create OSSSG_intro_to_open_science.pptx\n<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/commit\/8322494f840aa1ecf0ffcd3a6bab1b90bd0737cc|`8322494f`> - added license\n<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/commit\/e538a87f52d2ca6176652b2aacd5eea03494374c|`e538a87f`> - added slides for first session in ppt format",
+                "footer": "<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main|Open-Science-Student-Support-Group\/Main>",
+                "id": 1,
+                "author_link": "https:\/\/github.com\/GwenvdW",
+                "author_icon": "https:\/\/avatars1.githubusercontent.com\/u\/66083270?v=4",
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "color": "24292f",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Hi <!channel>! Here is the proposed agenda I created for tomorrow: I essentially want to spend most time talking about the first session, what we liked & what could be improved, and some smaller additional things if we have time :slightly_smiling_face: Look forward to seeing you tomorrow, 2pm!",
+        "files": [
+            {
+                "id": "F01CFKPSMUM",
+                "created": 1602643289,
+                "timestamp": 1602643289,
+                "name": "Meeting agendas & notes.docx",
+                "title": "Meeting agendas &amp; notes.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U01AA7U2ECA",
+                "editable": false,
+                "size": 42883,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01CFKPSMUM\/meeting_agendas___notes.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01CFKPSMUM\/download\/meeting_agendas___notes.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CFKPSMUM-c9bcbbb077\/meeting_agendas___notes_converted.pdf?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01CFKPSMUM-c9bcbbb077\/meeting_agendas___notes_thumb_pdf.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01AA7U2ECA\/F01CFKPSMUM\/meeting_agendas___notes.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01CFKPSMUM-7c85fb8cbe",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2IrKf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Here is the proposed agenda I created for tomorrow: I essentially want to spend most time talking about the first session, what we liked & what could be improved, and some smaller additional things if we have time "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Look forward to seeing you tomorrow, 2pm!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01AA7U2ECA",
+        "display_as_bot": false,
+        "ts": "1602643303.001400"
+    },
+    {
+        "bot_id": "B01AGKD04SY",
+        "type": "message",
+        "text": "",
+        "user": "U01AP2WAHGR",
+        "ts": "1602646235.001700",
+        "team": "T01A754ECJZ",
+        "bot_profile": {
+            "id": "B01AGKD04SY",
+            "deleted": false,
+            "name": "GitHub",
+            "updated": 1599596265,
+            "app_id": "A8GBNUWU8",
+            "icons": {
+                "image_36": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-12-19\/288981919427_f45f04edd92902a96859_36.png",
+                "image_48": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-12-19\/288981919427_f45f04edd92902a96859_48.png",
+                "image_72": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-12-19\/288981919427_f45f04edd92902a96859_72.png"
+            },
+            "team_id": "T01A754ECJZ"
+        },
+        "attachments": [
+            {
+                "author_name": "GwenvdW",
+                "fallback": "[Open-Science-Student-Support-Group\/Main] <https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/compare\/e538a87f52d2...ec91880223f0|3 new commits> pushed to <https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/tree\/master|`master`>",
+                "text": "*<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/compare\/e538a87f52d2...ec91880223f0|3 new commits> pushed to <https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/tree\/master|`master`>*\n<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/commit\/23d165d73366007edd25ccf59ee1116858a6a056|`23d165d7`> - Added notes from Oct 2 and agenda for Oct 14\n<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/commit\/0f5459151906d143ea52948034390b8016511fdc|`0f545915`> - Updated OSSSG powerpoint template\n<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/commit\/ec91880223f0d5b6edf949b01121dbcabe9bc430|`ec918802`> - Updated discussion questions &amp; challenges, as well as resources for accessible presentations",
+                "footer": "<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main|Open-Science-Student-Support-Group\/Main>",
+                "id": 1,
+                "author_link": "https:\/\/github.com\/GwenvdW",
+                "author_icon": "https:\/\/avatars1.githubusercontent.com\/u\/66083270?v=4",
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "color": "24292f",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

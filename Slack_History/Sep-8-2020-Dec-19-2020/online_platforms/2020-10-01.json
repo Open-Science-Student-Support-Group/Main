@@ -1,0 +1,609 @@
+[
+    {
+        "client_msg_id": "3197abeb-35de-4e43-b743-f3a6d5489147",
+        "type": "message",
+        "text": "Hi online platforms team! I am creating the agenda for our meeting on Friday, and was just wondering if there is anything you would like to discuss with the other core unit members? I’m thinking especially related to our platforms, but other things are welcome too!",
+        "user": "U01AA7U2ECA",
+        "ts": "1601577696.001600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gpj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi online platforms team! I am creating the agenda for our meeting on Friday, and was just wondering if there is anything you would like to discuss with the other core unit members? I’m thinking especially related to our platforms, but other things are welcome too!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601577696.001600",
+        "reply_count": 15,
+        "reply_users_count": 3,
+        "latest_reply": "1601656243.004400",
+        "reply_users": [
+            "U01ANS83U3T",
+            "U01AA7U4UHY",
+            "U01AA7U2ECA"
+        ],
+        "replies": [
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1601587916.002400"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1601587954.003100"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1601599285.000100"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1601600416.001400"
+            },
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1601600469.002000"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1601602546.002300"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1601602589.002500"
+            },
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1601606182.000900"
+            },
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1601612413.002100"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1601654974.000100"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1601654991.000300"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1601655021.000600"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1601655109.000800"
+            },
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1601656197.003300"
+            },
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1601656243.004400"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1601587588.001000",
+        "thread_ts": "1601587588.001000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1601587894.001900",
+        "reply_users": [
+            "U01AA7U4UHY",
+            "U01ANS83U3T"
+        ],
+        "replies": [
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1601587874.001500"
+            },
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1601587894.001900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "99BAC4DA-2C9C-433B-845F-D7E9F3280946",
+        "type": "message",
+        "text": "Threads my friend :grimacing:",
+        "user": "U01AA7U4UHY",
+        "ts": "1601587874.001500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L9H5h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Threads my friend "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601587588.001000",
+        "parent_user_id": "U01ANS83U3T"
+    },
+    {
+        "client_msg_id": "B7800274-85C6-4798-9B5B-C478298BADCA",
+        "type": "message",
+        "text": "Yup I’m really bad about that lol",
+        "user": "U01ANS83U3T",
+        "ts": "1601587894.001900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zSGrp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup I’m really bad about that lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601587588.001000",
+        "parent_user_id": "U01ANS83U3T",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U01AA7U4UHY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DCD437C0-F909-4108-B32F-1960B0327FFF",
+        "type": "message",
+        "text": "I think we should go over what development of the SharePoint\/Teams will look like just so everyone knows what to expect",
+        "user": "U01ANS83U3T",
+        "ts": "1601587916.002400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9\/sg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think we should go over what development of the SharePoint\/Teams will look like just so everyone knows what to expect"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601577696.001600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "B830DAF6-E09B-4DFE-B477-01BFB092BA7B",
+        "type": "message",
+        "text": "Yeah, just sharepoint\/Teams I think. ",
+        "user": "U01AA7U4UHY",
+        "ts": "1601587954.003100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=oS=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, just sharepoint\/Teams I think. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601577696.001600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "76089829-1870-45ed-890c-572e307565f6",
+        "type": "message",
+        "text": "Yeah that would be good! Do either of you by any chance have a bit of time before the meeting to explore the group and the options a bit? I already found out that you cannot email the group from gmail (so I would assume from all external email platforms), and I think sending an email to the group email address means it goes out to all members, so that might not be a good point of contact after all.. Anyway, no worries if you don’t have time, I just think it would be easier to discuss if at least some of us know a little about what is and is not possible ^^",
+        "user": "U01AA7U2ECA",
+        "ts": "1601599285.000100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RrF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah that would be good! Do either of you by any chance have a bit of time before the meeting to explore the group and the options a bit? I already found out that you cannot email the group from gmail (so I would assume from all external email platforms), and I think sending an email to the group email address means it goes out to all members, so that might not be a good point of contact after all.. Anyway, no worries if you don’t have time, I just think it would be easier to discuss if at least some of us know a little about what is and is not possible ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601577696.001600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "CF8C2F29-1206-4B15-9F4D-C30917A33D81",
+        "type": "message",
+        "text": "<@U01ANS83U3T> do you want to do that if you have time since you’re more familiar with this than me? ",
+        "user": "U01AA7U4UHY",
+        "ts": "1601600416.001400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z\/x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01ANS83U3T"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you want to do that if you have time since you’re more familiar with this than me? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601577696.001600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "39B653FF-CD66-4374-8BCE-BC789651ACC6",
+        "type": "message",
+        "text": "For sure, I’m just waiting on an email that lets me into the group",
+        "user": "U01ANS83U3T",
+        "ts": "1601600469.002000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9n0c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For sure, I’m just waiting on an email that lets me into the group"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601577696.001600",
+        "parent_user_id": "U01AA7U2ECA",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01AA7U4UHY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7938703c-7e6f-40d3-8b34-f8bec6575b3f",
+        "type": "message",
+        "text": "Hmm, Matt, I already approved your joining the group a while ago, I think you should be able to access it",
+        "user": "U01AA7U2ECA",
+        "ts": "1601602546.002300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o\/l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hmm, Matt, I already approved your joining the group a while ago, I think you should be able to access it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601577696.001600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "4b534d05-4502-4173-a9a7-e8fbfd0c104b",
+        "type": "message",
+        "text": "In your email, under groups, do you see anything?",
+        "user": "U01AA7U2ECA",
+        "ts": "1601602589.002500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "szT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In your email, under groups, do you see anything?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601577696.001600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "ED50AE00-207F-4E0C-949B-F4D0B39432A1",
+        "type": "message",
+        "text": "I do now! Thanks for letting me know wheee to check, it wasn’t showing up in any of my other inboxes",
+        "user": "U01ANS83U3T",
+        "ts": "1601606182.000900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IO90O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I do now! Thanks for letting me know wheee to check, it wasn’t showing up in any of my other inboxes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601577696.001600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "A454F9F9-204F-415E-AFE7-A8D1CE6E7217",
+        "type": "message",
+        "text": "<@U01AA7U2ECA> as an owner of the SharePoint, are you able to edit the permissions of other users? I’m just wondering because currently as a member with presumably basic permissions, I can edit anything which could potentially be an issue due to human error or people editing things they shouldn’t ",
+        "user": "U01ANS83U3T",
+        "ts": "1601612413.002100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xGWBU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01AA7U2ECA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " as an owner of the SharePoint, are you able to edit the permissions of other users? I’m just wondering because currently as a member with presumably basic permissions, I can edit anything which could potentially be an issue due to human error or people editing things they shouldn’t "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601577696.001600",
+        "parent_user_id": "U01AA7U2ECA"
+    }
+]

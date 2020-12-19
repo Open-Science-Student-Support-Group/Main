@@ -1,0 +1,101 @@
+[
+    {
+        "client_msg_id": "c686de9f-1398-4763-8634-b4f95c7404d5",
+        "type": "message",
+        "text": "<@U01AA7U2ECA> I agree! I think giving support and not operating by an “all or nothing” principle is a great benefit of this group!",
+        "user": "U01ANS2G30R",
+        "ts": "1601223997.000400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3IKs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01AA7U2ECA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I agree! I think giving support and not operating by an “all or nothing” principle is a great benefit of this group!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600719513.007000",
+        "parent_user_id": "U01ANS2G30R"
+    },
+    {
+        "client_msg_id": "746601cc-154f-4ecb-9eda-6081eb596252",
+        "type": "message",
+        "text": "I found this podcast series on a wide range of open science topics: <https:\/\/septentrio.uit.no\/index.php\/OSTalk\/issue\/archive>\nI've only listened to two so far, but so far they've been interesting and easy to listen to! (~15 minutes per episode)",
+        "user": "U01AA7U2ECA",
+        "ts": "1601230341.001800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5in",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I found this podcast series on a wide range of open science topics: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/septentrio.uit.no\/index.php\/OSTalk\/issue\/archive"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI've only listened to two so far, but so far they've been interesting and easy to listen to! (~15 minutes per episode)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "the_horns",
+                "users": [
+                    "U01AA7U4UHY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,190 @@
+[
+    {
+        "client_msg_id": "ad7cf064-b515-40b2-bbd4-7422c177655b",
+        "type": "message",
+        "text": "Greetings <!everyone>! I hope the snow has been kind to you (because it hasn't been to me)\n\nIf you're interested in attending *our second session on Project Workflow,* but have not registered yet, you still have time!\nHere's the link to register and get more details about the session --&gt; <https:\/\/ucalgary.zoom.us\/meeting\/register\/tJUlduquqTwoGtaKlZIDVsgYk7mLgBQEMWEQ>\n\nSee you this Friday at 4 pm,\nJenelle A. Morgan",
+        "user": "U01BM8QUSTS",
+        "ts": "1603305947.005400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "01c8086c20a1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-16\/1434346692659_01c8086c20a1bbd0c488_72.png",
+            "first_name": "",
+            "real_name": "Jenelle Morgan",
+            "display_name": "Jenelle Morgan",
+            "team": "T01A754ECJZ",
+            "name": "jenelle.morgan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hUiJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Greetings "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I hope the snow has been kind to you (because it hasn't been to me)\n\nIf you're interested in attending "
+                            },
+                            {
+                                "type": "text",
+                                "text": "our second session on Project Workflow, ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "but have not registered yet, you still have time!\nHere's the link to register and get more details about the session --> "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ucalgary.zoom.us\/meeting\/register\/tJUlduquqTwoGtaKlZIDVsgYk7mLgBQEMWEQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nSee you this Friday at 4 pm,\nJenelle A. Morgan"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603305947.005400",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1603462578.006400",
+        "reply_users": [
+            "U01AGDAUB1S",
+            "U01BM8QUSTS",
+            "U01A3HZ3R63"
+        ],
+        "replies": [
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1603306923.005600"
+            },
+            {
+                "user": "U01BM8QUSTS",
+                "ts": "1603316265.006100"
+            },
+            {
+                "user": "U01A3HZ3R63",
+                "ts": "1603462578.006400"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01AGDAUB1S",
+                    "U01AA7U2ECA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "93a98f8d-ffe2-4eff-ae3c-3fdbe3bf9f8a",
+        "type": "message",
+        "text": "Ugh, the snow. Why the snow!!!!",
+        "user": "U01AGDAUB1S",
+        "ts": "1603306923.005600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "65am",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ugh, the snow. Why the snow!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603305947.005400",
+        "parent_user_id": "U01BM8QUSTS"
+    },
+    {
+        "client_msg_id": "29f018bc-d69f-4c92-b27d-8bff4f0ca394",
+        "type": "message",
+        "text": "Lol I'm not allowed to complain, I traveled from the tropics to be here. This was my choice haha.",
+        "user": "U01BM8QUSTS",
+        "ts": "1603316265.006100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "01c8086c20a1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-16\/1434346692659_01c8086c20a1bbd0c488_72.png",
+            "first_name": "",
+            "real_name": "Jenelle Morgan",
+            "display_name": "Jenelle Morgan",
+            "team": "T01A754ECJZ",
+            "name": "jenelle.morgan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mOZy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lol I'm not allowed to complain, I traveled from the tropics to be here. This was my choice haha."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603305947.005400",
+        "parent_user_id": "U01BM8QUSTS",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U01AADVMMJ7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

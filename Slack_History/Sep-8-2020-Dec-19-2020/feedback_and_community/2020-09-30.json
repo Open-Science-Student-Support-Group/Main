@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "2ee56d2b-d87b-4fa5-ab11-11b751fcc2c4",
+        "type": "message",
+        "text": "And yes please to help with the survey\/feedback!! ^^",
+        "user": "U01AA7U2ECA",
+        "ts": "1601518278.000500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wt3D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And yes please to help with the survey\/feedback!! ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

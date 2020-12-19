@@ -1,0 +1,186 @@
+[
+    {
+        "client_msg_id": "387902ab-66ef-4764-b0f1-f67cc67e03e2",
+        "type": "message",
+        "text": "yes that would be today by now :sweat_smile:",
+        "user": "U01AA7U2ECA",
+        "ts": "1605802872.004200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T9G9A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes that would be today by now "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605717700.003600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "1c202fac-fa7e-428d-94ff-0ff4bd8989ee",
+        "type": "message",
+        "text": "I’ll send out an invite and we can see if it comes together :smile:",
+        "user": "U01AA7U2ECA",
+        "ts": "1605803000.004400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B0s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ll send out an invite and we can see if it comes together "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605717700.003600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "So the deal is that I will likely be on my way home when the meeting starts. I set up the zoom meeting so you can join and start without me, but I will try to log on and just listen in while I’m still biking home. Then hopefully around 5pm I will be home and can join you fully :slightly_smiling_face: The two things I think we should discuss are the end of the semester survey, especially what we want to ask in that and how we are going to use the feedback, and as a smaller second thing if we want to organize a social hangout in the last week of the semester and how (I’m thinking we could try out gather.town if you guys would be open to that ^^)",
+        "user": "U01AA7U2ECA",
+        "ts": "1605803797.004700",
+        "thread_ts": "1605717700.003600",
+        "root": {
+            "client_msg_id": "2a2b783c-c02c-4f40-8f1b-73020fee3487",
+            "type": "message",
+            "text": "Hey <!channel>! How about we meet on Thursday at 4:30pm? Then Jassleen might have to sign of a bit before the end and I’ll join a bit late, but we can all still be there for part of the meeting :slightly_smiling_face:",
+            "user": "U01AA7U2ECA",
+            "ts": "1605717700.003600",
+            "team": "T01A754ECJZ",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "IMqyV",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hey "
+                                },
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "! How about we meet on Thursday at 4:30pm? Then Jassleen might have to sign of a bit before the end and I’ll join a bit late, but we can all still be there for part of the meeting "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "slightly_smiling_face"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1605717700.003600",
+            "reply_count": 4,
+            "reply_users_count": 2,
+            "latest_reply": "1605803797.004700",
+            "reply_users": [
+                "U01ABLH7DPY",
+                "U01AA7U2ECA"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kG+T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So the deal is that I will likely be on my way home when the meeting starts. I set up the zoom meeting so you can join and start without me, but I will try to log on and just listen in while I’m still biking home. Then hopefully around 5pm I will be home and can join you fully "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " The two things I think we should discuss are the end of the semester survey, especially what we want to ask in that and how we are going to use the feedback, and as a smaller second thing if we want to organize a social hangout in the last week of the semester and how (I’m thinking we could try out gather.town if you guys would be open to that ^^)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "51c06298-e151-4687-838a-c209e03ab082",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01BM8QUSTS"
+                ],
+                "count": 1
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U01ABLH7DPY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

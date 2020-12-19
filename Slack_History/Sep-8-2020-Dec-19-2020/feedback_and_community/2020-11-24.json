@@ -1,0 +1,126 @@
+[
+    {
+        "client_msg_id": "f07a5ba5-3a31-4792-b09b-c0a25cc8606e",
+        "type": "message",
+        "text": "Thanks for checking! Do you know if they mind if we move forward with our plans in the meantime?",
+        "user": "U01AA7U2ECA",
+        "ts": "1606235721.001300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Klw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for checking! Do you know if they mind if we move forward with our plans in the meantime?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606196756.001200",
+        "parent_user_id": "U01AADVMMJ7"
+    },
+    {
+        "client_msg_id": "DED94856-7C5F-4075-BF20-5648C5F42E8D",
+        "type": "message",
+        "text": "They won’t since their meeting won’t be until December 4!",
+        "user": "U01AADVMMJ7",
+        "ts": "1606235945.001800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "bc87ba7ccce1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-25\/1445402318902_bc87ba7ccce142957a62_72.png",
+            "first_name": "Jassleen",
+            "real_name": "Jassleen Parmar",
+            "display_name": "Jassleen Parmar",
+            "team": "T01A754ECJZ",
+            "name": "jassleen.parmar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bSYlo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They won’t since their meeting won’t be until December 4!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606196756.001200",
+        "parent_user_id": "U01AADVMMJ7"
+    },
+    {
+        "client_msg_id": "db5c07bd-0027-4563-bb59-10b20f19e4c1",
+        "type": "message",
+        "text": "Okay great! So we can move ahead with the doodle poll whenever it’s ready :slightly_smiling_face:",
+        "user": "U01AA7U2ECA",
+        "ts": "1606236279.002000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "68h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay great! So we can move ahead with the doodle poll whenever it’s ready "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606196756.001200",
+        "parent_user_id": "U01AADVMMJ7"
+    }
+]

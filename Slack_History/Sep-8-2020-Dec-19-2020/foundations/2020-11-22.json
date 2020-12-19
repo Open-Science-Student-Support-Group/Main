@@ -1,0 +1,125 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1606080440.004500",
+        "user": "U01CMA136DR",
+        "text": "<@U01CMA136DR> has joined the channel"
+    },
+    {
+        "client_msg_id": "828efcc4-a1ac-4d7b-bae8-94fb0968f144",
+        "type": "message",
+        "text": "Heya foundations team! As you might have seen in the timeline I posted to the contributors channel, I was thinking we could have a meeting in the week of Dec. 7-11, so we can continue our discussion on the ways we could update our group and session structure, and present a complete plan to the full organizational team the week after. Would you all be up for that? A thumbs up or comment here both work :slightly_smiling_face:",
+        "user": "U01AA7U2ECA",
+        "ts": "1606080709.006800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M\/oX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Heya foundations team! As you might have seen in the timeline I posted to the contributors channel, I was thinking we could have a meeting in the week of Dec. 7-11, so we can continue our discussion on the ways we could update our group and session structure, and present a complete plan to the full organizational team the week after. Would you all be up for that? A thumbs up or comment here both work "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606080709.006800",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1606318732.007700",
+        "reply_users": [
+            "U01ANS2G30R",
+            "U01AA7U2ECA",
+            "U01AADVMMJ7",
+            "U01ANS83U3T"
+        ],
+        "replies": [
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1606080741.006900"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1606235208.007100"
+            },
+            {
+                "user": "U01AADVMMJ7",
+                "ts": "1606252832.007300"
+            },
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1606276741.007500"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1606318732.007700"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1606318732.007700"
+    },
+    {
+        "client_msg_id": "2c983ab8-54e3-4ab3-9054-d9f5d7e56d89",
+        "type": "message",
+        "text": "Hey Gwen! After December 8 would be preferable to me!",
+        "user": "U01ANS2G30R",
+        "ts": "1606080741.006900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i8sG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Gwen! After December 8 would be preferable to me!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606080709.006800",
+        "parent_user_id": "U01AA7U2ECA"
+    }
+]

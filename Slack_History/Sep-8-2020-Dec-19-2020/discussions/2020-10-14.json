@@ -1,0 +1,149 @@
+[
+    {
+        "client_msg_id": "d7172fed-28aa-47fa-8e58-7ffa458a6961",
+        "type": "message",
+        "text": "Is there a list of suggested\/for suggesting session topics somewhere?",
+        "user": "U01A3HZ3R63",
+        "ts": "1602713616.000500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "169068bf7e39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-11\/1358561448611_169068bf7e3945f474ae_72.jpg",
+            "first_name": "",
+            "real_name": "Chelsie Hart",
+            "display_name": "Chelsie Hart",
+            "team": "T01A754ECJZ",
+            "name": "chelsie.hart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NDAV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is there a list of suggested\/for suggesting session topics somewhere?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602713616.000500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1602727477.003900",
+        "reply_users": [
+            "U01AA7U4UHY",
+            "U01ANS2G30R"
+        ],
+        "replies": [
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1602713863.003700"
+            },
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1602727477.003900"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1602727477.003900"
+    },
+    {
+        "client_msg_id": "5740F799-FDC3-4C41-8190-68FF762641D8",
+        "type": "message",
+        "text": "There’s the poll everyone voted in (it’s near the top of the polls channel). We have the session topics decided for the Fall already (the list is probably on OSF somewhere). So probably nothing new until after the Fall sessions",
+        "user": "U01AA7U4UHY",
+        "ts": "1602713863.003700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JBOC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There’s the poll everyone voted in (it’s near the top of the polls channel). We have the session topics decided for the Fall already (the list is probably on OSF somewhere). So probably nothing new until after the Fall sessions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602713616.000500",
+        "parent_user_id": "U01A3HZ3R63"
+    },
+    {
+        "client_msg_id": "512b3d5d-61d0-4303-8f7b-9036b15278b6",
+        "type": "message",
+        "text": "If you have ideas you can pass them on to me or Chelsea Moran - that way we can keep track of topics of interest for winter sessions. And you can also post them on Slack if you want to see if others are interested in a topic!",
+        "user": "U01ANS2G30R",
+        "ts": "1602727477.003900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "srP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you have ideas you can pass them on to me or Chelsea Moran - that way we can keep track of topics of interest for winter sessions. And you can also post them on Slack if you want to see if others are interested in a topic!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602713616.000500",
+        "parent_user_id": "U01A3HZ3R63",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01A3HZ3R63"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

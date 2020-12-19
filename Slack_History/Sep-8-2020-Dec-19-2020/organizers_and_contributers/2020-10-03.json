@@ -1,0 +1,110 @@
+[
+    {
+        "client_msg_id": "0B4855CE-9E68-4727-8498-F10E4B7E478E",
+        "type": "message",
+        "text": "<https:\/\/researchmatters.libsyn.com\/bethany-teachman-phd-and-jeremy-eberle-on-embracing-an-open-science-mindset|https:\/\/researchmatters.libsyn.com\/bethany-teachman-phd-and-jeremy-eberle-on-embracing-an-open-science-mindset> saw this on Twitter. <@U01AA7U2ECA> it looks like there might be some good content in their that might help you make the first presentation :)",
+        "user": "U01AA7U4UHY",
+        "ts": "1601756738.013000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Research Matters Podcast: Bethany Teachman, PhD, and Jeremy Eberle, on embracing an open-science mindset",
+                "title_link": "https:\/\/researchmatters.libsyn.com\/bethany-teachman-phd-and-jeremy-eberle-on-embracing-an-open-science-mindset",
+                "text": "Does the thought of practicing open science give you sweaty palms? That’s a normal reaction for those of us who weren’t formally trained in the open-science methodology. The sweaty-palm reaction is really not that surprising since most of us have gotten where we are today because we’ve been meticulous in our work and tried to put out the best work we possibly could. In a nutshell, we tend to be perfectionists. But science, like life, is far from perfect. It’s messy. And it often takes unexpected twists and turns. Once we embrace this reality and view research as a conversation starter, we’ll be able to move past the sweaty-palms stage. Part of getting comfortable with open-science practices is your mindset. It’s about valuing doing rigorous science, even when it gets messy. Open science is also about creating an environment where feedback is sought and embraced. It’s about learning along the way so that you can do even better science going forward. In this episode, you’ll learn… Why Dr. Teachman felt primed to embrace open science from her grad school experience, even though she wasn’t taught open-science protocol in school How to begin embracing open-science practices The barriers to embracing open science Why open science is about more than protocols and checklists -- it’s about a culture that supports transparency and is non-defensive to feedback About the documentation process within her lab About the benefits of using GitHub in addition to OSF Why doing science according to your values can ease the sting of rejected work by publications Dr. Teachman’s suggestion of putting a pre-registration section on your CV How Dr. Teachman approaches collaborations with other researchers who are unfamiliar with open-science practices Tips from the episode On how to shift a lab towards open-science practices… Incorporate visual reminders about your lab’s open-science goals. Set concrete deadlines and expect participation from everyone in the lab. Get over the idea that “it has to be as near perfect as possible before I make it public.” On incrementalism and where to start… Just start. It won’t be perfect, and you’ll get better at it. Embrace that science is about taking risks and figuring it out as you go along. As a first step, do a pre-registration of your hypothesis or share a data set. On the documentation process for open-science projects… Use plain language for your comments within your code Include a section on deviations from the pre-registration Include a guide to open-data and materials Use an internal wiki Links from the episode: and Jeremy Eberle can be found on Twitter: @JeremyWEberle, and or &amp;nbsp;is hosted by Jason Luoma, who can be found on Twitter&amp;nbsp;or Facebook at:&amp;nbsp;. You download the podcast through&amp;nbsp;,&amp;nbsp;, or&amp;nbsp;. Reach out with suggestions, questions, or comments to",
+                "fallback": "Research Matters Podcast: Bethany Teachman, PhD, and Jeremy Eberle, on embracing an open-science mindset",
+                "thumb_url": "http:\/\/assets.libsyn.com\/content\/84886853?height=250&width=250&overlay=true",
+                "from_url": "https:\/\/researchmatters.libsyn.com\/bethany-teachman-phd-and-jeremy-eberle-on-embracing-an-open-science-mindset",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_name": "researchmatters.libsyn.com",
+                "id": 1,
+                "original_url": "https:\/\/researchmatters.libsyn.com\/bethany-teachman-phd-and-jeremy-eberle-on-embracing-an-open-science-mindset"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Eggx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/researchmatters.libsyn.com\/bethany-teachman-phd-and-jeremy-eberle-on-embracing-an-open-science-mindset",
+                                "text": "https:\/\/researchmatters.libsyn.com\/bethany-teachman-phd-and-jeremy-eberle-on-embracing-an-open-science-mindset"
+                            },
+                            {
+                                "type": "text",
+                                "text": " saw this on Twitter. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01AA7U2ECA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " it looks like there might be some good content in their that might help you make the first presentation :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601681891.011400",
+        "parent_user_id": "U01AGDAUB1S"
+    },
+    {
+        "client_msg_id": "6133b8a5-c09b-4908-b2b7-25b9bf6e0ada",
+        "type": "message",
+        "text": "Thanks, this sounds awesome!!",
+        "user": "U01AA7U2ECA",
+        "ts": "1601764733.013300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nON",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, this sounds awesome!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601681891.011400",
+        "parent_user_id": "U01AGDAUB1S"
+    }
+]

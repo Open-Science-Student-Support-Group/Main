@@ -1,0 +1,269 @@
+[
+    {
+        "type": "message",
+        "text": "I moved some stuff around, and added maybe a sentence and a word here and there, but otherwise I think it already looked great, and for my part it’s good to go now :slightly_smiling_face:",
+        "files": [
+            {
+                "id": "F01BB4HM8TF",
+                "created": 1601047085,
+                "timestamp": 1601047085,
+                "name": "Social media, OSSSG .docx",
+                "title": "Social media, OSSSG .docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U01AA7U2ECA",
+                "editable": false,
+                "size": 336899,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01BB4HM8TF\/social_media__osssg_.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01BB4HM8TF\/download\/social_media__osssg_.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BB4HM8TF-aa4bb7192e\/social_media__osssg__converted.pdf?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BB4HM8TF-aa4bb7192e\/social_media__osssg__thumb_pdf.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01AA7U2ECA\/F01BB4HM8TF\/social_media__osssg_.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01BB4HM8TF-eb5e38aa28",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2zZ\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I moved some stuff around, and added maybe a sentence and a word here and there, but otherwise I think it already looked great, and for my part it’s good to go now "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01AA7U2ECA",
+        "display_as_bot": false,
+        "ts": "1601047123.000100",
+        "thread_ts": "1600962180.002900",
+        "parent_user_id": "U01AGDAUB1S"
+    },
+    {
+        "client_msg_id": "eb1c8651-804c-4c18-8334-00021cee94c9",
+        "type": "message",
+        "text": "and yeah, if we want to send honours students more info I would wait until we have at least the info on how to register\/get into the first session!",
+        "user": "U01AA7U2ECA",
+        "ts": "1601047200.000500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cFD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and yeah, if we want to send honours students more info I would wait until we have at least the info on how to register\/get into the first session!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600962180.002900",
+        "parent_user_id": "U01AGDAUB1S"
+    },
+    {
+        "client_msg_id": "fa4b0872-aa70-4d6a-9c9c-c0fd325bacdf",
+        "type": "message",
+        "text": "Perfect! I love your changes - especially the part about joining one or all sessions!!",
+        "user": "U01AGDAUB1S",
+        "ts": "1601051680.000700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ARMp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Perfect! I love your changes - especially the part about joining one or all sessions!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600962180.002900",
+        "parent_user_id": "U01AGDAUB1S"
+    },
+    {
+        "client_msg_id": "52306eba-a9de-4092-9788-e318233fa1f6",
+        "type": "message",
+        "text": "I will post those today!",
+        "user": "U01AGDAUB1S",
+        "ts": "1601051689.000900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YxI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will post those today!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600962180.002900",
+        "parent_user_id": "U01AGDAUB1S"
+    },
+    {
+        "client_msg_id": "62d9b585-a739-49a1-a7f9-188a0d763648",
+        "type": "message",
+        "text": "Yeah from the way people responded to the first blurb I got the impression this was not clear at all, so I thought I’d add that in :slightly_smiling_face:",
+        "user": "U01AA7U2ECA",
+        "ts": "1601051883.001100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YXHE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah from the way people responded to the first blurb I got the impression this was not clear at all, so I thought I’d add that in "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600962180.002900",
+        "parent_user_id": "U01AGDAUB1S"
+    },
+    {
+        "client_msg_id": "a4c9b417-520f-4382-9856-2c0900b6e806",
+        "type": "message",
+        "text": "Awesome, thanks so much!!",
+        "user": "U01AA7U2ECA",
+        "ts": "1601051887.001300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eiVI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome, thanks so much!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600962180.002900",
+        "parent_user_id": "U01AGDAUB1S"
+    }
+]

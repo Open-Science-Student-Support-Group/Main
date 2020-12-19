@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "5772c27a-4e13-41a1-b524-a96085241adc",
+        "type": "message",
+        "text": "Great! I’m available most of the day next Wednesday if there is a time that would work for you. And Gwen it would be awesome to have you attend, if you would like!",
+        "user": "U01ANS2G30R",
+        "ts": "1605285851.023300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eEj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great! I’m available most of the day next Wednesday if there is a time that would work for you. And Gwen it would be awesome to have you attend, if you would like!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1605231198.021100",
+        "parent_user_id": "U01AA7U2ECA"
+    }
+]

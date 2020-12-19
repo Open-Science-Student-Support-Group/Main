@@ -1,0 +1,180 @@
+[
+    {
+        "client_msg_id": "ef4a283d-7e6d-4fd7-9509-0b53a06c253f",
+        "type": "message",
+        "text": "Hey *<!channel>* - I hope you had a great weekend!! Registrations for our last session are coming in (6 so far) - if you can spread the word that would be great! No need for people to have been to the other sessions this semester. If people just want to come and chat about their experience with open science and any areas they’d like to troubleshoot\/discuss, that is great :slightly_smiling_face:",
+        "user": "U01ANS2G30R",
+        "ts": "1606771713.003300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gr26c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "- I hope you had a great weekend!! Registrations for our last session are coming in (6 so far) - if you can spread the word that would be great! No need for people to have been to the other sessions this semester. If people just want to come and chat about their experience with open science and any areas they’d like to troubleshoot\/discuss, that is great "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606771713.003300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1606771997.003800",
+        "reply_users": [
+            "U01AGDAUB1S",
+            "U01ABLH7DPY"
+        ],
+        "replies": [
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1606771915.003500"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1606771997.003800"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1606771997.003800",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U01AA7U2ECA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7335a6f3-1548-46cb-87be-e5e9244d2a54",
+        "type": "message",
+        "text": "I think Jenelle is doing social media today!",
+        "user": "U01AGDAUB1S",
+        "ts": "1606771915.003500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HXdGV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think Jenelle is doing social media today!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606771713.003300",
+        "parent_user_id": "U01ANS2G30R",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U01ANS2G30R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8a319c1a-c803-41c5-bb24-012127c081d4",
+        "type": "message",
+        "text": "Amazing! And I just spoke with our guest speaker Rosie and she was telling me about some of the cool stuff she will share with the group - it's going to be a good one!",
+        "user": "U01ABLH7DPY",
+        "ts": "1606771997.003800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NMM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amazing! And I just spoke with our guest speaker Rosie and she was telling me about some of the cool stuff she will share with the group - it's going to be a good one!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606771713.003300",
+        "parent_user_id": "U01ANS2G30R"
+    }
+]

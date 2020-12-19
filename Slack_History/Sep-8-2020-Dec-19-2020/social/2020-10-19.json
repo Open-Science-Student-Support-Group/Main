@@ -1,0 +1,160 @@
+[
+    {
+        "client_msg_id": "4D9B8148-029D-41ED-9FE3-5D7DE4C2EBED",
+        "type": "message",
+        "text": "This is so cool! :notes: <https:\/\/www.cbc.ca\/news\/canada\/calgary\/calgary-musician-tonto-analogue-synthesizer-national-music-centre-brainwave-headset-1.5767865|https:\/\/www.cbc.ca\/news\/canada\/calgary\/calgary-musician-tonto-analogue-synthesizer-national-music-centre-brainwave-headset-1.5767865>",
+        "user": "U01AA7U4UHY",
+        "ts": "1603153740.040400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "CBC",
+                "title": "Musician uses brainwave-reading headset to play historic synthesizer with her mind | CBC News",
+                "title_link": "https:\/\/www.cbc.ca\/news\/canada\/calgary\/calgary-musician-tonto-analogue-synthesizer-national-music-centre-brainwave-headset-1.5767865",
+                "text": "Angie Coombes focuses on different thoughts, questions and imagery while wearing a consumer-grade brainwave sensor headset that is eventually read by TONTO, the analogue synthesizer housed at the National Music Centre.",
+                "fallback": "CBC: Musician uses brainwave-reading headset to play historic synthesizer with her mind | CBC News",
+                "image_url": "https:\/\/i.cbc.ca\/1.5768056.1603133404!\/fileImage\/httpImage\/image.jpg_gen\/derivatives\/16x9_620\/angie-coombes.jpg",
+                "from_url": "https:\/\/www.cbc.ca\/news\/canada\/calgary\/calgary-musician-tonto-analogue-synthesizer-national-music-centre-brainwave-headset-1.5767865",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 46875,
+                "service_icon": "https:\/\/www.cbc.ca\/a\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.cbc.ca\/news\/canada\/calgary\/calgary-musician-tonto-analogue-synthesizer-national-music-centre-brainwave-headset-1.5767865"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GtbB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is so cool! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "notes"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.cbc.ca\/news\/canada\/calgary\/calgary-musician-tonto-analogue-synthesizer-national-music-centre-brainwave-headset-1.5767865",
+                                "text": "https:\/\/www.cbc.ca\/news\/canada\/calgary\/calgary-musician-tonto-analogue-synthesizer-national-music-centre-brainwave-headset-1.5767865"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603153740.040400",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1603219177.046800",
+        "reply_users": [
+            "U01AA7U2ECA",
+            "U01A3HZ3R63",
+            "U01AA7U4UHY"
+        ],
+        "replies": [
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1603165063.040600"
+            },
+            {
+                "user": "U01A3HZ3R63",
+                "ts": "1603210573.041000"
+            },
+            {
+                "user": "U01A3HZ3R63",
+                "ts": "1603212688.041200"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1603219177.046800"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "astonished",
+                "users": [
+                    "U01A3HZ3R63"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5bfed3a2-71d7-4e94-8057-350f6aec5f38",
+        "type": "message",
+        "text": "Nice :smile:",
+        "user": "U01AA7U2ECA",
+        "ts": "1603165063.040600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rC9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603153740.040400",
+        "parent_user_id": "U01AA7U4UHY",
+        "reactions": [
+            {
+                "name": "grimacing",
+                "users": [
+                    "U01AA7U4UHY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

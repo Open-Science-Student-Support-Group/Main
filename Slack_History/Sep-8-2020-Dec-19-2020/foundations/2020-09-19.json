@@ -1,0 +1,153 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600538335.000200",
+        "user": "U01AA7U2ECA",
+        "text": "<@U01AA7U2ECA> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1600538335.000300",
+        "user": "U01AA7U2ECA",
+        "text": "<@U01AA7U2ECA> set the channel purpose: Space to cooperate and discuss set-up and foundations of this group",
+        "purpose": "Space to cooperate and discuss set-up and foundations of this group"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600538358.000500",
+        "user": "U01ANS2G30R",
+        "text": "<@U01ANS2G30R> has joined the channel",
+        "inviter": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600538358.000700",
+        "user": "U01AADVMMJ7",
+        "text": "<@U01AADVMMJ7> has joined the channel",
+        "inviter": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600538358.000900",
+        "user": "U01ANS83U3T",
+        "text": "<@U01ANS83U3T> has joined the channel",
+        "inviter": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "text": "Hi @Everyone! As agreed yesterday, I created a document in which we can write up\/work out the organizational structure of our group (Emiko, this also gives an overview of what we discussed yesterday ;)). It’s pretty basic, for now I just set up some headings and copy-pasted some stuff I had already written, but so feel free to go to town on it and change, add, adjust!\n\nI uploaded it to OSF, if you navigate to it there, you can download it, work on it, and if you reupload it to the same place, it will automatically recognize it as a newer version of the same file, as long as you *don’t change the file name*! To prevent that we work on it at the same time and then have to integrate the different versions, you can click the check-out button before you download the latest version (see screenshot), so others know you are work on it. When you are done, uploaded the version with your additions\/changes, you can click the check-in button. Please let me know if you have any trouble with OSF or anything else!",
+        "files": [
+            {
+                "id": "F01BDF8RZCZ",
+                "created": 1600538952,
+                "timestamp": 1600538952,
+                "name": "Screen Shot 2020-09-19 at 12.02.25 PM.png",
+                "title": "Screen Shot 2020-09-19 at 12.02.25 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01AA7U2ECA",
+                "editable": false,
+                "size": 256061,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01BDF8RZCZ\/screen_shot_2020-09-19_at_12.02.25_pm.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01BDF8RZCZ\/download\/screen_shot_2020-09-19_at_12.02.25_pm.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BDF8RZCZ-dc3c3002fd\/screen_shot_2020-09-19_at_12.02.25_pm_64.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BDF8RZCZ-dc3c3002fd\/screen_shot_2020-09-19_at_12.02.25_pm_80.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BDF8RZCZ-dc3c3002fd\/screen_shot_2020-09-19_at_12.02.25_pm_360.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360_w": 360,
+                "thumb_360_h": 175,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BDF8RZCZ-dc3c3002fd\/screen_shot_2020-09-19_at_12.02.25_pm_480.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_480_w": 480,
+                "thumb_480_h": 233,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BDF8RZCZ-dc3c3002fd\/screen_shot_2020-09-19_at_12.02.25_pm_160.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BDF8RZCZ-dc3c3002fd\/screen_shot_2020-09-19_at_12.02.25_pm_720.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720_w": 720,
+                "thumb_720_h": 350,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BDF8RZCZ-dc3c3002fd\/screen_shot_2020-09-19_at_12.02.25_pm_800.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_800_w": 800,
+                "thumb_800_h": 389,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BDF8RZCZ-dc3c3002fd\/screen_shot_2020-09-19_at_12.02.25_pm_960.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_960_w": 960,
+                "thumb_960_h": 467,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BDF8RZCZ-dc3c3002fd\/screen_shot_2020-09-19_at_12.02.25_pm_1024.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 498,
+                "original_w": 1672,
+                "original_h": 813,
+                "thumb_tiny": "AwAXADC6baLp5a4+lNNrDkHy149qlZ0DYLAH61FOUfygCGHmDI\/OgBfs0H\/POP8AKj7ND\/zzT8qkMcf\/ADzX\/vmkEaf88k\/KgBn2eH\/nkn5ULbwt1iUfUVIIo+8aflUTIq3cW1QOG6D6UAT4qG46xf8AXQf1qeobjrD\/ANdB\/WgB7Ft3B4o3N7UHqaSgBct6imSf8fcX+639KdTX\/wCPuL\/db+lAH\/\/Z",
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01AA7U2ECA\/F01BDF8RZCZ\/screen_shot_2020-09-19_at_12.02.25_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01BDF8RZCZ-6c2ea5cced",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UmN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi @Everyone! As agreed yesterday, I created a document in which we can write up\/work out the organizational structure of our group (Emiko, this also gives an overview of what we discussed yesterday ;)). It’s pretty basic, for now I just set up some headings and copy-pasted some stuff I had already written, but so feel free to go to town on it and change, add, adjust!\n\nI uploaded it to OSF, if you navigate to it there, you can download it, work on it, and if you reupload it to the same place, it will automatically recognize it as a newer version of the same file, as long as you "
+                            },
+                            {
+                                "type": "text",
+                                "text": "don’t change the file name",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "! To prevent that we work on it at the same time and then have to integrate the different versions, you can click the check-out button before you download the latest version (see screenshot), so others know you are work on it. When you are done, uploaded the version with your additions\/changes, you can click the check-in button. Please let me know if you have any trouble with OSF or anything else!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01AA7U2ECA",
+        "display_as_bot": false,
+        "ts": "1600539232.006600",
+        "thread_ts": "1600539232.006600",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1600988786.000500",
+        "reply_users": [
+            "U01ANS2G30R",
+            "U01AA7U2ECA"
+        ],
+        "replies": [
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1600972809.000100"
+            },
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1600972937.000300"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1600988786.000500"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1600988786.000500"
+    }
+]

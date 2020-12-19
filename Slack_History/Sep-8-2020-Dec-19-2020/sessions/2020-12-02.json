@@ -1,0 +1,454 @@
+[
+    {
+        "client_msg_id": "97b16bae-b738-4605-9713-cb04dfed4846",
+        "type": "message",
+        "text": "I like your changes to the questions gwen, I will adopt those. And yes Emiko, I have also been thinking of the discussion questions as ideas for things to talk about in the different rounds if folks need inspiration or are not sure what to talk about, not necessarily as having one question per round. I think the general instructions could be to talk about barriers or issues you would like to troubleshoot with your partner, and the discussion questions will be framed as suggestions if someone is unsure where to start. Also I think I prefer the idea of three rounds; less switching around and more time for having a fuller conversation with the partner.",
+        "user": "U01ABLH7DPY",
+        "ts": "1606944239.009200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01ABLH7DPY",
+            "ts": "1606944269.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W2J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I like your changes to the questions gwen, I will adopt those. And yes Emiko, I have also been thinking of the discussion questions as ideas for things to talk about in the different rounds if folks need inspiration or are not sure what to talk about, not necessarily as having one question per round. I think the general instructions could be to talk about barriers or issues you would like to troubleshoot with your partner, and the discussion questions will be framed as suggestions if someone is unsure where to start. Also I think I prefer the idea of three rounds; less switching around and more time for having a fuller conversation with the partner."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606771938.007300",
+        "parent_user_id": "U01ABLH7DPY"
+    },
+    {
+        "client_msg_id": "332dd7a0-91f5-4860-9a16-bfeaef4eb82e",
+        "type": "message",
+        "text": "Brittany let me know that she’s happy to take on any kind of facilitation role we need. I’m also available for anything you need Chelsea!",
+        "user": "U01ANS2G30R",
+        "ts": "1606944852.009500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C8f6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Brittany let me know that she’s happy to take on any kind of facilitation role we need. I’m also available for anything you need Chelsea!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606771938.007300",
+        "parent_user_id": "U01ABLH7DPY"
+    },
+    {
+        "client_msg_id": "7F502C5F-617C-4D2E-91D2-3600183BDD83",
+        "type": "message",
+        "text": "Thanks Emiko! Would you like to be chat facilitator or should I ask Brittany then?",
+        "user": "U01ABLH7DPY",
+        "ts": "1606944902.010100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5QNd4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Emiko! Would you like to be chat facilitator or should I ask Brittany then?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606771938.007300",
+        "parent_user_id": "U01ABLH7DPY"
+    },
+    {
+        "client_msg_id": "ad5efdba-fe7a-40bc-9041-549b934d1c75",
+        "type": "message",
+        "text": "I am happy to do chat facilitator :slightly_smiling_face:",
+        "user": "U01ANS2G30R",
+        "ts": "1606944924.010300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a1p7m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am happy to do chat facilitator "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606771938.007300",
+        "parent_user_id": "U01ABLH7DPY"
+    },
+    {
+        "client_msg_id": "3A6AFB79-3EAB-4F21-9C58-D9120CD5CDE8",
+        "type": "message",
+        "text": "Okay sounds good! Thank you. If we have an even number of people with everyone included, I am happy to hang out with you in the main room! ",
+        "user": "U01ABLH7DPY",
+        "ts": "1606945021.011400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qPJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay sounds good! Thank you. If we have an even number of people with everyone included, I am happy to hang out with you in the main room! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606771938.007300",
+        "parent_user_id": "U01ABLH7DPY"
+    },
+    {
+        "client_msg_id": "09ad090d-07d7-471a-a34b-3443bf1533cb",
+        "type": "message",
+        "text": "Sounds good :slightly_smiling_face:",
+        "user": "U01ANS2G30R",
+        "ts": "1606945051.011600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qxpm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds good "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606771938.007300",
+        "parent_user_id": "U01ABLH7DPY"
+    },
+    {
+        "client_msg_id": "96d0b39c-a768-4437-b377-73ed1e10245b",
+        "type": "message",
+        "text": "We are at 12 people registered as of now, which doesn’t include me, but I think includes you twice Chelsea!",
+        "user": "U01ANS2G30R",
+        "ts": "1606945123.011800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uiK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We are at 12 people registered as of now, which doesn’t include me, but I think includes you twice Chelsea!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606771938.007300",
+        "parent_user_id": "U01ABLH7DPY"
+    },
+    {
+        "client_msg_id": "2F7D97C0-928D-4CFF-8619-D4F5A8591A1A",
+        "type": "message",
+        "text": "Oops I guess I wanted to make sure to sign up! And Rosie will also participate in the groups ",
+        "user": "U01ABLH7DPY",
+        "ts": "1606945155.012500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Nq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oops I guess I wanted to make sure to sign up! And Rosie will also participate in the groups "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606771938.007300",
+        "parent_user_id": "U01ABLH7DPY"
+    },
+    {
+        "client_msg_id": "488AE9DC-15E3-4AD2-A619-AA651CFFE49C",
+        "type": "message",
+        "text": "The pairs I mean. So that means we might be at uneven number as of right now ",
+        "user": "U01ABLH7DPY",
+        "ts": "1606945171.013200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xNH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The pairs I mean. So that means we might be at uneven number as of right now "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606771938.007300",
+        "parent_user_id": "U01ABLH7DPY"
+    },
+    {
+        "client_msg_id": "28d0fbab-e2e1-4020-b9b7-51e750e49b5c",
+        "type": "message",
+        "text": "Great - she’s actually part of the 12 too!",
+        "user": "U01ANS2G30R",
+        "ts": "1606945221.013400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jBW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great - she’s actually part of the 12 too!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606771938.007300",
+        "parent_user_id": "U01ABLH7DPY"
+    },
+    {
+        "client_msg_id": "40124D8D-1056-42A1-A2D9-EAF4C882223F",
+        "type": "message",
+        "text": "Oh nice! ",
+        "user": "U01ABLH7DPY",
+        "ts": "1606945235.013700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9tv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh nice! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606771938.007300",
+        "parent_user_id": "U01ABLH7DPY"
+    }
+]

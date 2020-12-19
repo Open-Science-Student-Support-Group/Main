@@ -1,0 +1,122 @@
+[
+    {
+        "client_msg_id": "dc82f948-2d68-47e0-a37e-d912a2261d95",
+        "type": "message",
+        "text": "Oooh I'm gonna share this with my lab!",
+        "user": "U01A3HZ3R63",
+        "ts": "1603210573.041000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "169068bf7e39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-11\/1358561448611_169068bf7e3945f474ae_72.jpg",
+            "first_name": "",
+            "real_name": "Chelsie Hart",
+            "display_name": "Chelsie Hart",
+            "team": "T01A754ECJZ",
+            "name": "chelsie.hart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nC8QD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oooh I'm gonna share this with my lab!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603153740.040400",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "abf2bb10-5d40-4086-bbee-99e4d39158f1",
+        "type": "message",
+        "text": "OMG imagine if you could use this to write sheet music! To put down the music in my head that I don't have the time or skills for on paper. My god.",
+        "user": "U01A3HZ3R63",
+        "ts": "1603212688.041200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "169068bf7e39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-11\/1358561448611_169068bf7e3945f474ae_72.jpg",
+            "first_name": "",
+            "real_name": "Chelsie Hart",
+            "display_name": "Chelsie Hart",
+            "team": "T01A754ECJZ",
+            "name": "chelsie.hart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H+F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OMG imagine if you could use this to write sheet music! To put down the music in my head that I don't have the time or skills for on paper. My god."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603153740.040400",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "EC5528A6-E501-4F23-B141-16004455302A",
+        "type": "message",
+        "text": "That would be amazing! The article didn’t get into the details of how it’s working, but since it’s with an analog synth I’d imagine they’re taking the signals from the headset, probably tuning them in some form with the computer, then sending control voltages or MIDI note data from the computer to the synth. If the software does make MIDI note data then you could use it to write sheet music by recording the MIDI in realtime in Logic, Sibelius, etc.",
+        "user": "U01AA7U4UHY",
+        "ts": "1603219177.046800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "883DL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That would be amazing! The article didn’t get into the details of how it’s working, but since it’s with an analog synth I’d imagine they’re taking the signals from the headset, probably tuning them in some form with the computer, then sending control voltages or MIDI note data from the computer to the synth. If the software does make MIDI note data then you could use it to write sheet music by recording the MIDI in realtime in Logic, Sibelius, etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603153740.040400",
+        "parent_user_id": "U01AA7U4UHY"
+    }
+]

@@ -1,0 +1,217 @@
+[
+    {
+        "client_msg_id": "6c31c424-97dd-4c0a-bc72-ea644e58749e",
+        "type": "message",
+        "text": "um sorry, I believe my responses were a bit incoherent.. No, I think your message as you first posted it was great! The only thing I might add is a one sentence intro at the start, maybe something like:",
+        "user": "U01AA7U2ECA",
+        "ts": "1603593890.014500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1lBSC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "um sorry, I believe my responses were a bit incoherent.. No, I think your message as you first posted it was great! The only thing I might add is a one sentence intro at the start, maybe something like:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603326165.009800",
+        "parent_user_id": "U01AADVMMJ7"
+    },
+    {
+        "client_msg_id": "462d5423-b39f-441e-b84c-c49cc7ecf141",
+        "type": "message",
+        "text": "‘To ensure you stay up to date and we can all enjoy our Slack workspace, here are some tips\/best practices:’  and then maybe at the end ’More info on how to use Slack is provided in your welcome message (search for the Greetbot in your direct messages).",
+        "user": "U01AA7U2ECA",
+        "ts": "1603594075.014700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QGm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "‘To ensure you stay up to date and we can all enjoy our Slack workspace, here are some tips\/best practices:’  and then maybe at the end ’More info on how to use Slack is provided in your welcome message (search for the Greetbot in your direct messages)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603326165.009800",
+        "parent_user_id": "U01AADVMMJ7"
+    },
+    {
+        "client_msg_id": "d86005f5-e51a-44d6-8bf1-acb9fe614cde",
+        "type": "message",
+        "text": "And I’m gonna work on finishing the community guidelines and then updating the welcome message to add some of the info in your message there as well :slightly_smiling_face:",
+        "user": "U01AA7U2ECA",
+        "ts": "1603594135.014900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nXF3J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And I’m gonna work on finishing the community guidelines and then updating the welcome message to add some of the info in your message there as well "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603326165.009800",
+        "parent_user_id": "U01AADVMMJ7",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U01AADVMMJ7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "08fbb324-db9c-4709-b407-57e28637218e",
+        "type": "message",
+        "text": "This looks great <@U01AADVMMJ7>!! I really like the type of check-ins you came up with! Two small things:\n1. Maybe it would be good to switch the order of the first two? I think asking about what people want to learn more about nicely follows-up on the session, and resources are probably easier to respond to and extra useful early on. Then on Wednesday we can ask if\/which of the challenges people are taking on, give them a bit more time for that. \n2. For the social check-in on Fridays, maybe we can make it ask about struggles\/issues either related to open science or not, just so people feel free to write about anything that’s going on with them? \nI really love the check-in directed towards the next session!",
+        "user": "U01AA7U2ECA",
+        "ts": "1603594687.015100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VQ=D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This looks great "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01AADVMMJ7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! I really like the type of check-ins you came up with! Two small things:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Maybe it would be good to switch the order of the first two? I think asking about what people want to learn more about nicely follows-up on the session, and resources are probably easier to respond to and extra useful early on. Then on Wednesday we can ask if\/which of the challenges people are taking on, give them a bit more time for that. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "For the social check-in on Fridays, maybe we can make it ask about struggles\/issues either related to open science or not, just so people feel free to write about anything that’s going on with them? "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I really love the check-in directed towards the next session!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603498020.013800",
+        "parent_user_id": "U01AADVMMJ7"
+    }
+]

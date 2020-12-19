@@ -1,0 +1,462 @@
+[
+    {
+        "client_msg_id": "6e57ec72-38e4-4e43-9423-13b360fc75f1",
+        "type": "message",
+        "text": "Hi team, I have completed a draft of the end of semester feedback survey in Qualtrics. I have given you all permissions to access and edit the survey in qualtrics, so feel free to edit anything you would like directly. Alternatively, you can look at the survey using the following link and make comments in a thread below. <https:\/\/survey.ucalgary.ca\/jfe\/form\/SV_8H6HYwAMyInihs9>",
+        "user": "U01ABLH7DPY",
+        "ts": "1606339630.002300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01ABLH7DPY",
+            "ts": "1606339701.000000"
+        },
+        "attachments": [
+            {
+                "title": "Online Survey Software | Qualtrics Survey Solutions",
+                "title_link": "https:\/\/survey.ucalgary.ca\/jfe\/form\/SV_8H6HYwAMyInihs9",
+                "text": "The most powerful, simple and trusted way to gather experience data. Start your journey to experience management and try a free account today.",
+                "fallback": "Online Survey Software | Qualtrics Survey Solutions",
+                "from_url": "https:\/\/survey.ucalgary.ca\/jfe\/form\/SV_8H6HYwAMyInihs9",
+                "service_icon": "http:\/\/co1.qualtrics.com\/WRQualtricsShared\/Graphics\/qipadicon.png",
+                "service_name": "survey.ucalgary.ca",
+                "id": 1,
+                "original_url": "https:\/\/survey.ucalgary.ca\/jfe\/form\/SV_8H6HYwAMyInihs9"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZlFj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi team, I have completed a draft of the end of semester feedback survey in Qualtrics. I have given you all permissions to access and edit the survey in qualtrics, so feel free to edit anything you would like directly. Alternatively, you can look at the survey using the following link and make comments in a thread below. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/survey.ucalgary.ca\/jfe\/form\/SV_8H6HYwAMyInihs9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606339630.002300",
+        "reply_count": 11,
+        "reply_users_count": 3,
+        "latest_reply": "1606951448.001000",
+        "reply_users": [
+            "U01AA7U2ECA",
+            "U01ABLH7DPY",
+            "U01AADVMMJ7"
+        ],
+        "replies": [
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1606587483.000100"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1606587595.001900"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1606587764.002100"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1606587794.002500"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1606587836.003800"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1606588381.004000"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1606597089.004200"
+            },
+            {
+                "user": "U01AADVMMJ7",
+                "ts": "1606859709.000100"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1606943924.000300"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1606951229.000600"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1606951448.001000"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6c937b05-fe82-41dd-9d65-ae86b0cf16e1",
+        "type": "message",
+        "text": "Sounds good, ill create the poll today and provide options for evenings in the second and third week of Dec",
+        "user": "U01ABLH7DPY",
+        "ts": "1606339754.002700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P+noR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds good, ill create the poll today and provide options for evenings in the second and third week of Dec"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606196756.001200",
+        "parent_user_id": "U01AADVMMJ7"
+    },
+    {
+        "client_msg_id": "17abe752-a956-4197-bc1e-b19cfe277ec4",
+        "type": "message",
+        "text": "quick question - should i post this in general, polls or social? pasting the doodle poll link here for now just so i don't lose it lol <https:\/\/doodle.com\/poll\/ub9tgq2rxydm5yx3?utm_source=poll&amp;utm_medium=link>",
+        "user": "U01ABLH7DPY",
+        "ts": "1606340302.002900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Doodle: OSSSG End of Semester Social",
+                "title_link": "https:\/\/doodle.com\/poll\/ub9tgq2rxydm5yx3?utm_source=poll&utm_medium=link",
+                "text": "Doodle is the simplest way to schedule meetings with clients, colleagues, or friends. Find the best time for one-to-ones and team meetings with our user-friendly calendar tool. Get started today!",
+                "fallback": "Doodle: OSSSG End of Semester Social",
+                "image_url": "https:\/\/doodle.com\/graphics\/static\/facebookSharingThumbnail.png",
+                "from_url": "https:\/\/doodle.com\/poll\/ub9tgq2rxydm5yx3?utm_source=poll&utm_medium=link",
+                "image_width": 300,
+                "image_height": 200,
+                "image_bytes": 6864,
+                "service_icon": "https:\/\/cdn2.doodle.com\/dist\/i\/7479b568749fca315a2969e30cbee4f5.png",
+                "service_name": "doodle.com",
+                "id": 1,
+                "original_url": "https:\/\/doodle.com\/poll\/ub9tgq2rxydm5yx3?utm_source=poll&amp;utm_medium=link"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kEHiO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "quick question - should i post this in general, polls or social? pasting the doodle poll link here for now just so i don't lose it lol "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/doodle.com\/poll\/ub9tgq2rxydm5yx3?utm_source=poll&utm_medium=link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606196756.001200",
+        "parent_user_id": "U01AADVMMJ7"
+    },
+    {
+        "client_msg_id": "b48a1476-9ae0-4e34-90e2-73cac5744a2f",
+        "type": "message",
+        "text": "Thanks Chelsea! Hm, good question! I’m thinking maybe general, because I am not sure to what extent people are checking the polls channel (also, no one can leave the general channel, so that is the only one we can be sure has everyone in it)",
+        "user": "U01AA7U2ECA",
+        "ts": "1606340768.003300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GCd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Chelsea! Hm, good question! I’m thinking maybe general, because I am not sure to what extent people are checking the polls channel (also, no one can leave the general channel, so that is the only one we can be sure has everyone in it)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606196756.001200",
+        "parent_user_id": "U01AADVMMJ7"
+    },
+    {
+        "client_msg_id": "D76D87C2-E123-4287-BABE-CFC13CEB9B18",
+        "type": "message",
+        "text": "Oh I did not know that! That sounds like the best option then. Thanks!",
+        "user": "U01ABLH7DPY",
+        "ts": "1606341036.003900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fk8Ei",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh I did not know that! That sounds like the best option then. Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606196756.001200",
+        "parent_user_id": "U01AADVMMJ7"
+    },
+    {
+        "client_msg_id": "a03f0716-72f4-4dcd-a9a2-aca8b4a05b35",
+        "type": "message",
+        "text": "Oops I dont think I have permission to post in the general channel? it says its read only for me",
+        "user": "U01ABLH7DPY",
+        "ts": "1606344177.004100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y0+6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oops I dont think I have permission to post in the general channel? it says its read only for me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606196756.001200",
+        "parent_user_id": "U01AADVMMJ7"
+    },
+    {
+        "client_msg_id": "6ceb008f-eca3-4be8-931a-9f8bd8b9765f",
+        "type": "message",
+        "text": "I’ll make you an administrator too! I didn’t know we were so strict though :sweat_smile:",
+        "user": "U01AA7U2ECA",
+        "ts": "1606344221.004300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "itqwm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ll make you an administrator too! I didn’t know we were so strict though "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606196756.001200",
+        "parent_user_id": "U01AADVMMJ7"
+    },
+    {
+        "client_msg_id": "2982303b-1222-46b2-b173-7c65fa1105d2",
+        "type": "message",
+        "text": "Are you able to post now?",
+        "user": "U01AA7U2ECA",
+        "ts": "1606344283.004500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TTE3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are you able to post now?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606196756.001200",
+        "parent_user_id": "U01AADVMMJ7"
+    },
+    {
+        "client_msg_id": "2950033b-8ca7-46ff-abfa-2189ff47e55a",
+        "type": "message",
+        "text": "Yes I am - thanks Gwen!",
+        "user": "U01ABLH7DPY",
+        "ts": "1606344320.004700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "esM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes I am - thanks Gwen!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606196756.001200",
+        "parent_user_id": "U01AADVMMJ7"
+    }
+]

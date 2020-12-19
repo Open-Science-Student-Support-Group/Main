@@ -1,0 +1,96 @@
+[
+    {
+        "client_msg_id": "f8c9d0e5-6f33-4117-9745-225201f88e0f",
+        "type": "message",
+        "text": "I spoke with Michael briefly and he said in the coming weeks the PGSA will be having a discussion about the holiday social and they'll discuss whether they want it separate and can host it on a different week from us, or if they want to combine it with ours so we can get more of a turn out together.",
+        "user": "U01AADVMMJ7",
+        "ts": "1606196756.001200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "bc87ba7ccce1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-25\/1445402318902_bc87ba7ccce142957a62_72.png",
+            "first_name": "Jassleen",
+            "real_name": "Jassleen Parmar",
+            "display_name": "Jassleen Parmar",
+            "team": "T01A754ECJZ",
+            "name": "jassleen.parmar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wvr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I spoke with Michael briefly and he said in the coming weeks the PGSA will be having a discussion about the holiday social and they'll discuss whether they want it separate and can host it on a different week from us, or if they want to combine it with ours so we can get more of a turn out together."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606196756.001200",
+        "reply_count": 11,
+        "reply_users_count": 3,
+        "latest_reply": "1606344320.004700",
+        "reply_users": [
+            "U01AA7U2ECA",
+            "U01AADVMMJ7",
+            "U01ABLH7DPY"
+        ],
+        "replies": [
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1606235721.001300"
+            },
+            {
+                "user": "U01AADVMMJ7",
+                "ts": "1606235945.001800"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1606236279.002000"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1606339754.002700"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1606340302.002900"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1606340768.003300"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1606341036.003900"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1606344177.004100"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1606344221.004300"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1606344283.004500"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1606344320.004700"
+            }
+        ],
+        "subscribed": false
+    }
+]

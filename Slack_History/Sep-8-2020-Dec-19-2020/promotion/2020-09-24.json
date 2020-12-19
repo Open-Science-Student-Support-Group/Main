@@ -1,0 +1,1039 @@
+[
+    {
+        "client_msg_id": "8ad7d5dd-8979-42cd-a554-07fe1e07256f",
+        "type": "message",
+        "text": "Hi Gwen,",
+        "user": "U01AGDAUB1S",
+        "ts": "1600961809.000100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nioS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Gwen,"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600920431.003800",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "2f22cefb-a92f-4435-8f76-490663b0de83",
+        "type": "message",
+        "text": "Sorry - I am just seeing this now!",
+        "user": "U01AGDAUB1S",
+        "ts": "1600961818.000300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wo0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry - I am just seeing this now!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600920431.003800",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "6975ad36-a57d-4fa2-93c0-d604e993538d",
+        "type": "message",
+        "text": "‘just’ as if I didn’t send this pretty late last night and it’s only about 30 minutes into todays working day :sweat_smile: now is right on time!",
+        "user": "U01AA7U2ECA",
+        "ts": "1600961879.000500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gzs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "‘just’ as if I didn’t send this pretty late last night and it’s only about 30 minutes into todays working day "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " now is right on time!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600920431.003800",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "9dd950df-4d62-48cc-99de-714e7ddbffbc",
+        "type": "message",
+        "text": "*Interested in learning about Open Science?* Join the Open Science Student Support Group’s first session on *October 9th, 4-6pm*!\n\nStudents in the Open Science Student Support Group *will* meet biweekly on Fridays to discuss and learn about different open science practices and support each other in implementing these practices in our own research.\n\n....\n*For further information,* please join our Slack workspace (PUT LINK) or keep an eye on next week’s Monday Memo!",
+        "user": "U01AGDAUB1S",
+        "ts": "1600962180.002900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Ko",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Interested in learning about Open Science? ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Join the Open Science Student Support Group’s first session on "
+                            },
+                            {
+                                "type": "text",
+                                "text": "October 9th, 4-6pm",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "!\n\nStudents in the Open Science Student Support Group "
+                            },
+                            {
+                                "type": "text",
+                                "text": "will",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " meet biweekly on Fridays to discuss and learn about different open science practices and support each other in implementing these practices in our own research.\n\n....\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "For further information, ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "please join our Slack workspace (PUT LINK) or keep an eye on next week’s Monday Memo!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600962180.002900",
+        "reply_count": 20,
+        "reply_users_count": 2,
+        "latest_reply": "1601051887.001300",
+        "reply_users": [
+            "U01AGDAUB1S",
+            "U01AA7U2ECA"
+        ],
+        "replies": [
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1600962214.003000"
+            },
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1600962249.003200"
+            },
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1600962375.003400"
+            },
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1600962674.003600"
+            },
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1600963448.004200"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1600964766.004400"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1600964934.004600"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1600964978.005000"
+            },
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1600965268.006600"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1600966629.007000"
+            },
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1600967371.007400"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1600988701.007600"
+            },
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1600989937.007800"
+            },
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1600991607.008200"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1601047123.000100"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1601047200.000500"
+            },
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1601051680.000700"
+            },
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1601051689.000900"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1601051883.001100"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1601051887.001300"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6f360b46-cce2-4f9c-9c7f-a5814a6960b4",
+        "type": "message",
+        "text": "I keep forgetting that ENTER sends things and doesn't just go to the next line lol",
+        "user": "U01AGDAUB1S",
+        "ts": "1600962214.003000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+lk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I keep forgetting that ENTER sends things and doesn't just go to the next line lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600962180.002900",
+        "parent_user_id": "U01AGDAUB1S"
+    },
+    {
+        "client_msg_id": "6d5b951e-4cfc-49c9-85e3-2189b6dfecd2",
+        "type": "message",
+        "text": "What about these small changes? Just a catchy first sentence and moving the further info to the front of the sentence to catch eye.",
+        "user": "U01AGDAUB1S",
+        "ts": "1600962249.003200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "icdM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What about these small changes? Just a catchy first sentence and moving the further info to the front of the sentence to catch eye."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600962180.002900",
+        "parent_user_id": "U01AGDAUB1S"
+    },
+    {
+        "client_msg_id": "4625fc6e-7575-4d4c-9691-58ce866e1333",
+        "type": "message",
+        "text": "I can find a picture from colourbox if you don't have one in mind and then send it off to Lisa once we are ready too",
+        "user": "U01AGDAUB1S",
+        "ts": "1600962375.003400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZuA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can find a picture from colourbox if you don't have one in mind and then send it off to Lisa once we are ready too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600962180.002900",
+        "parent_user_id": "U01AGDAUB1S"
+    },
+    {
+        "type": "message",
+        "text": "I kinda like this one",
+        "files": [
+            {
+                "id": "F01BHNUD71A",
+                "created": 1600962660,
+                "timestamp": 1600962660,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01AGDAUB1S",
+                "editable": false,
+                "size": 2886827,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01BHNUD71A\/image.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01BHNUD71A\/download\/image.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BHNUD71A-2adb7406d6\/image_64.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BHNUD71A-2adb7406d6\/image_80.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BHNUD71A-2adb7406d6\/image_360.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360_w": 360,
+                "thumb_360_h": 239,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BHNUD71A-2adb7406d6\/image_480.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_480_w": 480,
+                "thumb_480_h": 319,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BHNUD71A-2adb7406d6\/image_160.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BHNUD71A-2adb7406d6\/image_720.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720_w": 720,
+                "thumb_720_h": 478,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BHNUD71A-2adb7406d6\/image_800.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_800_w": 800,
+                "thumb_800_h": 531,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BHNUD71A-2adb7406d6\/image_960.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_960_w": 960,
+                "thumb_960_h": 637,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BHNUD71A-2adb7406d6\/image_1024.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 680,
+                "original_w": 1372,
+                "original_h": 911,
+                "thumb_tiny": "AwAfADC15nBoEnzVVLnt\/OiJst1q7EXL6HpVeS4274wjHGRmpo2HHNMkUCVs9wDUSfKXFXJckgEdD60yRnVcgqPwp0ZHlL7VHcYEZNNaky0M0EgdM81NAsjg44HqadJIq9eKZ9swMKoFHOw5C4kZXqQfwodC205wQuDVMXrg5bGPpSG9cnKgAfSpbb3LWmxd5jiAyM5qKYll6gn2qD7YSMMgNOR1fp0pqViXG7uf\/9k=",
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01AGDAUB1S\/F01BHNUD71A\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01BHNUD71A-8b01ae1fac",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YvwC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I kinda like this one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01AGDAUB1S",
+        "display_as_bot": false,
+        "ts": "1600962674.003600",
+        "thread_ts": "1600962180.002900",
+        "parent_user_id": "U01AGDAUB1S"
+    },
+    {
+        "client_msg_id": "b1d1ad35-97c7-44ac-9d34-614af09962ee",
+        "type": "message",
+        "text": "lol! I just made a new post with recommendations :slightly_smiling_face:",
+        "user": "U01AGDAUB1S",
+        "ts": "1600962752.004000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OBGJl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lol! I just made a new post with recommendations "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600920431.003800",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "605567a0-53de-4c1a-b1be-f6e22d183184",
+        "type": "message",
+        "text": "Oh, and did you want your contact info or just slack? If someone has direct questions, slack might be tough?",
+        "user": "U01AGDAUB1S",
+        "ts": "1600963448.004200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JfChQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh, and did you want your contact info or just slack? If someone has direct questions, slack might be tough?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600962180.002900",
+        "parent_user_id": "U01AGDAUB1S"
+    },
+    {
+        "client_msg_id": "189a2268-4dee-4bd7-8aac-371df374f282",
+        "type": "message",
+        "text": "hm yes, putting my contact info would probably be good for questions!",
+        "user": "U01AA7U2ECA",
+        "ts": "1600964766.004400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VfKW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hm yes, putting my contact info would probably be good for questions!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600962180.002900",
+        "parent_user_id": "U01AGDAUB1S"
+    },
+    {
+        "type": "message",
+        "text": "for the image I was thinking something like this, maybe? to be fair, I just searched this on google so I’ll have to see if I can find something similar from an open source",
+        "files": [
+            {
+                "id": "F01AWUAURHD",
+                "created": 1600964885,
+                "timestamp": 1600964885,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01AA7U2ECA",
+                "editable": false,
+                "size": 205761,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01AWUAURHD\/image.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01AWUAURHD\/download\/image.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01AWUAURHD-32ae99a3d5\/image_64.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01AWUAURHD-32ae99a3d5\/image_80.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01AWUAURHD-32ae99a3d5\/image_360.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360_w": 360,
+                "thumb_360_h": 216,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01AWUAURHD-32ae99a3d5\/image_480.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_480_w": 480,
+                "thumb_480_h": 288,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01AWUAURHD-32ae99a3d5\/image_160.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01AWUAURHD-32ae99a3d5\/image_720.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720_w": 720,
+                "thumb_720_h": 432,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01AWUAURHD-32ae99a3d5\/image_800.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_800_w": 800,
+                "thumb_800_h": 480,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01AWUAURHD-32ae99a3d5\/image_960.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_960_w": 960,
+                "thumb_960_h": 576,
+                "original_w": 1000,
+                "original_h": 600,
+                "thumb_tiny": "AwAcADDTpGYKpJpaiuM4XjPNAETTEn74HONo60olKkYcE\/3TTV4b5htHpS5GeOQOtIksqwZcilqG3zhuMDPr7VNTKCmyAFCGOPf0p1IQGGCMigCsIznJYfL70FDnhhyex6VYEaDOFHNHlp\/dH5UCsEahUABz706kACjAGBS0DP\/Z",
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01AA7U2ECA\/F01AWUAURHD\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01AWUAURHD-36ac28ee4f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yxm5E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for the image I was thinking something like this, maybe? to be fair, I just searched this on google so I’ll have to see if I can find something similar from an open source"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01AA7U2ECA",
+        "display_as_bot": false,
+        "ts": "1600964934.004600",
+        "thread_ts": "1600962180.002900",
+        "parent_user_id": "U01AGDAUB1S"
+    },
+    {
+        "client_msg_id": "4cb67117-e43a-4069-b6ca-f8e1e498fd5c",
+        "type": "message",
+        "text": "Thanks for your comments, I’ll try to reconstruct it with your adjustments!",
+        "user": "U01AA7U2ECA",
+        "ts": "1600964978.005000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dvTG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for your comments, I’ll try to reconstruct it with your adjustments!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600962180.002900",
+        "parent_user_id": "U01AGDAUB1S"
+    },
+    {
+        "type": "message",
+        "text": "Do you mind changing it on this document and then I can send it off to Lisa. I couldn't find anything similar to your picture on colourbox but maybe you will have better luck! I love it!",
+        "files": [
+            {
+                "id": "F01BBM5QW90",
+                "created": 1600965209,
+                "timestamp": 1600965209,
+                "name": "Monday memo, sept 28th OSSG.docx",
+                "title": "Monday memo, sept 28th OSSG.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U01AGDAUB1S",
+                "editable": false,
+                "size": 1829722,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01BBM5QW90\/monday_memo__sept_28th_ossg.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01BBM5QW90\/download\/monday_memo__sept_28th_ossg.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BBM5QW90-61d2c80c12\/monday_memo__sept_28th_ossg_converted.pdf?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BBM5QW90-61d2c80c12\/monday_memo__sept_28th_ossg_thumb_pdf.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01AGDAUB1S\/F01BBM5QW90\/monday_memo__sept_28th_ossg.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01BBM5QW90-3f850bd393",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dS4pz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you mind changing it on this document and then I can send it off to Lisa. I couldn't find anything similar to your picture on colourbox but maybe you will have better luck! I love it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01AGDAUB1S",
+        "display_as_bot": false,
+        "ts": "1600965268.006600",
+        "thread_ts": "1600962180.002900",
+        "parent_user_id": "U01AGDAUB1S"
+    },
+    {
+        "type": "message",
+        "text": "Here you go! I don’t think I changed the text at all, just the picture :slightly_smiling_face:",
+        "files": [
+            {
+                "id": "F01BBV71X35",
+                "created": 1600966607,
+                "timestamp": 1600966607,
+                "name": "Monday memo, sept 28th OSSG.docx",
+                "title": "Monday memo, sept 28th OSSG.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U01AA7U2ECA",
+                "editable": false,
+                "size": 336514,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01BBV71X35\/monday_memo__sept_28th_ossg.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01BBV71X35\/download\/monday_memo__sept_28th_ossg.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BBV71X35-6ccf4d65bb\/monday_memo__sept_28th_ossg_converted.pdf?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BBV71X35-6ccf4d65bb\/monday_memo__sept_28th_ossg_thumb_pdf.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01AA7U2ECA\/F01BBV71X35\/monday_memo__sept_28th_ossg.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01BBV71X35-7cab954916",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c9wUK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here you go! I don’t think I changed the text at all, just the picture "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01AA7U2ECA",
+        "display_as_bot": false,
+        "ts": "1600966629.007000",
+        "thread_ts": "1600962180.002900",
+        "parent_user_id": "U01AGDAUB1S"
+    },
+    {
+        "client_msg_id": "2d194bfa-d4ee-4711-b08c-ba2479b108c5",
+        "type": "message",
+        "text": "Awesome! Thanks! Do you think this is sufficient for the GPPP and PGSA Facebook pages? I can post those later this afternoon. I think we can wait until we have more concrete info to get Brad to send an email through PGSA (but thoughts?)",
+        "user": "U01AGDAUB1S",
+        "ts": "1600967371.007400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ePV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome! Thanks! Do you think this is sufficient for the GPPP and PGSA Facebook pages? I can post those later this afternoon. I think we can wait until we have more concrete info to get Brad to send an email through PGSA (but thoughts?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600962180.002900",
+        "parent_user_id": "U01AGDAUB1S"
+    },
+    {
+        "client_msg_id": "bdcb73e8-fbf6-43e4-bf0d-99c4236231af",
+        "type": "message",
+        "text": "Yeah, for the Facebook pages I would keep it as short as possible! Hmm as for the email through the PGSA, I’m guessing we would do that max once, as not to spam people too much, so I’d say we can do that next week, hopefully with more info on the zoom link\/registration. Does that sound good?",
+        "user": "U01AA7U2ECA",
+        "ts": "1600988701.007600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qr\/se",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, for the Facebook pages I would keep it as short as possible! Hmm as for the email through the PGSA, I’m guessing we would do that max once, as not to spam people too much, so I’d say we can do that next week, hopefully with more info on the zoom link\/registration. Does that sound good?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600962180.002900",
+        "parent_user_id": "U01AGDAUB1S"
+    },
+    {
+        "type": "message",
+        "text": "Awesome! How does this sounds for social media? i agree with the email thing - let's wait until we have registration all figured out!",
+        "files": [
+            {
+                "id": "F01BJRGCR0U",
+                "created": 1600989908,
+                "timestamp": 1600989908,
+                "name": "Social media, OSSSG .docx",
+                "title": "Social media, OSSSG .docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U01AGDAUB1S",
+                "editable": false,
+                "size": 336540,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01BJRGCR0U\/social_media__osssg_.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01BJRGCR0U\/download\/social_media__osssg_.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BJRGCR0U-aa9a022d38\/social_media__osssg__converted.pdf?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BJRGCR0U-aa9a022d38\/social_media__osssg__thumb_pdf.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01AGDAUB1S\/F01BJRGCR0U\/social_media__osssg_.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01BJRGCR0U-3600c9c766",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KBe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome! How does this sounds for social media? i agree with the email thing - let's wait until we have registration all figured out!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01AGDAUB1S",
+        "display_as_bot": false,
+        "ts": "1600989937.007800",
+        "thread_ts": "1600962180.002900",
+        "parent_user_id": "U01AGDAUB1S"
+    },
+    {
+        "client_msg_id": "78ea87b6-4130-4e20-8591-2cba563c0855",
+        "type": "message",
+        "text": "Oh, and I assume we should wait for the info before we send more info to Melissa for honours too",
+        "user": "U01AGDAUB1S",
+        "ts": "1600991607.008200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=SDY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh, and I assume we should wait for the info before we send more info to Melissa for honours too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600962180.002900",
+        "parent_user_id": "U01AGDAUB1S"
+    }
+]

@@ -1,0 +1,266 @@
+[
+    {
+        "client_msg_id": "aa0d3b12-6824-4ecc-a7c8-90686259c634",
+        "type": "message",
+        "text": "Heyo! I'll post the call for organizers on Slack tomorrow, but I was thinking we could also send it out to a broader audience, in case people who haven't been involved yet are interested? I was thinking for example of the Monday Memo, and maybe another email through the PGSA? What do you think, <@U01BM8QUSTS> and <@U01AGDAUB1S>",
+        "user": "U01AA7U2ECA",
+        "ts": "1607459046.001700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "72e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Heyo! I'll post the call for organizers on Slack tomorrow, but I was thinking we could also send it out to a broader audience, in case people who haven't been involved yet are interested? I was thinking for example of the Monday Memo, and maybe another email through the PGSA? What do you think, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01BM8QUSTS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01AGDAUB1S"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607459046.001700",
+        "reply_count": 10,
+        "reply_users_count": 3,
+        "latest_reply": "1607731650.003800",
+        "reply_users": [
+            "U01AGDAUB1S",
+            "U01AA7U2ECA",
+            "U01BM8QUSTS"
+        ],
+        "replies": [
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1607459271.002000"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1607459933.002200"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1607461045.002400"
+            },
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1607539075.002600"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1607545880.002800"
+            },
+            {
+                "user": "U01BM8QUSTS",
+                "ts": "1607635272.003000"
+            },
+            {
+                "user": "U01BM8QUSTS",
+                "ts": "1607635285.003200"
+            },
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1607635482.003400"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1607640688.003600"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1607731650.003800"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "66e664e2-7dfc-4f30-87b0-fa0d049ca539",
+        "type": "message",
+        "text": "?",
+        "user": "U01AA7U2ECA",
+        "ts": "1607459048.001900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qPX9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4453428a-e7df-43c0-b4cd-3bb7f6b78531",
+        "type": "message",
+        "text": "Hi Gwen! I did put in a general \"we are on break until the new year\" in the Monday memo, but I can definitely alter that! I also think we can totally ask brad to send around an email. Did you want to draft something for these (details and such) and I can facilitate distribution?",
+        "user": "U01AGDAUB1S",
+        "ts": "1607459271.002000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MHJG9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Gwen! I did put in a general \"we are on break until the new year\" in the Monday memo, but I can definitely alter that! I also think we can totally ask brad to send around an email. Did you want to draft something for these (details and such) and I can facilitate distribution?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607459046.001700",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "543a9ed9-ec9e-4ec3-b505-1c8748a3803a",
+        "type": "message",
+        "text": "Okay great! If I send you stuff tomorrow, that should be in time for the next Monday Memo right?",
+        "user": "U01AA7U2ECA",
+        "ts": "1607459933.002200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c3zs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay great! If I send you stuff tomorrow, that should be in time for the next Monday Memo right?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607459046.001700",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "f7620b3f-f22f-4490-9bfc-b7d33ac76cea",
+        "type": "message",
+        "text": "can you send me what you had written about being on break? I'll just add to that, or combine the two if it becomes too long otherwise :slightly_smiling_face:",
+        "user": "U01AA7U2ECA",
+        "ts": "1607461045.002400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yo+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "can you send me what you had written about being on break? I'll just add to that, or combine the two if it becomes too long otherwise "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607459046.001700",
+        "parent_user_id": "U01AA7U2ECA"
+    }
+]

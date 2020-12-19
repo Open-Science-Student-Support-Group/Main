@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "6aababc1-7a18-43e5-b55a-3cf136a78ee9",
+        "type": "message",
+        "text": "I am, let's just say, hanging in there. I have not been more grateful for (and actually needed) so many extensions in my entire life!\nP.S. I just looked up \"sorrel drink\" and man oh man, that looks delicious!!!!\nCan't wait to visit with you all tomorrow (at OSSSG and maybe even the Holiday party in the evening!)",
+        "user": "U01AGDAUB1S",
+        "ts": "1607024918.020000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sJA1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am, let's just say, hanging in there. I have not been more grateful for (and actually needed) so many extensions in my entire life!\nP.S. I just looked up \"sorrel drink\" and man oh man, that looks delicious!!!!\nCan't wait to visit with you all tomorrow (at OSSSG and maybe even the Holiday party in the evening!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606954619.019800",
+        "parent_user_id": "U01BM8QUSTS"
+    }
+]

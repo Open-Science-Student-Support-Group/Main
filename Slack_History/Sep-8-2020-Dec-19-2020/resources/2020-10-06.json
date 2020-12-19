@@ -1,0 +1,72 @@
+[
+    {
+        "client_msg_id": "8729E50F-5679-4D5E-B237-E6B7046A922F",
+        "type": "message",
+        "text": "<https:\/\/osf.io\/preprints\/metaarxiv\/7gct9\/|https:\/\/osf.io\/preprints\/metaarxiv\/7gct9\/> The role of open science communities in adopting open science practices; the abstract is very Kuhnian :)",
+        "user": "U01AA7U4UHY",
+        "ts": "1601998387.005500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "MetaArXiv",
+                "title": "Towards wide-scale adoption of open science practices: The role of open science communities",
+                "title_link": "https:\/\/osf.io\/preprints\/metaarxiv\/7gct9\/",
+                "text": "Open Science (OS) increases the quality, efficiency, and impact of science. This has been widely recognised by scholars, funders, and policy makers. However, despite the increasing availability of infrastructure supporting OS and the rise in policies and incentives to change behavior, OS practices are not yet the norm. While pioneering researchers are developing and embracing OS practices, the majority sticks to the status quo. To transition from pioneering to common practice, we need to engage a critical proportion of the academic community. In this transition, Open Science Communities (OSCs) play a key role. OSCs are bottom-up learning groups of scholars that discuss OS practices, within and across disciplines. They make OS knowledge and know-how more visible and accessible, and facilitate communication among scholars and policy makers. By the same token, community members shape the transition to OS such that it is most beneficial for researchers, science, and society. Over the past two years, eleven OSCs were founded at several Dutch university cities, with approximately 700 members in total (at the time of writing). In other countries, similar OSCs are starting up. In this paper, we discuss the pivotal role OSCs play in the large-scale transition to OS and provide practical information on how to start a local OSC. We emphasize that, despite the grassroot character of OSCs, support from universities is critical for OSCs to be viable, effective, and sustainable.",
+                "fallback": "MetaArXiv: Towards wide-scale adoption of open science practices: The role of open science communities",
+                "image_url": "https:\/\/osf.io\/preprints\/assets\/osf-assets\/files\/preprints-assets\/metaarxiv\/sharing-2ddbbe8ac202daac0903f0c3e50cc266c4809a95.png",
+                "image_width": 442,
+                "image_height": 250,
+                "ts": 1601985583,
+                "from_url": "https:\/\/osf.io\/preprints\/metaarxiv\/7gct9\/",
+                "image_bytes": 368782,
+                "service_icon": "https:\/\/osf.io\/preprints\/assets\/osf-assets\/files\/preprints-assets\/metaarxiv\/favicon-2ddbbe8ac202daac0903f0c3e50cc266c4809a95.ico",
+                "id": 1,
+                "original_url": "https:\/\/osf.io\/preprints\/metaarxiv\/7gct9\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QHrbv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/osf.io\/preprints\/metaarxiv\/7gct9\/",
+                                "text": "https:\/\/osf.io\/preprints\/metaarxiv\/7gct9\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " The role of open science communities in adopting open science practices; the abstract is very Kuhnian :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U01AA7U2ECA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

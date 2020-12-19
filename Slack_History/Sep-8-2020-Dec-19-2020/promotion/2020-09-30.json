@@ -1,0 +1,226 @@
+[
+    {
+        "type": "message",
+        "text": "Hey guys! <@U01AA7U2ECA> How does these look for the Monday memo and the email to the PGSA mailing list. I was going to just modify that email for the two Facebook posts as well! I can get them all send out tomorrow!",
+        "files": [
+            {
+                "id": "F01C3NBVB5X",
+                "created": 1601510617,
+                "timestamp": 1601510617,
+                "name": "Email for PGSA OSSSG.docx",
+                "title": "Email for PGSA OSSSG.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U01AGDAUB1S",
+                "editable": false,
+                "size": 21981,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01C3NBVB5X\/email_for_pgsa_osssg.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01C3NBVB5X\/download\/email_for_pgsa_osssg.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C3NBVB5X-92bfbe5716\/email_for_pgsa_osssg_converted.pdf?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01C3NBVB5X-92bfbe5716\/email_for_pgsa_osssg_thumb_pdf.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01AGDAUB1S\/F01C3NBVB5X\/email_for_pgsa_osssg.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01C3NBVB5X-d6bf13a76f",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F01BX9GLFK6",
+                "created": 1601510621,
+                "timestamp": 1601510621,
+                "name": "Monday memo, oct 5th OSSSG final.docx",
+                "title": "Monday memo, oct 5th OSSSG final.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U01AGDAUB1S",
+                "editable": false,
+                "size": 336790,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01BX9GLFK6\/monday_memo__oct_5th_osssg_final.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01BX9GLFK6\/download\/monday_memo__oct_5th_osssg_final.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BX9GLFK6-75da98143b\/monday_memo__oct_5th_osssg_final_converted.pdf?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BX9GLFK6-75da98143b\/monday_memo__oct_5th_osssg_final_thumb_pdf.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01AGDAUB1S\/F01BX9GLFK6\/monday_memo__oct_5th_osssg_final.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01BX9GLFK6-2a5922ab90",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aAehR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey guys! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01AA7U2ECA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " How does these look for the Monday memo and the email to the PGSA mailing list. I was going to just modify that email for the two Facebook posts as well! I can get them all send out tomorrow!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01AGDAUB1S",
+        "ts": "1601510638.001200"
+    },
+    {
+        "client_msg_id": "ec7c24cc-f010-40f5-810a-381726c52fde",
+        "type": "message",
+        "text": "I’ll look first thing tomorrow probably!",
+        "user": "U01AA7U2ECA",
+        "ts": "1601518297.001900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Ny",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ll look first thing tomorrow probably!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fb3cc71b-ea8f-45fc-a342-9a061674a22f",
+        "type": "message",
+        "text": "by probably, I mean maybe I will also look tonight, but not later!",
+        "user": "U01AA7U2ECA",
+        "ts": "1601518314.002400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5jQ0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "by probably, I mean maybe I will also look tonight, but not later!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601518314.002400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1601522302.002500",
+        "reply_users": [
+            "U01AGDAUB1S"
+        ],
+        "replies": [
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1601522302.002500"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "19cf34db-3e04-452e-b965-e3232fb926ed",
+        "type": "message",
+        "text": "Sounds good! Thank you! I will send to the memo tomorrow and then send Brad the email and post on the two facebook pages tomorrow afternoon!",
+        "user": "U01AGDAUB1S",
+        "ts": "1601522302.002500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HzUKd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds good! Thank you! I will send to the memo tomorrow and then send Brad the email and post on the two facebook pages tomorrow afternoon!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601518314.002400",
+        "parent_user_id": "U01AA7U2ECA"
+    }
+]

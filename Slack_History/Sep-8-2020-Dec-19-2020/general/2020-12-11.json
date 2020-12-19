@@ -1,0 +1,126 @@
+[
+    {
+        "client_msg_id": "490ab609-70bc-4111-b573-e3f574f7bff7",
+        "type": "message",
+        "text": "Hi <!channel>!\n\nJust a friendly reminder to please complete the feedback survey by the end of tomorrow (Saturday) night. FYI there is a question where you can share your ideas\/input on topics for next semester's sessions. As always, you can also contact me directly if you prefer.\n\nThanks and have a nice weekend!\n\n<https:\/\/survey.ucalgary.ca\/jfe\/form\/SV_8H6HYwAMyInihs9>",
+        "user": "U01ABLH7DPY",
+        "ts": "1607706389.033800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Online Survey Software | Qualtrics Survey Solutions",
+                "title_link": "https:\/\/survey.ucalgary.ca\/jfe\/form\/SV_8H6HYwAMyInihs9",
+                "text": "The most powerful, simple and trusted way to gather experience data. Start your journey to experience management and try a free account today.",
+                "fallback": "Online Survey Software | Qualtrics Survey Solutions",
+                "from_url": "https:\/\/survey.ucalgary.ca\/jfe\/form\/SV_8H6HYwAMyInihs9",
+                "service_icon": "http:\/\/co1.qualtrics.com\/WRQualtricsShared\/Graphics\/qipadicon.png",
+                "service_name": "survey.ucalgary.ca",
+                "id": 1,
+                "original_url": "https:\/\/survey.ucalgary.ca\/jfe\/form\/SV_8H6HYwAMyInihs9"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mF6q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!\n\nJust a friendly reminder to please complete the feedback survey by the end of tomorrow (Saturday) night. FYI there is a question where you can share your ideas\/input on topics for next semester's sessions. As always, you can also contact me directly if you prefer.\n\nThanks and have a nice weekend!\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/survey.ucalgary.ca\/jfe\/form\/SV_8H6HYwAMyInihs9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d535a65c-fe09-47e1-b3ba-7e8b3eb28c1b",
+        "type": "message",
+        "text": "<!channel> Hi Everyone! It's been a pleasure seeing many of you at our biweekly sessions this semester to check in and talk about Open Science. This did not give much space to talk about other stuff and just hang out, though, so now that this busy semester is unwinding I'd like to invite you all to come unwind with us as well, *next Friday (Dec. 18) 4-6pm*. We'll meet on Zoom and see what you feel up for - having a chat, playing games, etc. Please fill free to bring your drinks, your dinner and anyone who wants to join, this is totally open to everyone (pets included ^^)! Here's the zoom info:\n<https:\/\/ucalgary.zoom.us\/j\/97591016672>\nMeeting ID: 975 9101 6672\nPasscode: 747521\n\nI hope to see you there!",
+        "user": "U01AA7U2ECA",
+        "ts": "1607730669.034200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sWZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi Everyone! It's been a pleasure seeing many of you at our biweekly sessions this semester to check in and talk about Open Science. This did not give much space to talk about other stuff and just hang out, though, so now that this busy semester is unwinding I'd like to invite you all to come unwind with us as well, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "next Friday (Dec. 18) 4-6pm",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". We'll meet on Zoom and see what you feel up for - having a chat, playing games, etc. Please fill free to bring your drinks, your dinner and anyone who wants to join, this is totally open to everyone (pets included ^^)! Here's the zoom info:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ucalgary.zoom.us\/j\/97591016672"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMeeting ID: 975 9101 6672\nPasscode: 747521\n\nI hope to see you there!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

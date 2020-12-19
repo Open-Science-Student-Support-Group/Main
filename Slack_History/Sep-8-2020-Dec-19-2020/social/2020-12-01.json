@@ -1,0 +1,90 @@
+[
+    {
+        "client_msg_id": "DE49D78C-4A6C-43E9-951B-3220018C973D",
+        "type": "message",
+        "text": "MY ASIAN STEREOTYPE SENSE IS TINGLING",
+        "user": "U01A3HZ3R63",
+        "ts": "1606864353.006800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "169068bf7e39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-11\/1358561448611_169068bf7e3945f474ae_72.jpg",
+            "first_name": "",
+            "real_name": "Chelsie Hart",
+            "display_name": "Chelsie Hart",
+            "team": "T01A754ECJZ",
+            "name": "chelsie.hart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pr5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "MY ASIAN STEREOTYPE SENSE IS TINGLING"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602779845.013900",
+        "parent_user_id": "U01AKC8FU2H"
+    },
+    {
+        "client_msg_id": "4C46BE06-B543-478B-8D75-48303670B335",
+        "type": "message",
+        "text": "Miso is not a powder. Matcha is only one kind of green tea derived from the leaves!\nHowever, genmaicha includes toasted rice and could qualify as ingredient neutral.",
+        "user": "U01A3HZ3R63",
+        "ts": "1606864392.007600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "169068bf7e39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-11\/1358561448611_169068bf7e3945f474ae_72.jpg",
+            "first_name": "",
+            "real_name": "Chelsie Hart",
+            "display_name": "Chelsie Hart",
+            "team": "T01A754ECJZ",
+            "name": "chelsie.hart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01A3HZ3R63",
+            "ts": "1606864546.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i=uAt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Miso is not a powder. Matcha is only one kind of green tea derived from the leaves!\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "However, genmaicha includes toasted rice and could qualify as ingredient neutral."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602779845.013900",
+        "parent_user_id": "U01AKC8FU2H"
+    }
+]

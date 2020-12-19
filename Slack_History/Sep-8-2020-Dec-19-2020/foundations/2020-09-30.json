@@ -1,0 +1,230 @@
+[
+    {
+        "client_msg_id": "8d5a9159-60d4-4021-a373-f738b95806c1",
+        "type": "message",
+        "text": "Hi <@U01AA7U2ECA>! I’ll add my thoughts and input tonight :slightly_smiling_face:",
+        "user": "U01ANS2G30R",
+        "ts": "1601484434.003800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B1h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01AA7U2ECA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I’ll add my thoughts and input tonight "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601414025.003700",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "22848778-ef61-48ca-a492-cbe2900de0ff",
+        "type": "message",
+        "text": "Thanks <@U01ANS2G30R> that would be great!",
+        "user": "U01AA7U2ECA",
+        "ts": "1601485817.004000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eJo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01ANS2G30R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that would be great!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601414025.003700",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "df2105c8-7add-4df1-9590-dcc0a1a5038f",
+        "type": "message",
+        "text": "It looks like the document is checked out right now. I’m happy to flesh out the responsibilities for the sessions unit before Friday. I’ll keep checking in to see if the document is available, but if I don’t catch it at the right time I’ll just add my list of responsibilities for the sessions unit in a message to this channel.",
+        "user": "U01ANS2G30R",
+        "ts": "1601509467.004200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GGsj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It looks like the document is checked out right now. I’m happy to flesh out the responsibilities for the sessions unit before Friday. I’ll keep checking in to see if the document is available, but if I don’t catch it at the right time I’ll just add my list of responsibilities for the sessions unit in a message to this channel."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601414025.003700",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "b9d3f0f3-a5d0-4205-9188-364b8209d9eb",
+        "type": "message",
+        "text": "I’m sorry, I think it actually got stuck with me :no_mouth: it’s back on now!",
+        "user": "U01AA7U2ECA",
+        "ts": "1601515761.004400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1vP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m sorry, I think it actually got stuck with me "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "no_mouth"
+                            },
+                            {
+                                "type": "text",
+                                "text": " it’s back on now!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601414025.003700",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "87C61E89-FD4A-4B23-AE1C-3F20B8FEC8D4",
+        "type": "message",
+        "text": "Thanks!",
+        "user": "U01ANS2G30R",
+        "ts": "1601515822.004800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XpYx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601414025.003700",
+        "parent_user_id": "U01AA7U2ECA"
+    }
+]
