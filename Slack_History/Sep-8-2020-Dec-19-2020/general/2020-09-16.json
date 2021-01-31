@@ -1,0 +1,365 @@
+[
+    {
+        "client_msg_id": "0A8BB52B-DA48-40EF-B0AA-782899EE0065",
+        "type": "message",
+        "text": "Good morning <!everyone>! I hope you’re having a good start to your semester. We are currently in the process of planning and designing our sessions for the semester and are seeking feedback on what you hope to learn and get from our sessions. Could you please make a *threaded response* to this post indicating what your interests for the sessions are? :smile:\n\nHere are some prompts:\n• Would you like lectures, discussions, workshops (or a mixture)?\n• What open science practices would you most like to learn? (e.g., publishing preprints, writing reproducible manuscripts in R, preregistration, etc.)\n\nOur first session will be an introduction to open science, but later sessions will likely be more focused on a single open science topic, so it will be helpful to know where your interests are!\n\nBest,\nMichael ",
+        "user": "U01AA7U4UHY",
+        "ts": "1600276394.028100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xdWU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good morning "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I hope you’re having a good start to your semester. We are currently in the process of planning and designing our sessions for the semester and are seeking feedback on what you hope to learn and get from our sessions. Could you please make a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "threaded response",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to this post indicating what your interests for the sessions are? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Here are some prompts:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Would you like lectures, discussions, workshops (or a mixture)?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "What open science practices would you most like to learn? (e.g., publishing preprints, writing reproducible manuscripts in R, preregistration, etc.)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Our first session will be an introduction to open science, but later sessions will likely be more focused on a single open science topic, so it will be helpful to know where your interests are!\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Best,\nMichael "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600276394.028100",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1600281928.043900",
+        "reply_users": [
+            "U01A3HZ3R63",
+            "U01AA7U4UHY",
+            "U01AKC8FU2H"
+        ],
+        "replies": [
+            {
+                "user": "U01A3HZ3R63",
+                "ts": "1600276849.028200"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1600278684.039500"
+            },
+            {
+                "user": "U01AKC8FU2H",
+                "ts": "1600281928.043900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4ecbdc6b-b5ec-4201-a7bf-2c4e1603dab3",
+        "type": "message",
+        "text": "I'm a bit busy with an NSERC application right now, so I don't have time for many lectures until later in October. I feel like I mostly understand preregistration and I know where I can publish preprints. I would like to know what you mean by \"reproducible manuscripts\" though. I assume it's more than sharing your code on github.",
+        "user": "U01A3HZ3R63",
+        "ts": "1600276849.028200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "169068bf7e39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-11\/1358561448611_169068bf7e3945f474ae_72.jpg",
+            "first_name": "",
+            "real_name": "Chelsie Hart",
+            "display_name": "Chelsie Hart",
+            "team": "T01A754ECJZ",
+            "name": "chelsie.hart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kxdJU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm a bit busy with an NSERC application right now, so I don't have time for many lectures until later in October. I feel like I mostly understand preregistration and I know where I can publish preprints. I would like to know what you mean by \"reproducible manuscripts\" though. I assume it's more than sharing your code on github."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600276394.028100",
+        "parent_user_id": "U01AA7U4UHY",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01AA7U4UHY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6296AA98-C2AE-4DCC-B243-0F1B72908AC1",
+        "type": "message",
+        "text": "<@U01A3HZ3R63> By reproducible manuscripts I mostly mean writing manuscripts (e.g., theses, papers) entirely in R Markdown*, leveraging R Markdown’s ability to print code output in the body of your manuscript, using renv :package: to control the packages and their versions in your project, using papaja :package:, bookdown :package:, or rticles :package: to format the output of your manuscript, and using scienceverse :package: to provide additional machine-readable output for all your statistics. I’d also include self-publishing your manuscript to its own website here, because that’s pretty easy to do as well within this workflow using GitHub Actions.\n\n*For anyone new to R, please note that R Markdown supports a variety of programming languages (e.g., python); not just R.",
+        "user": "U01AA7U4UHY",
+        "ts": "1600278684.039500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fe9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01A3HZ3R63"
+                            },
+                            {
+                                "type": "text",
+                                "text": " By reproducible manuscripts I mostly mean writing manuscripts (e.g., theses, papers) entirely in R Markdown*, leveraging R Markdown’s ability to print code output in the body of your manuscript, using renv "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "package"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to control the packages and their versions in your project, using papaja "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "package"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", bookdown "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "package"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", or rticles "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "package"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to format the output of your manuscript, and using scienceverse "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "package"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to provide additional machine-readable output for all your statistics. I’d also include self-publishing your manuscript to its own website here, because that’s pretty easy to do as well within this workflow using GitHub Actions.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "*For anyone new to R, please note that R Markdown supports a variety of programming languages (e.g., python); not just R."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600276394.028100",
+        "parent_user_id": "U01AA7U4UHY",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01A3HZ3R63"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "258BBD89-EEEB-4F0F-8E77-AD8BB7DB1760",
+        "type": "message",
+        "text": "• I’d be cool with a mixture \n• I’m not familiar with most of those so I guess all of them would be useful\n• Also one thing I’d love it to have support with publishing in open science journals. I learned about the partnerships between scientists and journalists who collaborate on making articles accessible to the public. It was in a Canadian journal I can’t remember the name of but the whole purpose of it is those collabs. I’d love to get published there eventually and this could be a great support group for learning how and encouraging that",
+        "user": "U01AKC8FU2H",
+        "ts": "1600281928.043900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "gb75aefd51e8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b75aefd51e80302aeb6fca694c22d0d1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Kaylee MacLean",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "kayleekooam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GJk",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I’d be cool with a mixture "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I’m not familiar with most of those so I guess all of them would be useful"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Also one thing I’d love it to have support with publishing in open science journals. I learned about the partnerships between scientists and journalists who collaborate on making articles accessible to the public. It was in a Canadian journal I can’t remember the name of but the whole purpose of it is those collabs. I’d love to get published there eventually and this could be a great support group for learning how and encouraging that"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600276394.028100",
+        "parent_user_id": "U01AA7U4UHY",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01AA7U4UHY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

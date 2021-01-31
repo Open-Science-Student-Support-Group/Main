@@ -1,0 +1,93 @@
+[
+    {
+        "client_msg_id": "a2a43ada-51a6-46ee-a876-3e29a6fd6485",
+        "type": "message",
+        "text": "Great ideas, I agree with the discussion so far and look fowrad to talking about more details at our meeting (I just filled out the poll, sorry for the delay - slack has more of a learning curve than I thought)",
+        "user": "U01ABLH7DPY",
+        "ts": "1600965981.001000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c54C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great ideas, I agree with the discussion so far and look fowrad to talking about more details at our meeting (I just filled out the poll, sorry for the delay - slack has more of a learning curve than I thought)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f4b89cc4-646b-40b5-ab6b-2dfaf978b558",
+        "type": "message",
+        "text": "Thanks you all for filling out the doodle poll! Based on the results, I’d like to propose *Monday at 3pm* for our meeting! I’ll send out a zoom link shortly :slightly_smiling_face:",
+        "user": "U01AA7U2ECA",
+        "ts": "1600967025.002400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ry+\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks you all for filling out the doodle poll! Based on the results, I’d like to propose "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Monday at 3pm",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " for our meeting! I’ll send out a zoom link shortly "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

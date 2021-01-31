@@ -1,0 +1,320 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1603903949.008500",
+        "user": "U01CMA136DR",
+        "text": "<@U01CMA136DR> has joined the channel"
+    },
+    {
+        "client_msg_id": "ffa04eff-1118-4d26-ad88-c8a5469de985",
+        "type": "message",
+        "text": "Hi <!channel>! I’m a bit on the fence if we should debrief\/have another meeting before the 3rd session. In general, I don’t think each session will need to be debriefed\/evaluated separately, but we are still early on in our group, so it might be good to do that for now. I’ll post a short poll below asking what you all think, and propose Friday at 4pm as a potential meeting time just because I think many of us will have this spot free anyway. Please respond as soon as you can, if we want to meet we should probably schedule it asap!",
+        "user": "U01AA7U2ECA",
+        "ts": "1603904564.012300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/8b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I’m a bit on the fence if we should debrief\/have another meeting before the 3rd session. In general, I don’t think each session will need to be debriefed\/evaluated separately, but we are still early on in our group, so it might be good to do that for now. I’ll post a short poll below asking what you all think, and propose Friday at 4pm as a potential meeting time just because I think many of us will have this spot free anyway. Please respond as soon as you can, if we want to meet we should probably schedule it asap!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603904564.012300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1603923983.012900",
+        "reply_users": [
+            "U01AGDAUB1S",
+            "U01AA7U2ECA"
+        ],
+        "replies": [
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1603921365.012700"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1603923983.012900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "bot_id": "B01CJ1B4VUM",
+        "type": "message",
+        "text": "Do we want to debrief session 2\/meet before session 3?",
+        "user": "U01CMA136DR",
+        "ts": "1603904665.012400",
+        "team": "T01A754ECJZ",
+        "bot_profile": {
+            "id": "B01CJ1B4VUM",
+            "deleted": false,
+            "name": "Simple Poll",
+            "updated": 1602709028,
+            "app_id": "A0HFW7MR6",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-05-09\/1112549471909_7543dde099089941d3c3_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-05-09\/1112549471909_7543dde099089941d3c3_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-09\/1112549471909_7543dde099089941d3c3_72.png"
+            },
+            "team_id": "T01A754ECJZ"
+        },
+        "edited": {
+            "user": "B01CJ1B4VUM",
+            "ts": "1604010140.000000"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "poll-e8482472-e33d-43ab-b2ef-0d2d2cfb8ef3-title-and-menu",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Do we want to debrief session 2\/meet before session 3?*",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "overflow",
+                    "action_id": "title-and-menu",
+                    "options": [
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":information_source: View info",
+                                "emoji": true
+                            },
+                            "value": "view_info"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":pushpin: Capture Decision from Poll",
+                                "emoji": true
+                            },
+                            "value": "capture_decision_from_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":x: Delete Poll",
+                                "emoji": true
+                            },
+                            "value": "delete_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":gear: Go to Settings",
+                                "emoji": true
+                            },
+                            "value": "go_to_settings_from_poll",
+                            "url": "https:\/\/simplepoll.rocks\/dashboard\/opensciencest-4fn7856\/settings\/"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-e8482472-e33d-43ab-b2ef-0d2d2cfb8ef3-vote-1",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":one: Yes, Friday at 4pm works for me    `1`\n<@U01AADVMMJ7>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-1",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":one:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-e8482472-e33d-43ab-b2ef-0d2d2cfb8ef3-vote-2",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":two: Yes, let's use a doodle poll to find a good time\n",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-2",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":two:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-e8482472-e33d-43ab-b2ef-0d2d2cfb8ef3-vote-3",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":three: No, I don't think that is necessary at this point\n",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-3",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":three:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-e8482472-e33d-43ab-b2ef-0d2d2cfb8ef3-vote-4",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":four: No, but an informal hangout would be fun!    `1`\n<@U01AA7U4UHY>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-4",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":four:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "sitx",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Created by <@U01AA7U2ECA> with \/poll",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f261eff8-3d66-4476-8adc-99f9a4dcaeb8",
+        "type": "message",
+        "text": "Hey <@U01AA7U2ECA>! As you know, I was unable to attend the session, so I will refrain from voting! I do hope it went well though!",
+        "user": "U01AGDAUB1S",
+        "ts": "1603921365.012700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Thv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01AA7U2ECA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! As you know, I was unable to attend the session, so I will refrain from voting! I do hope it went well though!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603904564.012300",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "3edf50a6-dc35-4bb3-b72a-7023adad7895",
+        "type": "message",
+        "text": "Yeah that’s too bad! Thanks for responding! Did everything go well with the surgery?",
+        "user": "U01AA7U2ECA",
+        "ts": "1603923983.012900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UO5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah that’s too bad! Thanks for responding! Did everything go well with the surgery?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603904564.012300",
+        "parent_user_id": "U01AA7U2ECA"
+    }
+]

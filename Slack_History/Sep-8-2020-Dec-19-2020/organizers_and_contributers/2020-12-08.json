@@ -1,0 +1,119 @@
+[
+    {
+        "client_msg_id": "2cb1e1b4-22da-48cb-b9fe-2c39276614ec",
+        "type": "message",
+        "text": "awesome thanks, I made the change!",
+        "user": "U01AA7U2ECA",
+        "ts": "1607458779.006800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+25c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "awesome thanks, I made the change!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607104249.006100",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "I think I'll send this out tomorrow, so please let me know if you have any more comments until tomorrow 1pm. If not, I'll just send it out as is :slightly_smiling_face:",
+        "user": "U01AA7U2ECA",
+        "ts": "1607458916.007000",
+        "thread_ts": "1607104249.006100",
+        "root": {
+            "client_msg_id": "a26f878b-2e72-4fa4-8fb3-64146d5a66bd",
+            "type": "message",
+            "text": "Hey <!channel>! I created this call for organizers based on your responses to the organizer survey (thanks again for filling those in!). I think it'd be good to put this out soon after the session today, so if you have a moment to look at it and let me know what you think today\/over the weekend, that would be great! <https:\/\/docs.google.com\/document\/d\/1PbJlHtjhlLQ8Ml0w8F4ONdkXOniSsuQsdygWxQk72lU\/edit?usp=sharing>",
+            "user": "U01AA7U2ECA",
+            "ts": "1607104249.006100",
+            "team": "T01A754ECJZ",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "17eHi",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hey "
+                                },
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "! I created this call for organizers based on your responses to the organizer survey (thanks again for filling those in!). I think it'd be good to put this out soon after the session today, so if you have a moment to look at it and let me know what you think today\/over the weekend, that would be great! "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/docs.google.com\/document\/d\/1PbJlHtjhlLQ8Ml0w8F4ONdkXOniSsuQsdygWxQk72lU\/edit?usp=sharing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1607104249.006100",
+            "reply_count": 4,
+            "reply_users_count": 3,
+            "latest_reply": "1607458916.007000",
+            "reply_users": [
+                "U01AGDAUB1S",
+                "U01BM8QUSTS",
+                "U01AA7U2ECA"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "00B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think I'll send this out tomorrow, so please let me know if you have any more comments until tomorrow 1pm. If not, I'll just send it out as is "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "30790393-269b-4c5c-8096-4bf8917e78f3"
+    }
+]

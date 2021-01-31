@@ -1,0 +1,147 @@
+[
+    {
+        "type": "message",
+        "text": "\"I produced a detailed tribute to my wrongness\" :joy:",
+        "files": [
+            {
+                "id": "F01GQSRQ8QL",
+                "created": 1607544635,
+                "timestamp": 1607544635,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01AA7U2ECA",
+                "editable": false,
+                "size": 987643,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01GQSRQ8QL\/image.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01GQSRQ8QL\/download\/image.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01GQSRQ8QL-67b40594d8\/image_64.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01GQSRQ8QL-67b40594d8\/image_80.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01GQSRQ8QL-67b40594d8\/image_360.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01GQSRQ8QL-67b40594d8\/image_480.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01GQSRQ8QL-67b40594d8\/image_160.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01GQSRQ8QL-67b40594d8\/image_720.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01GQSRQ8QL-67b40594d8\/image_800.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "original_w": 843,
+                "original_h": 843,
+                "thumb_tiny": "AwAwADDQZ8NjNGeM5JpshA5xnmgHIBpgHme5pC7g9eKY\/DA5x7etLJkEcZ4osA8M2OTTgTkc1EhOACOT+lSD7w+tACSZwcdc5oVQB1NK2MknHWk4wcAGgBHHHHPI7USchQPxpit3ByKcTz1A\/GjYNwUYp6\/eFJnCjuaRH3OBgdaAFbBYg4zRgelI8Ts+QwA9Kdsb1oAibCtjpntTpcgAggU8oSuDjPrQyEgDjii4DQcjI\/CkQYlHHU84qQqfTP40gU7wduMe9AH\/2Q==",
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01AA7U2ECA\/F01GQSRQ8QL\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01GQSRQ8QL-6c3e54f2f7",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GMY9Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"I produced a detailed tribute to my wrongness\" "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01AA7U2ECA",
+        "display_as_bot": false,
+        "ts": "1607544681.009800",
+        "thread_ts": "1607544681.009800",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1607632891.012200",
+        "reply_users": [
+            "U01AGDAUB1S",
+            "U01AA7U2ECA"
+        ],
+        "replies": [
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1607630608.010400"
+            },
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1607630722.010600"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1607632428.011000"
+            },
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1607632628.011200"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1607632651.011600"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1607632668.011800"
+            },
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1607632891.012200"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "relaxed",
+                "users": [
+                    "U01ANS2G30R"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U01AA7U4UHY",
+                    "U01AADVMMJ7"
+                ],
+                "count": 2
+            },
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U01AGDAUB1S"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01A3HZ3R63"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

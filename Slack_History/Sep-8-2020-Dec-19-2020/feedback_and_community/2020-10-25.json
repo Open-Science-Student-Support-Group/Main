@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "49d8de75-9db5-4110-96a6-7e04c9f77078",
+        "type": "message",
+        "text": "That sounds great to me! I can switch that up and do that right now too!",
+        "user": "U01AADVMMJ7",
+        "ts": "1603667887.015300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "bc87ba7ccce1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-25\/1445402318902_bc87ba7ccce142957a62_72.png",
+            "first_name": "Jassleen",
+            "real_name": "Jassleen Parmar",
+            "display_name": "Jassleen Parmar",
+            "team": "T01A754ECJZ",
+            "name": "jassleen.parmar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lDR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That sounds great to me! I can switch that up and do that right now too!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603498020.013800",
+        "parent_user_id": "U01AADVMMJ7"
+    }
+]

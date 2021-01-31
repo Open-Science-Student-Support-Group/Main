@@ -1,0 +1,489 @@
+[
+    {
+        "client_msg_id": "a7a209ac-3de9-4b1b-a6ab-f021e9afa10a",
+        "type": "message",
+        "text": "Oh, you’re making open access mandatory? No problem, I’ll just charge a ridiculous amount of money for it so it’s still the research community who pays for their own work (if they are lucky enough to have the funds, others only get more excluded)… Ugh!\n<https:\/\/www.sciencemag.org\/news\/2020\/11\/9500-nature-journals-will-now-make-your-paper-free-read>",
+        "user": "U01AA7U2ECA",
+        "ts": "1606236182.002400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Science | AAAS",
+                "title": "For €9500, Nature journals will now make your paper free to read",
+                "title_link": "https:\/\/www.sciencemag.org\/news\/2020\/11\/9500-nature-journals-will-now-make-your-paper-free-read",
+                "text": "Prominent family of highly selective journals expands open-access option",
+                "fallback": "Science | AAAS: For €9500, Nature journals will now make your paper free to read",
+                "image_url": "https:\/\/www.sciencemag.org\/sites\/default\/files\/styles\/article_main_large\/public\/papers_1280p_0.jpg?itok=Ak5R2a90",
+                "image_width": 444,
+                "image_height": 250,
+                "ts": 1606197600,
+                "from_url": "https:\/\/www.sciencemag.org\/news\/2020\/11\/9500-nature-journals-will-now-make-your-paper-free-read",
+                "image_bytes": 134202,
+                "service_icon": "https:\/\/www.sciencemag.org\/sites\/default\/files\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.sciencemag.org\/news\/2020\/11\/9500-nature-journals-will-now-make-your-paper-free-read"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "paoS6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh, you’re making open access mandatory? No problem, I’ll just charge a ridiculous amount of money for it so it’s still the research community who pays for their own work (if they are lucky enough to have the funds, others only get more excluded)… Ugh!\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sciencemag.org\/news\/2020\/11\/9500-nature-journals-will-now-make-your-paper-free-read"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606236182.002400",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1606243222.023300",
+        "reply_users": [
+            "U01AA7U4UHY",
+            "U01AR2NH2KF",
+            "U01AA7U2ECA"
+        ],
+        "replies": [
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1606237118.011600"
+            },
+            {
+                "user": "U01AR2NH2KF",
+                "ts": "1606238224.011900"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1606240496.012200"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1606240650.012400"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1606241298.021900"
+            },
+            {
+                "user": "U01AR2NH2KF",
+                "ts": "1606243083.022200"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1606243222.023300"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "woman-facepalming::skin-tone-3",
+                "users": [
+                    "U01ANS2G30R",
+                    "U01AA7U4UHY",
+                    "U01ASGMJQ75",
+                    "U01AR2NH2KF"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "76A5ABB8-7F14-45B7-852E-1B9155A7D465",
+        "type": "message",
+        "text": "This is dumb, extortionist, and also completely expected. What frustrates me most is that the only function of publishers, really, is to curate playlists of academic papers into a single place. Literally every other function they serve can be replaced for free using existing open access or open source tools. And curation is possible too if a person or group is motivated and has the social capital. But this likely won’t change without government intervention (publish with a Dutch citizen\/academic and I believe the fees are waived), or with ECRs bucking the trend by publishing in free open access journals or self-publishing.",
+        "user": "U01AA7U4UHY",
+        "ts": "1606237118.011600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WW9WB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is dumb, extortionist, and also completely expected. What frustrates me most is that the only function of publishers, really, is to curate playlists of academic papers into a single place. Literally every other function they serve can be replaced for free using existing open access or open source tools. And curation is possible too if a person or group is motivated and has the social capital. But this likely won’t change without government intervention (publish with a Dutch citizen\/academic and I believe the fees are waived), or with ECRs bucking the trend by publishing in free open access journals or self-publishing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606236182.002400",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "b46341a6-41f5-4f71-8af8-9e6963951de7",
+        "type": "message",
+        "text": "Seems corporate misheard that it was open access to our wallets*",
+        "user": "U01AR2NH2KF",
+        "ts": "1606238224.011900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "g825f385ca0a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/825f385ca0ac46bad137320019014099.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "Jonn Henke",
+            "display_name": "Jonn Henke",
+            "team": "T01A754ECJZ",
+            "name": "jbhenke",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ETmZP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Seems corporate misheard that it was open access to our wallets*"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606236182.002400",
+        "parent_user_id": "U01AA7U2ECA",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U01AA7U2ECA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U01AGDAUB1S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bb7016cf-ec95-48cb-aa3a-a41d547a25c3",
+        "type": "message",
+        "text": "I just looked, and unfortunately just being Dutch doesn’t help :sweat_smile:",
+        "user": "U01AA7U2ECA",
+        "ts": "1606240496.012200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Cx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just looked, and unfortunately just being Dutch doesn’t help "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606236182.002400",
+        "parent_user_id": "U01AA7U2ECA",
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U01AA7U4UHY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "010f651c-4183-4451-a7e5-791971b2fc0a",
+        "type": "message",
+        "text": "I was thinking though, what if academics just stop reviewing articles for certain journals until they give reasonable options for open access publishing? For as far as I know, there aren’t many personal benefits to reviewing anyway, so I don’t think this should negatively affect researchers too much (except that those looking to publish obviously would have to wait, which is not great… :face_with_rolling_eyes:)",
+        "user": "U01AA7U2ECA",
+        "ts": "1606240650.012400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fr6I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was thinking though, what if academics just stop reviewing articles for certain journals until they give reasonable options for open access publishing? For as far as I know, there aren’t many personal benefits to reviewing anyway, so I don’t think this should negatively affect researchers too much (except that those looking to publish obviously would have to wait, which is not great… "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_rolling_eyes"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606236182.002400",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "ED638168-E673-4727-B05D-09FF61B8598C",
+        "type": "message",
+        "text": "People on Twitter are suggesting that right now in response to this.\n\nThere’s also <https:\/\/twitter.com\/450movement?s=21|https:\/\/twitter.com\/450movement?s=21> which is about getting publishers to pay researchers for reviewing (they have contracts drafted up you can use), or <https:\/\/twitter.com\/redteammarket?s=21|https:\/\/twitter.com\/redteammarket?s=21> where you can hire (you set the amount with them, so it could be free) a team of experts to be critics of your work (including things like code review which never happens in traditional peer-review). Just as examples of how people are fed up with current science publishing models.\n\nPreprints exist so it’s not like you need to wait to publish your work anyways. And if you want your preprint peer-reviewed you could just ask someone in your field yourself (maybe offer to review one of their preprints in return; or pay them). Then append the review to your preprint; or have them do the peer-review in a GitHub issues post. So many options out there that don’t require choosing to be exploited and wasting taxpayer money.",
+        "user": "U01AA7U4UHY",
+        "ts": "1606241298.021900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "The 450 Movement (@450Movement) | Twitter",
+                "title_link": "https:\/\/twitter.com\/450movement?s=21",
+                "text": "The latest Tweets from The 450 Movement (@450Movement). I want to be paid four hundred and fifty dollars for peer review, please. An completely serious account by @jamesheathers",
+                "fallback": "The 450 Movement (@450Movement) | Twitter",
+                "from_url": "https:\/\/twitter.com\/450movement?s=21",
+                "service_icon": "https:\/\/abs.twimg.com\/icons\/apple-touch-icon-192x192.png",
+                "service_name": "twitter.com",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/450movement?s=21"
+            },
+            {
+                "title": "Red Team Market (@RedTeamMarket) | Twitter",
+                "title_link": "https:\/\/twitter.com\/redteammarket?s=21",
+                "text": "The latest Tweets from Red Team Market (@RedTeamMarket). Rapid, high-quality criticism at any point in the research pipeline. Utrecht, the Netherlands",
+                "fallback": "Red Team Market (@RedTeamMarket) | Twitter",
+                "from_url": "https:\/\/twitter.com\/redteammarket?s=21",
+                "service_icon": "https:\/\/abs.twimg.com\/icons\/apple-touch-icon-192x192.png",
+                "service_name": "twitter.com",
+                "id": 2,
+                "original_url": "https:\/\/twitter.com\/redteammarket?s=21"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o7h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "People on Twitter are suggesting that right now in response to this.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "There’s also "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/450movement?s=21",
+                                "text": "https:\/\/twitter.com\/450movement?s=21"
+                            },
+                            {
+                                "type": "text",
+                                "text": " which is about getting publishers to pay researchers for reviewing (they have contracts drafted up you can use), or "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/redteammarket?s=21",
+                                "text": "https:\/\/twitter.com\/redteammarket?s=21"
+                            },
+                            {
+                                "type": "text",
+                                "text": " where you can hire (you set the amount with them, so it could be free) a team of experts to be critics of your work (including things like code review which never happens in traditional peer-review). Just as examples of how people are fed up with current science publishing models.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Preprints exist so it’s not like you need to wait to publish your work anyways. And if you want your preprint peer-reviewed you could just ask someone in your field yourself (maybe offer to review one of their preprints in return; or pay them). Then append the review to your preprint; or have them do the peer-review in a GitHub issues post. So many options out there that don’t require choosing to be exploited and wasting taxpayer money."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606236182.002400",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "66e79706-7c0e-49c2-9c93-267f53181b67",
+        "type": "message",
+        "text": "Being a reviewer for a journal that then goes on to profit off of your work really sounds like the artist equivalent of \"BUT ITS GOOD EXPOSURE\" tbh",
+        "user": "U01AR2NH2KF",
+        "ts": "1606243083.022200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "g825f385ca0a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/825f385ca0ac46bad137320019014099.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "Jonn Henke",
+            "display_name": "Jonn Henke",
+            "team": "T01A754ECJZ",
+            "name": "jbhenke",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q1Y8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Being a reviewer for a journal that then goes on to profit off of your work really sounds like the artist equivalent of \"BUT ITS GOOD EXPOSURE\" tbh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606236182.002400",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "57B91264-7028-4E6E-84F1-6E9B0BB7B690",
+        "type": "message",
+        "text": "It’s actually funny (read: sad) how many parallels there are between academia and the music industry",
+        "user": "U01AA7U4UHY",
+        "ts": "1606243222.023300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6p1F\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It’s actually funny (read: sad) how many parallels there are between academia and the music industry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606236182.002400",
+        "parent_user_id": "U01AA7U2ECA"
+    }
+]

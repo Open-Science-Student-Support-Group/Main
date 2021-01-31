@@ -1,0 +1,468 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1599590826.000200",
+        "user": "U01ANS2G30R",
+        "text": "<@U01ANS2G30R> has joined the channel"
+    },
+    {
+        "client_msg_id": "42b1f249-6e48-4a64-8b3f-814978361042",
+        "type": "message",
+        "text": "Hi everyone! In addition to the general channel, we can create specific channels, maybe based on the topics we will cover in the sessions?",
+        "user": "U01ANS2G30R",
+        "ts": "1599591079.001300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=xdw8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone! In addition to the general channel, we can create specific channels, maybe based on the topics we will cover in the sessions?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599591079.001300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1599593819.002300",
+        "reply_users": [
+            "U01AA7U4UHY"
+        ],
+        "replies": [
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1599593819.002300"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1599593819.002300"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1599593563.001400",
+        "user": "U01AA7U4UHY",
+        "text": "<@U01AA7U4UHY> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1599593790.001500",
+        "user": "U01AA7U2ECA",
+        "text": "<@U01AA7U2ECA> has joined the channel"
+    },
+    {
+        "client_msg_id": "77A9F8B2-A710-4CA9-85CA-4C12D82CEEC3",
+        "type": "message",
+        "text": "This sounds like a good idea. A social channel would be nice too :)",
+        "user": "U01AA7U4UHY",
+        "ts": "1599593819.002300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LMNQb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This sounds like a good idea. A social channel would be nice too :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599591079.001300",
+        "parent_user_id": "U01ANS2G30R"
+    },
+    {
+        "client_msg_id": "beb8d587-50d1-43d2-8d47-8035da060b29",
+        "type": "message",
+        "text": "Hi! Thanks for making this Emiko!",
+        "user": "U01AA7U2ECA",
+        "ts": "1599593828.002700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g4=tt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi! Thanks for making this Emiko!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9dd96078-5dee-4963-a42b-c0d428717260",
+        "type": "message",
+        "text": "Yes, I think as we go along, we can use separate channels for continuing the discussions on the different topics we introduce!",
+        "user": "U01AA7U2ECA",
+        "ts": "1599593869.003400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aOnIU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, I think as we go along, we can use separate channels for continuing the discussions on the different topics we introduce!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5F51387E-D739-4EB5-B94A-79885CD8B1FD",
+        "type": "message",
+        "text": "Maybe we should make or link everyone to a “how to Slack” thing too, as I found that not everyone is aware of how to do threaded conversations and things like that",
+        "user": "U01AA7U4UHY",
+        "ts": "1599593945.005600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01AA7U4UHY",
+            "ts": "1599593972.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IbsG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe we should make or link everyone to a “how to Slack” thing too, as I found that not everyone is aware of how to do threaded conversations and things like that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599593945.005600",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1599614440.009700",
+        "reply_users": [
+            "U01AA7U4UHY",
+            "U01ANS2G30R"
+        ],
+        "replies": [
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1599594075.007000"
+            },
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1599613111.007800"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1599614440.009700"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1599614440.009700"
+    },
+    {
+        "client_msg_id": "baef021f-c607-46f0-ae11-997321cb82ca",
+        "type": "message",
+        "text": "I'm also going to make separate channels for the organizers, so we don't cluttered up everyone else's space with our internal communications",
+        "user": "U01AA7U2ECA",
+        "ts": "1599593945.005700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nJnp5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm also going to make separate channels for the organizers, so we don't cluttered up everyone else's space with our internal communications"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2C11B0E0-7C96-4447-B701-FB39C65227DC",
+        "type": "message",
+        "text": "And decide whether there are any addons we want to add to the slack group (e.g., google drive integration)",
+        "user": "U01AA7U4UHY",
+        "ts": "1599594075.007000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rF7q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And decide whether there are any addons we want to add to the slack group (e.g., google drive integration)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599593945.005600",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1599597914.007200",
+        "user": "U01AADVMMJ7",
+        "text": "<@U01AADVMMJ7> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1599601402.007300",
+        "user": "U01AGDAUB1S",
+        "text": "<@U01AGDAUB1S> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1599602901.007600",
+        "user": "U01AAS88P0B",
+        "text": "<@U01AAS88P0B> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1599610995.007700",
+        "user": "U01ANS83U3T",
+        "text": "<@U01ANS83U3T> has joined the channel"
+    },
+    {
+        "client_msg_id": "5ccf2684-9311-44ed-b59b-4a2080835c6d",
+        "type": "message",
+        "text": "That’s a good idea about slack info. Other than the using slack section of their website (<https:\/\/slack.com\/intl\/en-ca\/help\/categories\/200111606>) , are there any other resources you recommend?",
+        "user": "U01ANS2G30R",
+        "ts": "1599613111.007800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Slack Help Center",
+                "title": "Where work happens",
+                "title_link": "https:\/\/slack.com\/intl\/en-ca\/help\/categories\/200111606",
+                "text": "Slack is where work flows. It's where the people you need, the information you share, and the tools you use come together to get things done.",
+                "fallback": "Slack Help Center: Where work happens",
+                "thumb_url": "https:\/\/a.slack-edge.com\/80588\/marketing\/img\/meta\/slack_hash_256.png",
+                "from_url": "https:\/\/slack.com\/intl\/en-ca\/help\/categories\/200111606",
+                "thumb_width": 256,
+                "thumb_height": 256,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/marketing\/img\/meta\/favicon-32.png",
+                "id": 1,
+                "original_url": "https:\/\/slack.com\/intl\/en-ca\/help\/categories\/200111606"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cx\/b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That’s a good idea about slack info. Other than the using slack section of their website ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/slack.com\/intl\/en-ca\/help\/categories\/200111606"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") , are there any other resources you recommend?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599593945.005600",
+        "parent_user_id": "U01AA7U4UHY"
+    },
+    {
+        "client_msg_id": "598ABF57-026A-4DBC-9394-0B9BEFFA1644",
+        "type": "message",
+        "text": "I think that section is good for all the general stuff. We probably don’t need more unless we start using specific addons and want everyone to know how to use them",
+        "user": "U01AA7U4UHY",
+        "ts": "1599614440.009700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uuf1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think that section is good for all the general stuff. We probably don’t need more unless we start using specific addons and want everyone to know how to use them"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599593945.005600",
+        "parent_user_id": "U01AA7U4UHY"
+    }
+]

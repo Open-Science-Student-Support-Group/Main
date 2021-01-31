@@ -1,0 +1,133 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1601908182.003700",
+        "user": "U01A3HZ3R63",
+        "text": "<@U01A3HZ3R63> has joined the channel"
+    },
+    {
+        "client_msg_id": "3b25db7a-c80e-4aee-86e5-9e8f1dc1b38f",
+        "type": "message",
+        "text": "Aw yeah! Tuned into this right now!",
+        "user": "U01A3HZ3R63",
+        "ts": "1601909996.004000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "169068bf7e39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-11\/1358561448611_169068bf7e3945f474ae_72.jpg",
+            "first_name": "",
+            "real_name": "Chelsie Hart",
+            "display_name": "Chelsie Hart",
+            "team": "T01A754ECJZ",
+            "name": "chelsie.hart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ihSlO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aw yeah! Tuned into this right now!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601521305.003400",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "e2302cef-ff36-46e0-9d5c-f61a42edd997",
+        "type": "message",
+        "text": "Yeey me too!",
+        "user": "U01AA7U2ECA",
+        "ts": "1601910110.004200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BUlVa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeey me too!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601521305.003400",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "b2e15655-e461-4b50-994f-5c65d0243a5d",
+        "type": "message",
+        "text": "Loving all the open science-y talk going on :smile:",
+        "user": "U01AA7U2ECA",
+        "ts": "1601910145.004400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nTGgF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Loving all the open science-y talk going on "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601521305.003400",
+        "parent_user_id": "U01AA7U2ECA"
+    }
+]

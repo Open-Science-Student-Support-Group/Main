@@ -1,0 +1,568 @@
+[
+    {
+        "client_msg_id": "4b2e04b1-48c4-43f2-a743-4f187c84d171",
+        "type": "message",
+        "text": "Thanks for having me :slightly_smiling_face: See you later today",
+        "user": "U01BM8QUSTS",
+        "ts": "1600680179.018100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "01c8086c20a1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-16\/1434346692659_01c8086c20a1bbd0c488_72.png",
+            "first_name": "",
+            "real_name": "Jenelle Morgan",
+            "display_name": "Jenelle Morgan",
+            "team": "T01A754ECJZ",
+            "name": "jenelle.morgan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r4j6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for having me "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " See you later today"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600378424.106300",
+        "parent_user_id": "U01ANS2G30R"
+    },
+    {
+        "client_msg_id": "9db518b9-814e-4bd6-8f48-9e3eb7459f5f",
+        "type": "message",
+        "text": "Coming from a teaching perspective, I like Michael's ideas of tangible learning outcomes!",
+        "user": "U01AGDAUB1S",
+        "ts": "1600711119.018400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ocyz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coming from a teaching perspective, I like Michael's ideas of tangible learning outcomes!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600626242.007000",
+        "parent_user_id": "U01AA7U2ECA",
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "U01AA7U4UHY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3dd4a675-0afb-4b37-8628-40bd19c74b3a",
+        "type": "message",
+        "text": "Meeting happening now: <https:\/\/ucalgary.zoom.us\/j\/93485032579>",
+        "user": "U01AA7U2ECA",
+        "ts": "1600712138.018900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qlVT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Meeting happening now: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ucalgary.zoom.us\/j\/93485032579"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cbb52c14-c67b-4712-8ef4-aa4e43d5deff",
+        "type": "message",
+        "text": "This might be a stupid question, but does the Monday Memo also go to undergraduate students?",
+        "user": "U01AA7U2ECA",
+        "ts": "1600720533.019600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oAro",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This might be a stupid question, but does the Monday Memo also go to undergraduate students?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600720533.019600",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1600741474.022200",
+        "reply_users": [
+            "U01ANS83U3T",
+            "U01AA7U2ECA",
+            "U01AGDAUB1S"
+        ],
+        "replies": [
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1600720573.020000"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1600720598.020200"
+            },
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1600721336.020400"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1600721360.021100"
+            },
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1600721448.021900"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1600741474.022200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "55B5B0B6-EFBB-4D6C-A37B-B60555520092",
+        "type": "message",
+        "text": "Yes!",
+        "user": "U01ANS83U3T",
+        "ts": "1600720573.020000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Px",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600720533.019600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "eb0b47f4-4bdb-46de-8087-8528181e05d9",
+        "type": "message",
+        "text": "Okay, good to know, thank you! ^^",
+        "user": "U01AA7U2ECA",
+        "ts": "1600720598.020200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pgv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay, good to know, thank you! ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600720533.019600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "d8015f1b-4ee3-4aba-8172-40b7a3ee1099",
+        "type": "message",
+        "text": "And faculty - every list serve that Psychology has lol",
+        "user": "U01AGDAUB1S",
+        "ts": "1600721336.020400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fb5Fj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And faculty - every list serve that Psychology has lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600720533.019600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "97548c07-fd50-4c8d-b7f1-23dcd830e69a",
+        "type": "message",
+        "text": "haha okay, our message will go wide then :smile:",
+        "user": "U01AA7U2ECA",
+        "ts": "1600721360.021100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mrh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "haha okay, our message will go wide then "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600720533.019600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "text": "Hey everyone! Attached are the notes and action items from the meeting today! Sorry if there is anything confusing - lots to talk about and I tried to get everything in there!",
+        "files": [
+            {
+                "id": "F01B0SEE0KX",
+                "created": 1600721385,
+                "timestamp": 1600721385,
+                "name": "Meeting agendas & notes-Sept 21.docx",
+                "title": "Meeting agendas &amp; notes-Sept 21.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U01AGDAUB1S",
+                "editable": false,
+                "size": 38806,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01B0SEE0KX\/meeting_agendas___notes-sept_21.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01B0SEE0KX\/download\/meeting_agendas___notes-sept_21.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01B0SEE0KX-8120c388d1\/meeting_agendas___notes-sept_21_converted.pdf?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01B0SEE0KX-8120c388d1\/meeting_agendas___notes-sept_21_thumb_pdf.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01AGDAUB1S\/F01B0SEE0KX\/meeting_agendas___notes-sept_21.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01B0SEE0KX-392d23e009",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rE49",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone! Attached are the notes and action items from the meeting today! Sorry if there is anything confusing - lots to talk about and I tried to get everything in there!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01AGDAUB1S",
+        "display_as_bot": false,
+        "ts": "1600721400.021600",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01ABLH7DPY",
+                    "U01AA7U4UHY",
+                    "U01ANS83U3T"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cb3c7213-e5c1-4ab5-aa46-2c1410ec0fed",
+        "type": "message",
+        "text": "It will! I might be nice though because then supervisors might see and hint to students - I know Andrew has reminded me to read the Monday memo and has recommended some things from it!",
+        "user": "U01AGDAUB1S",
+        "ts": "1600721448.021900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gWhl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It will! I might be nice though because then supervisors might see and hint to students - I know Andrew has reminded me to read the Monday memo and has recommended some things from it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600720533.019600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "6df93edc-d8a8-49e2-a364-468d20ddd7ba",
+        "type": "message",
+        "text": "Yeah exactly! Andrea does that every now and then too :slightly_smiling_face:",
+        "user": "U01AA7U2ECA",
+        "ts": "1600741474.022200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RruWb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah exactly! Andrea does that every now and then too "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600720533.019600",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "bot_id": "B01AGKD04SY",
+        "type": "message",
+        "text": "",
+        "user": "U01AP2WAHGR",
+        "ts": "1600746264.022400",
+        "team": "T01A754ECJZ",
+        "bot_profile": {
+            "id": "B01AGKD04SY",
+            "deleted": false,
+            "name": "GitHub",
+            "updated": 1599596265,
+            "app_id": "A8GBNUWU8",
+            "icons": {
+                "image_36": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-12-19\/288981919427_f45f04edd92902a96859_36.png",
+                "image_48": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-12-19\/288981919427_f45f04edd92902a96859_48.png",
+                "image_72": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-12-19\/288981919427_f45f04edd92902a96859_72.png"
+            },
+            "team_id": "T01A754ECJZ"
+        },
+        "attachments": [
+            {
+                "author_name": "GwenvdW",
+                "fallback": "[Open-Science-Student-Support-Group\/Main] <https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/compare\/758eb254b470...c75fd58c0a17|3 new commits> pushed to <https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/tree\/master|`master`>",
+                "text": "*<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/compare\/758eb254b470...c75fd58c0a17|3 new commits> pushed to <https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/tree\/master|`master`>*\n<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/commit\/aaa764d5b2512c7d3f80f4af338ccff2f2a286ac|`aaa764d5`> - Updated session format and community guidelines\n<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/commit\/e6d0e70ac4a5ed1b2360f5a349acdc951e889a47|`e6d0e70a`> - Added ideas on how to divide people into smaller groups for discussion\n<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/commit\/c75fd58c0a179d154078b96a277b6b2fb627550a|`c75fd58c`> - Added notes\/action items meeting Sept 21",
+                "footer": "<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main|Open-Science-Student-Support-Group\/Main>",
+                "id": 1,
+                "author_link": "https:\/\/github.com\/GwenvdW",
+                "author_icon": "https:\/\/avatars1.githubusercontent.com\/u\/66083270?v=4",
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "color": "24292f",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

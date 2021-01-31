@@ -1,0 +1,293 @@
+[
+    {
+        "client_msg_id": "984e6b0e-bff2-4f6a-9180-b8d36db96f0e",
+        "type": "message",
+        "text": "Hi Everyone! Just checking in to see how you’re all doing on your project workflow and the challenges from the session! What is one project workflow method you’ll start\/have started using?",
+        "user": "U01AA7U2ECA",
+        "ts": "1603930723.045100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+uZa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Everyone! Just checking in to see how you’re all doing on your project workflow and the challenges from the session! What is one project workflow method you’ll start\/have started using?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603930723.045100",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1604000926.068400",
+        "reply_users": [
+            "U01AA7U4UHY",
+            "U01AADVMMJ7",
+            "U01AA7U2ECA"
+        ],
+        "replies": [
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1603932710.049800"
+            },
+            {
+                "user": "U01AADVMMJ7",
+                "ts": "1603941502.050800"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1603942413.068200"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1604000926.068400"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5A9FECB6-C004-403A-A2F1-C389E7599840",
+        "type": "message",
+        "text": "Using R Markdown and bookdown :package: to write my thesis, rbbt :package: to easily insert references from my Zotero library (and set up a custom keyboard shortcut to speed it up further); also using version control with GitHub, and continuous integration with GitHub Actions to (1) ensure my code is reproducible on other machines, and (2) deploy my thesis to it’s own website (<https:\/\/mccarthymg-msc-thesis.netlify.app\/cgs-m.html|https:\/\/mccarthymg-msc-thesis.netlify.app\/cgs-m.html>), which updates every time I push new commits to GitHub :raised_hands:",
+        "user": "U01AA7U4UHY",
+        "ts": "1603932710.049800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "2 CGS-M | MSc Thesis",
+                "title_link": "https:\/\/mccarthymg-msc-thesis.netlify.app\/cgs-m.html",
+                "text": "Michael McCarthy’s work-in-progress MSc thesis.",
+                "fallback": "2 CGS-M | MSc Thesis",
+                "from_url": "https:\/\/mccarthymg-msc-thesis.netlify.app\/cgs-m.html",
+                "service_icon": "https:\/\/mccarthymg-msc-thesis.netlify.app\/www\/favicon.ico",
+                "service_name": "mccarthymg-msc-thesis.netlify.app",
+                "id": 1,
+                "original_url": "https:\/\/mccarthymg-msc-thesis.netlify.app\/cgs-m.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MkQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Using R Markdown and bookdown "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "package"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to write my thesis, rbbt "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "package"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to easily insert references from my Zotero library (and set up a custom keyboard shortcut to speed it up further); also using version control with GitHub, and continuous integration with GitHub Actions to (1) ensure my code is reproducible on other machines, and (2) deploy my thesis to it’s own website ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mccarthymg-msc-thesis.netlify.app\/cgs-m.html",
+                                "text": "https:\/\/mccarthymg-msc-thesis.netlify.app\/cgs-m.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "), which updates every time I push new commits to GitHub "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603930723.045100",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "33F6A986-232B-4DA1-B0EE-BA91754176A0",
+        "type": "message",
+        "text": "<@U01AA7U4UHY> is it difficult to use that many at once, or when you get started does it just get easier to implement them all? ",
+        "user": "U01AADVMMJ7",
+        "ts": "1603941502.050800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "bc87ba7ccce1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-25\/1445402318902_bc87ba7ccce142957a62_72.png",
+            "first_name": "Jassleen",
+            "real_name": "Jassleen Parmar",
+            "display_name": "Jassleen Parmar",
+            "team": "T01A754ECJZ",
+            "name": "jassleen.parmar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FeO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01AA7U4UHY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is it difficult to use that many at once, or when you get started does it just get easier to implement them all? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603930723.045100",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "26F4B921-EE8A-4D99-9627-9501AF97B43B",
+        "type": "message",
+        "text": "Bookdown and rbbt are just R packages, the latter one is dead simple to use, and bookdown is straightforward once you wrap your head around it (and it has a lot of documentation to help you solve most problems).\n\nZotero is also super easy to use, and, in my opinion, using it actually makes researching and citing *easier* :smile:\n\nGitHub is weird at first but once you use it for a bit it’s fine. GitHub Actions are a method of continuous integration, which essentially means a cloud computer that you can tell to perform certain tasks within a GitHub repository using scripts. If you’re using it for run of the mill stuff it’s pretty easy to use because people have already created scripts that you can just throw in your repo without modifying.\n\nAnd then netlify is just a (free) static website hosting service. It’s also easy to use, especially with the workflow I have set up (you really just need to make an account, then take a couple extra steps, and then you never have to touch it again).\n\nBut everything I’m using here integrates together seamlessly so it might sound like a lot, but for the most part I can just do my writing in an R Markdown file and commit and push things to GitHub as I normally would. There isn’t really any extra overhead (except for the odd cases where a GitHub Actions build fails, but it’s usually easy to fix if you look at the error message).\n\nBut, I guess in general, since all this is based off working in R, there is the caveat that, until you build up a lexicon of functions and syntax, you will be slower at first. I’m happy to go over this with anyone over zoom though if this is a workflow they’d like to try",
+        "user": "U01AA7U4UHY",
+        "ts": "1603942413.068200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3xwhy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bookdown and rbbt are just R packages, the latter one is dead simple to use, and bookdown is straightforward once you wrap your head around it (and it has a lot of documentation to help you solve most problems).\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Zotero is also super easy to use, and, in my opinion, using it actually makes researching and citing "
+                            },
+                            {
+                                "type": "text",
+                                "text": "easier",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "GitHub is weird at first but once you use it for a bit it’s fine. GitHub Actions are a method of continuous integration, which essentially means a cloud computer that you can tell to perform certain tasks within a GitHub repository using scripts. If you’re using it for run of the mill stuff it’s pretty easy to use because people have already created scripts that you can just throw in your repo without modifying.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "And then netlify is just a (free) static website hosting service. It’s also easy to use, especially with the workflow I have set up (you really just need to make an account, then take a couple extra steps, and then you never have to touch it again).\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "But everything I’m using here integrates together seamlessly so it might sound like a lot, but for the most part I can just do my writing in an R Markdown file and commit and push things to GitHub as I normally would. There isn’t really any extra overhead (except for the odd cases where a GitHub Actions build fails, but it’s usually easy to fix if you look at the error message).\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "But, I guess in general, since all this is based off working in R, there is the caveat that, until you build up a lexicon of functions and syntax, you will be slower at first. I’m happy to go over this with anyone over zoom though if this is a workflow they’d like to try"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603930723.045100",
+        "parent_user_id": "U01AA7U2ECA"
+    }
+]

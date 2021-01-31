@@ -1,0 +1,123 @@
+[
+    {
+        "client_msg_id": "078b289b-4f94-427e-a713-a5ac826b70d2",
+        "type": "message",
+        "text": "<https:\/\/www.americanscientist.org\/article\/open-science-isnt-always-open-to-all-scientists> This is an interesting article that is broadly supportive of open science practices, while also offering a reminder to consider systemic inequities that may be further perpetuated by some open science practices.",
+        "user": "U01ANS2G30R",
+        "ts": "1600719513.007000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "American Scientist",
+                "title": "Open Science Isn't Always Open to All Scientists",
+                "title_link": "https:\/\/www.americanscientist.org\/article\/open-science-isnt-always-open-to-all-scientists",
+                "text": "Current efforts to make research more accessible and transparent can reinforce inequality within STEM professions.",
+                "fallback": "American Scientist: Open Science Isn't Always Open to All Scientists",
+                "ts": 1548875934,
+                "from_url": "https:\/\/www.americanscientist.org\/article\/open-science-isnt-always-open-to-all-scientists",
+                "service_icon": "https:\/\/www.americanscientist.org\/sites\/americanscientist.org\/files\/AmSci_Logo_for_Favicon_and_Social_Media.jpg",
+                "id": 1,
+                "original_url": "https:\/\/www.americanscientist.org\/article\/open-science-isnt-always-open-to-all-scientists"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "92=k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.americanscientist.org\/article\/open-science-isnt-always-open-to-all-scientists"
+                            },
+                            {
+                                "type": "text",
+                                "text": " This is an interesting article that is broadly supportive of open science practices, while also offering a reminder to consider systemic inequities that may be further perpetuated by some open science practices."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600719513.007000",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1601223997.000400",
+        "reply_users": [
+            "U01AGDAUB1S",
+            "U01AA7U2ECA",
+            "U01ANS2G30R"
+        ],
+        "replies": [
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1600732464.007200"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1601179433.000100"
+            },
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1601223997.000400"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1601223997.000400"
+    },
+    {
+        "client_msg_id": "5e106fc9-e930-4cb0-89ad-06bc8e363a6d",
+        "type": "message",
+        "text": "Thanks Emiko!",
+        "user": "U01AGDAUB1S",
+        "ts": "1600732464.007200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xwtUD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Emiko!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600719513.007000",
+        "parent_user_id": "U01ANS2G30R"
+    }
+]

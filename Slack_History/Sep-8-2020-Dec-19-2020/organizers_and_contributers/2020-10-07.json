@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "f2a91b84-6060-4f72-bb3e-cb92372e9036",
+        "type": "message",
+        "text": "Hi <!channel>! <https:\/\/uofc.sharepoint.com\/sites\/PsychOpenScienceSSG|Here is a rough draft of the home page for our SharePoint>. Feel free to make any suggestions or edits to the content so far; it's very preliminary and your input is greatly appreciated! :3",
+        "user": "U01ANS83U3T",
+        "ts": "1602129126.028700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AfU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/uofc.sharepoint.com\/sites\/PsychOpenScienceSSG",
+                                "text": "Here is a rough draft of the home page for our SharePoint"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Feel free to make any suggestions or edits to the content so far; it's very preliminary and your input is greatly appreciated! :3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602129126.028700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1602179547.029600",
+        "reply_users": [
+            "U01AA7U4UHY"
+        ],
+        "replies": [
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1602179547.029600"
+            }
+        ],
+        "subscribed": false
+    }
+]

@@ -1,0 +1,129 @@
+[
+    {
+        "client_msg_id": "63EC79E8-1140-4CC3-BDE7-5BCFFF858074",
+        "type": "message",
+        "text": "Gosh so many people I know are involved with this group! Good for you all! \nI’m Chelsie (or Miko if that’s easier.) she\/her (but I’m good with most things, just as long as I know you’re referring to me).\nMany of you probably know me because, despite being an introvert, I just love attempting to socialize!\nI’ve been busy applying for the CGS-D NSERC until now, so I haven’t been able to be active in this group, but I’m hoping to learn a lot or at least be around if anyone needs an extra hand!",
+        "user": "U01A3HZ3R63",
+        "ts": "1601753380.018400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "169068bf7e39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-11\/1358561448611_169068bf7e3945f474ae_72.jpg",
+            "first_name": "",
+            "real_name": "Chelsie Hart",
+            "display_name": "Chelsie Hart",
+            "team": "T01A754ECJZ",
+            "name": "chelsie.hart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FpXy1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gosh so many people I know are involved with this group! Good for you all! \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m Chelsie (or Miko if that’s easier.) she\/her (but I’m good with most things, just as long as I know you’re referring to me).\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Many of you probably know me because, despite being an introvert, I just love attempting to socialize!\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’ve been busy applying for the CGS-D NSERC until now, so I haven’t been able to be active in this group, but I’m hoping to learn a lot or at least be around if anyone needs an extra hand!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601689787.011400",
+        "parent_user_id": "U01ABLH7DPY",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01ABLH7DPY",
+                    "U01AA7U2ECA",
+                    "U01AADVMMJ7"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C6ECBAFC-B290-4216-8C4F-734C7B716A04",
+        "type": "message",
+        "text": "Thanks for kicking off the intros <@U01ABLH7DPY>! My name is Matt, I prefer he\/him. I recreationally torture myself by lifting heavy things until I physically can’t anymore, or “work out” as the kids call it these days. I am in the first year of my MSc working with Derya Sargin in the neural circuitry and behaviour lab. I study the role of orexin neurons as a neural substrate for social behaviours using Hcrt-Cre mice and was actively involved in basic neuroscience and mentorship groups throughout my undergrad. My supervisor is very supportive of a shift towards open science practices in neuroscience, which aligned with my own passion for promoting greater openness and communication in my discipline as well and is my motivation for joining this group. I am a firm believer that no matter how much we think we know, there is always something we can learn and my hope is that by being a part of this group that I will be able to both teach and learn awesome stuff about open science. \n\np.s. I am also part of the online support team for this initiative so if you have technical issues, always feel free to DM and I will be happy to help :3",
+        "user": "U01ANS83U3T",
+        "ts": "1601764335.029100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01ANS83U3T",
+            "ts": "1601776727.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lMvg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for kicking off the intros "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01ABLH7DPY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! My name is Matt, I prefer he\/him. I recreationally torture myself by lifting heavy things until I physically can’t anymore, or “work out” as the kids call it these days. I am in the first year of my MSc working with Derya Sargin in the neural circuitry and behaviour lab. I study the role of orexin neurons as a neural substrate for social behaviours using Hcrt-Cre mice and was actively involved in basic neuroscience and mentorship groups throughout my undergrad. My supervisor is very supportive of a shift towards open science practices in neuroscience, which aligned with my own passion for promoting greater openness and communication in my discipline as well and is my motivation for joining this group. I am a firm believer that no matter how much we think we know, there is always something we can learn and my hope is that by being a part of this group that I will be able to both teach and learn awesome stuff about open science. \n\np.s. I am also part of the online support team for this initiative so if you have technical issues, always feel free to DM and I will be happy to help :3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601689787.011400",
+        "parent_user_id": "U01ABLH7DPY",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01A3HZ3R63",
+                    "U01AA7U2ECA",
+                    "U01AADVMMJ7",
+                    "U01ABLH7DPY"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "C02B85E4-9A5D-4CB1-8942-5856BDC2FA59",
+        "type": "message",
+        "text": "Thank you for adding the option (and for the praise hehe)",
+        "user": "U01A3HZ3R63",
+        "ts": "1606864294.013000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "169068bf7e39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-11\/1358561448611_169068bf7e3945f474ae_72.jpg",
+            "first_name": "",
+            "real_name": "Chelsie Hart",
+            "display_name": "Chelsie Hart",
+            "team": "T01A754ECJZ",
+            "name": "chelsie.hart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bT0\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you for adding the option (and for the praise hehe)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606546932.011600",
+        "parent_user_id": "U01BM8QUSTS"
+    }
+]

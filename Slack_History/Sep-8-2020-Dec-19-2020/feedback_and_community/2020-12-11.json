@@ -1,0 +1,470 @@
+[
+    {
+        "client_msg_id": "67a96515-448d-4379-a0f8-727544f7a219",
+        "type": "message",
+        "text": "Hey <!channel> - we should really decide on a format and start promoting the social asap! I've created this <http:\/\/gather.to|gather.to>wn room we can use, but feel free to veto! (it only took me a minute anyway) <https:\/\/gather.town\/app\/Zkk2csy2cmrszhha\/OSSSG> Password: OpenScience.\n\nI don't really have much experience with online games, so if someone else could take the lead on that (I don't think we need much preparation to be honest, just maybe have some options ready for people who'd like to play something :)), that'd be great! I can write a little promotion blurb and post it later, if that's helpful, but now I really have to finish a couple things and then it's dinner time over here :sweat_smile:\n\nPlease respond soon if you can, I can do much of the work on this, but I don't want to go ahead without your input!",
+        "user": "U01AA7U2ECA",
+        "ts": "1607699962.012800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Gather",
+                "title_link": "https:\/\/gather.town\/app\/Zkk2csy2cmrszhha\/OSSSG",
+                "text": "Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life.",
+                "fallback": "Gather",
+                "image_url": "https:\/\/gather.town\/images\/site\/site_preview.png",
+                "from_url": "https:\/\/gather.town\/app\/Zkk2csy2cmrszhha\/OSSSG",
+                "image_width": 418,
+                "image_height": 250,
+                "image_bytes": 168628,
+                "service_icon": "https:\/\/gather.town\/favicon.ico",
+                "service_name": "gather.town",
+                "id": 1,
+                "original_url": "https:\/\/gather.town\/app\/Zkk2csy2cmrszhha\/OSSSG"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JXD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - we should really decide on a format and start promoting the social asap! I've created this "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/gather.to",
+                                "text": "gather.to"
+                            },
+                            {
+                                "type": "text",
+                                "text": "wn room we can use, but feel free to veto! (it only took me a minute anyway) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gather.town\/app\/Zkk2csy2cmrszhha\/OSSSG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Password: OpenScience.\n\nI don't really have much experience with online games, so if someone else could take the lead on that (I don't think we need much preparation to be honest, just maybe have some options ready for people who'd like to play something :)), that'd be great! I can write a little promotion blurb and post it later, if that's helpful, but now I really have to finish a couple things and then it's dinner time over here "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPlease respond soon if you can, I can do much of the work on this, but I don't want to go ahead without your input!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607699962.012800",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1607729339.018100",
+        "reply_users": [
+            "U01ABLH7DPY",
+            "U01AADVMMJ7",
+            "U01AA7U2ECA"
+        ],
+        "replies": [
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1607703008.013000"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1607703061.013300"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1607703086.013500"
+            },
+            {
+                "user": "U01AADVMMJ7",
+                "ts": "1607717735.017500"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1607728855.017700"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1607729339.018100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4e7d69c9-9c28-4549-ae32-b89ac47718d1",
+        "type": "message",
+        "text": "Hey Gwen! Sorry for the radio silence. I think we could try to use gathertown and see how it goes, thanks for setting it up. I liked how the PGSA party was also very relaxed and went with the flow of what people felt like doing at the time. I don't have much experience with Jackbox or anything like that, but we have a savy group so if we wanted to do that i am sure someone in attendance would know how to. What i like about gather town is that people who dont want to play dont just have to watch the others, they can go chat and do their own thing too. Also Gwen, after you left the PGSA party we ended up playing among us (just everyone on their phones and we communicated over Zoom), and it worked quite well despite most people having never played before. I have also played this game before online with friends (<https:\/\/skribbl.io\/>) - its like pictionary and its free",
+        "user": "U01ABLH7DPY",
+        "ts": "1607703008.013000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "skribbl - Free Multiplayer Drawing &amp; Guessing Game",
+                "title_link": "https:\/\/skribbl.io\/",
+                "text": "skribbl io is a free multiplayer drawing and guessing game. Draw and guess words with your friends and people all around the world! Score the most points and be the winner!",
+                "fallback": "skribbl - Free Multiplayer Drawing &amp; Guessing Game",
+                "image_url": "https:\/\/skribbl.io\/res\/thumbnail.png",
+                "image_width": 441,
+                "image_height": 250,
+                "from_url": "https:\/\/skribbl.io\/",
+                "image_bytes": 79891,
+                "service_icon": "https:\/\/skribbl.io\/res\/favicon.png",
+                "service_name": "skribbl.io",
+                "id": 1,
+                "original_url": "https:\/\/skribbl.io\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sZnCB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Gwen! Sorry for the radio silence. I think we could try to use gathertown and see how it goes, thanks for setting it up. I liked how the PGSA party was also very relaxed and went with the flow of what people felt like doing at the time. I don't have much experience with Jackbox or anything like that, but we have a savy group so if we wanted to do that i am sure someone in attendance would know how to. What i like about gather town is that people who dont want to play dont just have to watch the others, they can go chat and do their own thing too. Also Gwen, after you left the PGSA party we ended up playing among us (just everyone on their phones and we communicated over Zoom), and it worked quite well despite most people having never played before. I have also played this game before online with friends ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/skribbl.io\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") - its like pictionary and its free"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607699962.012800",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "da269ff2-51bb-4faa-be46-8eea55264b0c",
+        "type": "message",
+        "text": "So for now we could advertise in the channel and give the date\/time and zoom link - and then we can explain to everyone who attends how gather town works and get them to log on?",
+        "user": "U01ABLH7DPY",
+        "ts": "1607703061.013300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TkkMt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So for now we could advertise in the channel and give the date\/time and zoom link - and then we can explain to everyone who attends how gather town works and get them to log on?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607699962.012800",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "f619674c-5088-4d41-ab3a-082c6a17d017",
+        "type": "message",
+        "text": "(I mean we could always just tell everyone to log onto gathertown directly but I fear that we might lose folks or some people may not attend if they don't know what it is\/how it works)",
+        "user": "U01ABLH7DPY",
+        "ts": "1607703086.013500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BP1u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(I mean we could always just tell everyone to log onto gathertown directly but I fear that we might lose folks or some people may not attend if they don't know what it is\/how it works)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607699962.012800",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "5EEBA852-1E48-4112-A3AB-BC244AB6D45E",
+        "type": "message",
+        "text": "Gather looks fun, but I think I need to learn more about it. I also agree that maybe some people won’t attend if they don’t know what it is? I think among us would be really good though! I have 2 jack box packs too but Idk if it has anything people would want to play. I also agree we should advertise the social with the date, time and zoom link and maybe put up all the ideas and ask what everyone’s actually interested in socializing with, or just ask everyone in the zoom? ",
+        "user": "U01AADVMMJ7",
+        "ts": "1607717735.017500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "bc87ba7ccce1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-25\/1445402318902_bc87ba7ccce142957a62_72.png",
+            "first_name": "Jassleen",
+            "real_name": "Jassleen Parmar",
+            "display_name": "Jassleen Parmar",
+            "team": "T01A754ECJZ",
+            "name": "jassleen.parmar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tu9CN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gather looks fun, but I think I need to learn more about it. I also agree that maybe some people won’t attend if they don’t know what it is? I think among us would be really good though! I have 2 jack box packs too but Idk if it has anything people would want to play. I also agree we should advertise the social with the date, time and zoom link and maybe put up all the ideas and ask what everyone’s actually interested in socializing with, or just ask everyone in the zoom? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607699962.012800",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "73802b97-7c98-4b90-87d5-31646c742930",
+        "type": "message",
+        "text": "Okay yeah, those sound like great ideas! So to summarize, we can promote using the time, date and a zoom link, and then from there we can see what people want to do essentially - move to gather.town if it's not too much trouble and then we can have different groups form, do what they feel like and break apart when they want :slightly_smiling_face:",
+        "user": "U01AA7U2ECA",
+        "ts": "1607728855.017700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "153Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay yeah, those sound like great ideas! So to summarize, we can promote using the time, date and a zoom link, and then from there we can see what people want to do essentially - move to gather.town if it's not too much trouble and then we can have different groups form, do what they feel like and break apart when they want "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1607699962.012800",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "I'll write a little blurb, create a zoom link and post now, unless you have any other ideas :slightly_smiling_face:",
+        "user": "U01AA7U2ECA",
+        "ts": "1607729339.018100",
+        "thread_ts": "1607699962.012800",
+        "root": {
+            "client_msg_id": "67a96515-448d-4379-a0f8-727544f7a219",
+            "type": "message",
+            "text": "Hey <!channel> - we should really decide on a format and start promoting the social asap! I've created this <http:\/\/gather.to|gather.to>wn room we can use, but feel free to veto! (it only took me a minute anyway) <https:\/\/gather.town\/app\/Zkk2csy2cmrszhha\/OSSSG> Password: OpenScience.\n\nI don't really have much experience with online games, so if someone else could take the lead on that (I don't think we need much preparation to be honest, just maybe have some options ready for people who'd like to play something :)), that'd be great! I can write a little promotion blurb and post it later, if that's helpful, but now I really have to finish a couple things and then it's dinner time over here :sweat_smile:\n\nPlease respond soon if you can, I can do much of the work on this, but I don't want to go ahead without your input!",
+            "user": "U01AA7U2ECA",
+            "ts": "1607699962.012800",
+            "team": "T01A754ECJZ",
+            "attachments": [
+                {
+                    "title": "Gather",
+                    "title_link": "https:\/\/gather.town\/app\/Zkk2csy2cmrszhha\/OSSSG",
+                    "text": "Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life.",
+                    "fallback": "Gather",
+                    "image_url": "https:\/\/gather.town\/images\/site\/site_preview.png",
+                    "from_url": "https:\/\/gather.town\/app\/Zkk2csy2cmrszhha\/OSSSG",
+                    "image_width": 418,
+                    "image_height": 250,
+                    "image_bytes": 168628,
+                    "service_icon": "https:\/\/gather.town\/favicon.ico",
+                    "service_name": "gather.town",
+                    "id": 1,
+                    "original_url": "https:\/\/gather.town\/app\/Zkk2csy2cmrszhha\/OSSSG"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "JXD",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hey "
+                                },
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " - we should really decide on a format and start promoting the social asap! I've created this "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "http:\/\/gather.to",
+                                    "text": "gather.to"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "wn room we can use, but feel free to veto! (it only took me a minute anyway) "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/gather.town\/app\/Zkk2csy2cmrszhha\/OSSSG"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Password: OpenScience.\n\nI don't really have much experience with online games, so if someone else could take the lead on that (I don't think we need much preparation to be honest, just maybe have some options ready for people who'd like to play something :)), that'd be great! I can write a little promotion blurb and post it later, if that's helpful, but now I really have to finish a couple things and then it's dinner time over here "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "sweat_smile"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\nPlease respond soon if you can, I can do much of the work on this, but I don't want to go ahead without your input!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1607699962.012800",
+            "reply_count": 6,
+            "reply_users_count": 3,
+            "latest_reply": "1607729339.018100",
+            "reply_users": [
+                "U01ABLH7DPY",
+                "U01AADVMMJ7",
+                "U01AA7U2ECA"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mll",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll write a little blurb, create a zoom link and post now, unless you have any other ideas "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "24abbfee-0965-412c-9d61-559d8662cbee"
+    }
+]

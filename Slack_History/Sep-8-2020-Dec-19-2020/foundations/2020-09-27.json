@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "4febe6f4-cd3a-4827-94bc-25a1437aa6c9",
+        "type": "message",
+        "text": "Hi Y'all! Any chance one of you has the organizational structure document checked out from OSF? Great if you're working on it, just please check it back in once you're done!",
+        "user": "U01AA7U2ECA",
+        "ts": "1601256464.001600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ihT6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Y'all! Any chance one of you has the organizational structure document checked out from OSF? Great if you're working on it, just please check it back in once you're done!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

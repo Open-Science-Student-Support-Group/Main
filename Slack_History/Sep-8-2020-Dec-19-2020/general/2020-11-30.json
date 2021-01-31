@@ -1,0 +1,182 @@
+[
+    {
+        "client_msg_id": "e5fad7da-c559-4d69-b8d2-85b19864bb8d",
+        "type": "message",
+        "text": "Hey, are more options going to be added for the pre-registration area of study drop down menus? We've gotten more non-psych people lately, so it might be cool to add at least an 'other' fill-in option.",
+        "user": "U01A3HZ3R63",
+        "ts": "1606755871.011700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "169068bf7e39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-11\/1358561448611_169068bf7e3945f474ae_72.jpg",
+            "first_name": "",
+            "real_name": "Chelsie Hart",
+            "display_name": "Chelsie Hart",
+            "team": "T01A754ECJZ",
+            "name": "chelsie.hart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c00",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, are more options going to be added for the pre-registration area of study drop down menus? We've gotten more non-psych people lately, so it might be cool to add at least an 'other' fill-in option."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606546932.011600",
+        "parent_user_id": "U01BM8QUSTS"
+    },
+    {
+        "client_msg_id": "b30fc7b6-bfb0-4a51-bd5f-cf50ef3b396e",
+        "type": "message",
+        "text": "Hi Chelsie! Good point, I agree - <@U01ANS2G30R>, this would be good to include when registering for the session.",
+        "user": "U01BM8QUSTS",
+        "ts": "1606767170.011900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "01c8086c20a1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-16\/1434346692659_01c8086c20a1bbd0c488_72.png",
+            "first_name": "",
+            "real_name": "Jenelle Morgan",
+            "display_name": "Jenelle Morgan",
+            "team": "T01A754ECJZ",
+            "name": "jenelle.morgan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KG7hm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Chelsie! Good point, I agree - "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01ANS2G30R"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", this would be good to include when registering for the session."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606546932.011600",
+        "parent_user_id": "U01BM8QUSTS"
+    },
+    {
+        "client_msg_id": "dc3cf6ac-2e87-4f71-a64a-3d78d82f790e",
+        "type": "message",
+        "text": "Thanks <@U01A3HZ3R63>, great idea! I’ve just updated the registration questions to include an “Other - please state” option :slightly_smiling_face:",
+        "user": "U01ANS2G30R",
+        "ts": "1606771583.012100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XcLHN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01A3HZ3R63"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", great idea! I’ve just updated the registration questions to include an “Other - please state” option "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606546932.011600",
+        "parent_user_id": "U01BM8QUSTS"
+    },
+    {
+        "client_msg_id": "efb00f51-01e4-40bf-9247-85183f5c3e7d",
+        "type": "message",
+        "text": "Good catch Chelsie!",
+        "user": "U01AGDAUB1S",
+        "ts": "1606772000.012300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eCU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good catch Chelsie!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606546932.011600",
+        "parent_user_id": "U01BM8QUSTS"
+    }
+]

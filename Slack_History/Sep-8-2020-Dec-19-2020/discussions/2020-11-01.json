@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "C5810796-F611-44B2-95FF-CCEF7B01BD1D",
+        "type": "message",
+        "text": "It’s also effects society broadly by reinforcing the belief that scientists are liars  and research is untrustworthy! I’ve had such a hard time getting people to look at factual things because scientists are “liars” who are “in corporations’ pockets.”",
+        "user": "U01A3HZ3R63",
+        "ts": "1604260838.019900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "169068bf7e39",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-11\/1358561448611_169068bf7e3945f474ae_72.jpg",
+            "first_name": "",
+            "real_name": "Chelsie Hart",
+            "display_name": "Chelsie Hart",
+            "team": "T01A754ECJZ",
+            "name": "chelsie.hart",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uHTI7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It’s also effects society broadly by reinforcing the belief that scientists are liars  and research is untrustworthy! I’ve had such a hard time getting people to look at factual things because scientists are “liars” who are “in corporations’ pockets.”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603848205.007000",
+        "parent_user_id": "U01AA7U2ECA"
+    }
+]

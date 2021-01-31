@@ -1,0 +1,94 @@
+[
+    {
+        "client_msg_id": "3ee063e0-7fe1-49b3-b6a8-24a52e469509",
+        "type": "message",
+        "text": "Thank you for sharing <@U01A3HZ3R63>!",
+        "user": "U01AGDAUB1S",
+        "ts": "1608327930.006000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/7FX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you for sharing "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01A3HZ3R63"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608249436.005700",
+        "parent_user_id": "U01A3HZ3R63"
+    },
+    {
+        "client_msg_id": "a9403968-d70f-4a46-958c-65462ef9518b",
+        "type": "message",
+        "text": "It looks like there is still 33 seats left when I just registered!",
+        "user": "U01AGDAUB1S",
+        "ts": "1608328165.006200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01AGDAUB1S",
+            "ts": "1608328178.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7mDz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It looks like there is still 33 seats left when I just registered!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608249436.005700",
+        "parent_user_id": "U01A3HZ3R63"
+    }
+]

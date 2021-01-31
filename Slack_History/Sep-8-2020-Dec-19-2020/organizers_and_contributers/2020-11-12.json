@@ -1,0 +1,71 @@
+[
+    {
+        "type": "message",
+        "text": "Hey <!channel>! Attached is the proposed agenda for tomorrow, please let me know if you have any suggestions on what to add\/change! I look forward to seeing most of you tomorrow! :blush:",
+        "files": [
+            {
+                "id": "F01EFN56830",
+                "created": 1605230890,
+                "timestamp": 1605230890,
+                "name": "Meeting agendas & notes.docx",
+                "title": "Meeting agendas &amp; notes.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U01AA7U2ECA",
+                "editable": false,
+                "size": 50306,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01EFN56830\/meeting_agendas___notes.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01EFN56830\/download\/meeting_agendas___notes.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01EFN56830-a539d6b292\/meeting_agendas___notes_converted.pdf?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01EFN56830-a539d6b292\/meeting_agendas___notes_thumb_pdf.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01AA7U2ECA\/F01EFN56830\/meeting_agendas___notes.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01EFN56830-94bc3fa492",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9eE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Attached is the proposed agenda for tomorrow, please let me know if you have any suggestions on what to add\/change! I look forward to seeing most of you tomorrow! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01AA7U2ECA",
+        "display_as_bot": false,
+        "ts": "1605231001.029900"
+    }
+]

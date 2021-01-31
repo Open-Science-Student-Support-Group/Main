@@ -1,0 +1,226 @@
+[
+    {
+        "client_msg_id": "26f78d0e-bbec-4009-999b-c423c27810cc",
+        "type": "message",
+        "text": "Hi <!channel>,\nI’m not sure any of you even saw this till now, as it seems @everyone doesn’t quite work here… Anyway, I hope you guys are ready to dig in! After today’s meeting I think we can start working on some additional documents, namely:\n1. “How to prep a session” - I can take the lead on that as I work through prepping the first session\n2. Powerpoint template for presenters\n3. Guidelines for facilitators\n4. “How to organize a follow-up session” (e.g. a workshop, a more specific support group)\nAnd of course, we should keep on working on the initiative description\/organizational structure document too :slightly_smiling_face: If it’s becoming too much, perhaps we should think about how to prioritize, I think we can work out some of these things over the semester ^^",
+        "user": "U01AA7U2ECA",
+        "ts": "1600745323.012900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pwwT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",\nI’m not sure any of you even saw this till now, as it seems @everyone doesn’t quite work here… Anyway, I hope you guys are ready to dig in! After today’s meeting I think we can start working on some additional documents, namely:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "“How to prep a session” - I can take the lead on that as I work through prepping the first session"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Powerpoint template for presenters"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Guidelines for facilitators"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "“How to organize a follow-up session” (e.g. a workshop, a more specific support group)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And of course, we should keep on working on the initiative description\/organizational structure document too "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " If it’s becoming too much, perhaps we should think about how to prioritize, I think we can work out some of these things over the semester ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600745323.012900",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1600825563.000100",
+        "reply_users": [
+            "U01ANS83U3T",
+            "U01AA7U2ECA",
+            "U01ANS2G30R"
+        ],
+        "replies": [
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1600745452.014200"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1600745936.014400"
+            },
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1600788776.014600"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1600825563.000100"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1600825563.000100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01ANS83U3T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6C4CA515-AE68-4FBC-8653-0215EC11ABF8",
+        "type": "message",
+        "text": "Yeah unfortunately didn’t see this until now but at least it’s not for anything time sensitive! I’ll take a look at it tomorrow after surgeries :3",
+        "user": "U01ANS83U3T",
+        "ts": "1600745452.014200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b6t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah unfortunately didn’t see this until now but at least it’s not for anything time sensitive! I’ll take a look at it tomorrow after surgeries :3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600745323.012900",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "02b4f194-1371-4715-b9e0-23e95eec4353",
+        "type": "message",
+        "text": "Right, I might have figured earlier.. Take a look whenever you have time, no rush!",
+        "user": "U01AA7U2ECA",
+        "ts": "1600745936.014400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NKeVu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Right, I might have figured earlier.. Take a look whenever you have time, no rush!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600745323.012900",
+        "parent_user_id": "U01AA7U2ECA"
+    }
+]

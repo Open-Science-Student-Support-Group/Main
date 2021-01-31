@@ -1,0 +1,359 @@
+[
+    {
+        "client_msg_id": "90314fa7-7f87-46a1-8265-3898eaed788b",
+        "type": "message",
+        "text": "Hey! I just wanted to touch base about the social this afternoon\/evening. I can welcome people and introduce gather.town, and then keep the zoom open as well for people joining late. I also created a poll in Slack we can use to ask what people feel like doing (chatting, playing games, watching something, anything else I should add?), so we can use that at the start to get a sense, of course we can adjust at any time :slightly_smiling_face: I was thinking we could designate a 'game corner' in gather.town (e.g. top right - I believe there is a 'bar' there), and tell people to go there if they want to play - maybe one of us (and we can switch) can try to be there to guide things along? Of course that might not be necessary, maybe we should just be keeping an eye on people standing alone, and check in on them if they don't move for a while, to make sure no one is being left out?",
+        "user": "U01AA7U2ECA",
+        "ts": "1608314317.023300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+hd2j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey! I just wanted to touch base about the social this afternoon\/evening. I can welcome people and introduce gather.town, and then keep the zoom open as well for people joining late. I also created a poll in Slack we can use to ask what people feel like doing (chatting, playing games, watching something, anything else I should add?), so we can use that at the start to get a sense, of course we can adjust at any time "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I was thinking we could designate a 'game corner' in gather.town (e.g. top right - I believe there is a 'bar' there), and tell people to go there if they want to play - maybe one of us (and we can switch) can try to be there to guide things along? Of course that might not be necessary, maybe we should just be keeping an eye on people standing alone, and check in on them if they don't move for a while, to make sure no one is being left out?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608314317.023300",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1608329546.028500",
+        "reply_users": [
+            "U01AADVMMJ7",
+            "U01AA7U2ECA",
+            "U01ABLH7DPY"
+        ],
+        "replies": [
+            {
+                "user": "U01AADVMMJ7",
+                "ts": "1608325396.023900"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1608325505.024100"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1608325744.026900"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1608326304.027300"
+            },
+            {
+                "user": "U01AADVMMJ7",
+                "ts": "1608327414.028000"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1608329546.028500"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0C295920-5F84-4A8A-9A10-E28B09E5BFB7",
+        "type": "message",
+        "text": "Does everyone know that it doesn’t work on safari?",
+        "user": "U01AADVMMJ7",
+        "ts": "1608325396.023900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "bc87ba7ccce1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-25\/1445402318902_bc87ba7ccce142957a62_72.png",
+            "first_name": "Jassleen",
+            "real_name": "Jassleen Parmar",
+            "display_name": "Jassleen Parmar",
+            "team": "T01A754ECJZ",
+            "name": "jassleen.parmar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sHZLG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does everyone know that it doesn’t work on safari?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608314317.023300",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "e83f6ace-8d7f-4bb7-a49e-bf6029c1e007",
+        "type": "message",
+        "text": "I thought we'd tell them when we tell them about gather.town :slightly_smiling_face:",
+        "user": "U01AA7U2ECA",
+        "ts": "1608325505.024100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bbY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I thought we'd tell them when we tell them about gather.town "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608314317.023300",
+        "parent_user_id": "U01AA7U2ECA",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U01AADVMMJ7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BA7A6629-693E-4B28-A5DD-2E21261CD39F",
+        "type": "message",
+        "text": "Sorry for the late reply! That sounds like a good plan to me. We can go with the flow in terms of what people want to do according to the poll- that’s a great idea! And if gather town doesn’t work for some reason (eg safari issue) we can always replicate something  sort of similar with break out rooms in zoom that people can move between freely. Looking forward to it!",
+        "user": "U01ABLH7DPY",
+        "ts": "1608325744.026900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "edGV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry for the late reply! That sounds like a good plan to me. We can go with the flow in terms of what people want to do according to the poll- that’s a great idea! And if gather town doesn’t work for some reason (eg safari issue) we can always replicate something  sort of similar with break out rooms in zoom that people can move between freely. Looking forward to it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608314317.023300",
+        "parent_user_id": "U01AA7U2ECA",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U01AADVMMJ7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "826eefbf-b124-4a7a-a4e7-f9d0190b7fbf",
+        "type": "message",
+        "text": "Yeah for sure! Different question - do we want to start with a round of check-ins today, or just welcome people in general, use to poll to see what people are feeling up for, and just get right into the informal hangout?",
+        "user": "U01AA7U2ECA",
+        "ts": "1608326304.027300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kkwM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah for sure! Different question - do we want to start with a round of check-ins today, or just welcome people in general, use to poll to see what people are feeling up for, and just get right into the informal hangout?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608314317.023300",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "45FD6CBC-0F51-4F4E-81C4-EB6D36F22124",
+        "type": "message",
+        "text": "I wouldn’t mind a check in, i think it could help with doing something while we wait for people to join ",
+        "user": "U01AADVMMJ7",
+        "ts": "1608327414.028000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "bc87ba7ccce1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-25\/1445402318902_bc87ba7ccce142957a62_72.png",
+            "first_name": "Jassleen",
+            "real_name": "Jassleen Parmar",
+            "display_name": "Jassleen Parmar",
+            "team": "T01A754ECJZ",
+            "name": "jassleen.parmar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nM\/zB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wouldn’t mind a check in, i think it could help with doing something while we wait for people to join "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608314317.023300",
+        "parent_user_id": "U01AA7U2ECA",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01ABLH7DPY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c60b4b5-6a6e-46b1-854d-61e5643f9d1f",
+        "type": "message",
+        "text": "yeah that's fair! And probably a good thing to do anyway, acknowledge everyone's presence as well ^^ I just hadn't thought about it yet for some reason :grin:",
+        "user": "U01AA7U2ECA",
+        "ts": "1608329546.028500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xmo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah that's fair! And probably a good thing to do anyway, acknowledge everyone's presence as well ^^ I just hadn't thought about it yet for some reason "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1608314317.023300",
+        "parent_user_id": "U01AA7U2ECA"
+    }
+]

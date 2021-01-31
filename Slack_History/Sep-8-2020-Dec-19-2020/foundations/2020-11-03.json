@@ -1,0 +1,148 @@
+[
+    {
+        "client_msg_id": "d5d7e398-32b9-403b-b8f2-699754d2edf2",
+        "type": "message",
+        "text": "Hey <!channel>! Seems like meeting next Tuesday afternoon is good for all of us! How does 2-3:30pm sound?",
+        "user": "U01AA7U2ECA",
+        "ts": "1604427296.001400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5gt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! Seems like meeting next Tuesday afternoon is good for all of us! How does 2-3:30pm sound?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604427296.001400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1604441536.001800",
+        "reply_users": [
+            "U01ANS2G30R",
+            "U01AADVMMJ7"
+        ],
+        "replies": [
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1604430128.001600"
+            },
+            {
+                "user": "U01AADVMMJ7",
+                "ts": "1604441536.001800"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1604441536.001800"
+    },
+    {
+        "client_msg_id": "cd8357c5-6bc4-473c-8041-74593f2d299f",
+        "type": "message",
+        "text": "Works for me!",
+        "user": "U01ANS2G30R",
+        "ts": "1604430128.001600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3rE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Works for me!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604427296.001400",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "04d7f89c-fcd5-41a2-974e-46012ffa4ec2",
+        "type": "message",
+        "text": "Same here!",
+        "user": "U01AADVMMJ7",
+        "ts": "1604441536.001800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "bc87ba7ccce1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-25\/1445402318902_bc87ba7ccce142957a62_72.png",
+            "first_name": "Jassleen",
+            "real_name": "Jassleen Parmar",
+            "display_name": "Jassleen Parmar",
+            "team": "T01A754ECJZ",
+            "name": "jassleen.parmar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xOoG=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Same here!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604427296.001400",
+        "parent_user_id": "U01AA7U2ECA"
+    }
+]

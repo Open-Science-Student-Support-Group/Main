@@ -1,0 +1,379 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600705902.000200",
+        "user": "U01AA7U2ECA",
+        "text": "<@U01AA7U2ECA> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1600705902.000300",
+        "user": "U01AA7U2ECA",
+        "text": "<@U01AA7U2ECA> set the channel purpose: Channel solely for posting and keeping track of meeting planning and decision making polls",
+        "purpose": "Channel solely for posting and keeping track of meeting planning and decision making polls"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600707015.000500",
+        "user": "U01A3FSJ6Q7",
+        "text": "<@U01A3FSJ6Q7> has joined the channel",
+        "inviter": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600707015.000700",
+        "user": "U01A3HZ3R63",
+        "text": "<@U01A3HZ3R63> has joined the channel",
+        "inviter": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600707015.000900",
+        "user": "U01A3LJ637H",
+        "text": "<@U01A3LJ637H> has joined the channel",
+        "inviter": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600707015.001100",
+        "user": "U01A7CEDB1D",
+        "text": "<@U01A7CEDB1D> has joined the channel",
+        "inviter": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600707015.001300",
+        "user": "U01AA7U4UHY",
+        "text": "<@U01AA7U4UHY> has joined the channel",
+        "inviter": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600707015.001500",
+        "user": "U01AADVMMJ7",
+        "text": "<@U01AADVMMJ7> has joined the channel",
+        "inviter": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600707015.001700",
+        "user": "U01AAS88P0B",
+        "text": "<@U01AAS88P0B> has joined the channel",
+        "inviter": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600707015.001900",
+        "user": "U01ABLH7DPY",
+        "text": "<@U01ABLH7DPY> has joined the channel",
+        "inviter": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600707015.002100",
+        "user": "U01AC1N2HAA",
+        "text": "<@U01AC1N2HAA> has joined the channel",
+        "inviter": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600707015.002300",
+        "user": "U01AFCT2TNH",
+        "text": "<@U01AFCT2TNH> has joined the channel",
+        "inviter": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600707016.002500",
+        "user": "U01AGDAUB1S",
+        "text": "<@U01AGDAUB1S> has joined the channel",
+        "inviter": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600707016.002700",
+        "user": "U01AGGT7885",
+        "text": "<@U01AGGT7885> has joined the channel",
+        "inviter": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600707016.002900",
+        "user": "U01AKC8FU2H",
+        "text": "<@U01AKC8FU2H> has joined the channel",
+        "inviter": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600707016.003100",
+        "user": "U01ALPHUPTM",
+        "text": "<@U01ALPHUPTM> has joined the channel",
+        "inviter": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600707016.003300",
+        "user": "U01ANS2G30R",
+        "text": "<@U01ANS2G30R> has joined the channel",
+        "inviter": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600707016.003500",
+        "user": "U01ANS83U3T",
+        "text": "<@U01ANS83U3T> has joined the channel",
+        "inviter": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600707016.003700",
+        "user": "U01AR15SLS0",
+        "text": "<@U01AR15SLS0> has joined the channel",
+        "inviter": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600707016.003900",
+        "user": "U01AR2NH2KF",
+        "text": "<@U01AR2NH2KF> has joined the channel",
+        "inviter": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600707017.004100",
+        "user": "U01ASGMJQ75",
+        "text": "<@U01ASGMJQ75> has joined the channel",
+        "inviter": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600707017.004300",
+        "user": "U01B86AM1GQ",
+        "text": "<@U01B86AM1GQ> has joined the channel",
+        "inviter": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600707017.004500",
+        "user": "U01BJ0VMYBA",
+        "text": "<@U01BJ0VMYBA> has joined the channel",
+        "inviter": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1600707017.004700",
+        "user": "U01BM8QUSTS",
+        "text": "<@U01BM8QUSTS> has joined the channel",
+        "inviter": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1600707091.004800",
+        "user": "U01AA7U2ECA",
+        "text": "<@U01AA7U2ECA> set the channel purpose: Channel solely for posting and keeping track of meeting planning and decision making polls. Everyone is welcome to participate in these poll, but please only vote for meeting planning polls if you intend to join the meeting",
+        "purpose": "Channel solely for posting and keeping track of meeting planning and decision making polls. Everyone is welcome to participate in these poll, but please only vote for meeting planning polls if you intend to join the meeting"
+    },
+    {
+        "client_msg_id": "e16d6e17-cc5b-4b4e-b4f3-865d8e9955fa",
+        "type": "message",
+        "text": "Hi <!channel>!\nFor our first poll we’re voting on what topics to cover during the Fall semester. We’ll have 5 sessions in total, and the first will be an introduction to open science, so we have 4 more topics to pick! In your votes (please pick 4), keep in mind that many students are starting on their projects now, so in addition to what you’re interested in, please consider what topics are most relevant early on in the research cycle! Topics not covered now, can be covered later on (e.g. in the Winter semester). *The poll will close Friday at 5pm!*\n<https:\/\/doodle.com\/poll\/ezdgz39rh8vyr4db>",
+        "user": "U01AA7U2ECA",
+        "ts": "1600718282.008900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Doodle: OSSSG - Fall topics",
+                "title_link": "https:\/\/doodle.com\/poll\/ezdgz39rh8vyr4db",
+                "text": "As we have four sessions to fill in, please only vote for four topics. Also, please consider what would make most sense to start with, keeping in mind that many students are starting on their honours\/masters\/PhD research at this time. The topics we do not cover in the Fall, will likely be covered later on (Winter\/Spring\/Summer).",
+                "fallback": "Doodle: OSSSG - Fall topics",
+                "image_url": "https:\/\/doodle.com\/graphics\/static\/facebookSharingThumbnail.png",
+                "from_url": "https:\/\/doodle.com\/poll\/ezdgz39rh8vyr4db",
+                "image_width": 300,
+                "image_height": 200,
+                "image_bytes": 6864,
+                "service_icon": "https:\/\/cdn2.doodle.com\/dist\/i\/7479b568749fca315a2969e30cbee4f5.png",
+                "service_name": "doodle.com",
+                "id": 1,
+                "original_url": "https:\/\/doodle.com\/poll\/ezdgz39rh8vyr4db"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kXw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!\nFor our first poll we’re voting on what topics to cover during the Fall semester. We’ll have 5 sessions in total, and the first will be an introduction to open science, so we have 4 more topics to pick! In your votes (please pick 4), keep in mind that many students are starting on their projects now, so in addition to what you’re interested in, please consider what topics are most relevant early on in the research cycle! Topics not covered now, can be covered later on (e.g. in the Winter semester). "
+                            },
+                            {
+                                "type": "text",
+                                "text": "The poll will close Friday at 5pm!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/doodle.com\/poll\/ezdgz39rh8vyr4db"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600718282.008900",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1601045968.000300",
+        "reply_users": [
+            "U01AA7U4UHY",
+            "U01A3FSJ6Q7",
+            "U01AA7U2ECA"
+        ],
+        "replies": [
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1600722732.015400"
+            },
+            {
+                "user": "U01A3FSJ6Q7",
+                "ts": "1600865808.000100"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1600875461.000300"
+            },
+            {
+                "user": "U01A3FSJ6Q7",
+                "ts": "1600875735.000500"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1601045941.000100"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1601045968.000300"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "A0A7B230-B8D1-4774-A391-0F2F0A6173C9",
+        "type": "message",
+        "text": "I think licensing and copyright could be rolled into data sharing\/ethics as well as research dissemination. \n\nAnd reference managers could be tied into project workflow.\n\nTalking to your supervisor might be good to tie into the first session (maybe as part of the discussion and as a challenge)—it’s important, but I don’t know if it needs its own session, and I think it’d be nice to bring it up as early as possible.\n\nSo I guess my main point here is we should use the poll to inform our decisions, but not let it make the decisions for us, especially since we’ll only have 4-5 (?) sessions in the fall.",
+        "user": "U01AA7U4UHY",
+        "ts": "1600722732.015400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ufS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think licensing and copyright could be rolled into data sharing\/ethics as well as research dissemination. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "And reference managers could be tied into project workflow.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Talking to your supervisor might be good to tie into the first session (maybe as part of the discussion and as a challenge)—it’s important, but I don’t know if it needs its own session, and I think it’d be nice to bring it up as early as possible.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "So I guess my main point here is we should use the poll to inform our decisions, but not let it make the decisions for us, especially since we’ll only have 4-5 (?) sessions in the fall."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600718282.008900",
+        "parent_user_id": "U01AA7U2ECA"
+    }
+]

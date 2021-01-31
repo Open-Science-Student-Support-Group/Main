@@ -1,0 +1,83 @@
+[
+    {
+        "client_msg_id": "3c2ec993-6723-44af-affb-9f4c37718b51",
+        "type": "message",
+        "text": "Event on good scientific practices happening next week (Oct 5-9) online! This is pretty specific to EEG research, but that’s actually quite rare in neuroscience conferences\/workshops, so I’d say it’s a great opportunity for anyone working with MEG or EEG data! <https:\/\/livemeeg2020.org>",
+        "user": "U01AA7U2ECA",
+        "ts": "1601521305.003400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CZm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Event on good scientific practices happening next week (Oct 5-9) online! This is pretty specific to EEG research, but that’s actually quite rare in neuroscience conferences\/workshops, so I’d say it’s a great opportunity for anyone working with MEG or EEG data! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/livemeeg2020.org"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601521305.003400",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1601910145.004400",
+        "reply_users": [
+            "U01A3HZ3R63",
+            "U01AA7U2ECA"
+        ],
+        "replies": [
+            {
+                "user": "U01A3HZ3R63",
+                "ts": "1601909996.004000"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1601910110.004200"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1601910145.004400"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "U01AA7U4UHY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01A3HZ3R63"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "type": "message",
+        "text": "Here are the meeting notes from today! For those that missed it, feel free to check it out!! Have a great weekend!",
+        "files": [
+            {
+                "id": "F01EMD239K7",
+                "created": 1605291768,
+                "timestamp": 1605291768,
+                "name": "Meeting agendas & notes Nov 13.docx",
+                "title": "Meeting agendas &amp; notes Nov 13.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U01AGDAUB1S",
+                "editable": false,
+                "size": 63064,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01EMD239K7\/meeting_agendas___notes_nov_13.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01EMD239K7\/download\/meeting_agendas___notes_nov_13.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01EMD239K7-5ca96eb419\/meeting_agendas___notes_nov_13_converted.pdf?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01EMD239K7-5ca96eb419\/meeting_agendas___notes_nov_13_thumb_pdf.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01AGDAUB1S\/F01EMD239K7\/meeting_agendas___notes_nov_13.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01EMD239K7-4798da2c52",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sw6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here are the meeting notes from today! For those that missed it, feel free to check it out!! Have a great weekend!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01AGDAUB1S",
+        "display_as_bot": false,
+        "ts": "1605291819.030800",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01ABLH7DPY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

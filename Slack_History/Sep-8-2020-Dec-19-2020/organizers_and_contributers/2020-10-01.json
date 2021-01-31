@@ -1,0 +1,146 @@
+[
+    {
+        "client_msg_id": "bf932efe-3e16-40de-aba3-5d937310f3b6",
+        "type": "message",
+        "text": "When I clicked the link it just automatically said I requested access lol",
+        "user": "U01AGDAUB1S",
+        "ts": "1601586890.009700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zDu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When I clicked the link it just automatically said I requested access lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601517629.008300",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "bot_id": "B01AGKD04SY",
+        "type": "message",
+        "text": "",
+        "user": "U01AP2WAHGR",
+        "ts": "1601618736.009900",
+        "team": "T01A754ECJZ",
+        "bot_profile": {
+            "id": "B01AGKD04SY",
+            "deleted": false,
+            "name": "GitHub",
+            "updated": 1599596265,
+            "app_id": "A8GBNUWU8",
+            "icons": {
+                "image_36": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-12-19\/288981919427_f45f04edd92902a96859_36.png",
+                "image_48": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-12-19\/288981919427_f45f04edd92902a96859_48.png",
+                "image_72": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-12-19\/288981919427_f45f04edd92902a96859_72.png"
+            },
+            "team_id": "T01A754ECJZ"
+        },
+        "attachments": [
+            {
+                "author_name": "GwenvdW",
+                "fallback": "[Open-Science-Student-Support-Group\/Main] <https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/compare\/4f40e64375e7...1dfda25394be|3 new commits> pushed to <https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/tree\/master|`master`>",
+                "text": "*<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/compare\/4f40e64375e7...1dfda25394be|3 new commits> pushed to <https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/tree\/master|`master`>*\n<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/commit\/97a28c9c4f3afcdd549692d0f364457516985971|`97a28c9c`> - Created document with notes of first feedback &amp; community meeting\n<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/commit\/0024135a0b96512c3a5f1c368f7a2f44633b1e87|`0024135a`> - Merge branch 'master' of <https:\/\/github.com\/Open-Science-Student-Support-Group\/Main>\n<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/commit\/1dfda25394be57a21720681a4e1cbe438143769c|`1dfda253`> - Added agenda for meeting on Oct 2",
+                "footer": "<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main|Open-Science-Student-Support-Group\/Main>",
+                "id": 1,
+                "author_link": "https:\/\/github.com\/GwenvdW",
+                "author_icon": "https:\/\/avatars1.githubusercontent.com\/u\/66083270?v=4",
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "color": "24292f",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Proposed agenda for tomorrow’s meeting",
+        "files": [
+            {
+                "id": "F01BUG1J7NX",
+                "created": 1601618793,
+                "timestamp": 1601618793,
+                "name": "Meeting agendas & notes.docx",
+                "title": "Meeting agendas &amp; notes.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U01AA7U2ECA",
+                "editable": false,
+                "size": 32229,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01BUG1J7NX\/meeting_agendas___notes.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01BUG1J7NX\/download\/meeting_agendas___notes.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BUG1J7NX-c240faf156\/meeting_agendas___notes_converted.pdf?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BUG1J7NX-c240faf156\/meeting_agendas___notes_thumb_pdf.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01AA7U2ECA\/F01BUG1J7NX\/meeting_agendas___notes.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01BUG1J7NX-546691e7c8",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kUVs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Proposed agenda for tomorrow’s meeting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01AA7U2ECA",
+        "display_as_bot": false,
+        "ts": "1601618809.010200",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01AA7U4UHY",
+                    "U01ANS2G30R"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

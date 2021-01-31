@@ -1,0 +1,54 @@
+[
+    {
+        "client_msg_id": "D6E7A1F6-625C-47BD-9983-C71BB820CED7",
+        "type": "message",
+        "text": "Useful plugin for zotero users <https:\/\/twitter.com\/peterrolandg\/status\/1327194115180797952?s=21|https:\/\/twitter.com\/peterrolandg\/status\/1327194115180797952?s=21>",
+        "user": "U01AA7U4UHY",
+        "ts": "1605290268.001700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fkU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Useful plugin for zotero users "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/peterrolandg\/status\/1327194115180797952?s=21",
+                                "text": "https:\/\/twitter.com\/peterrolandg\/status\/1327194115180797952?s=21"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U01ANS2G30R"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "client_msg_id": "AAC83CEF-C0DF-44C4-B6BE-5195348BE367",
+        "type": "message",
+        "text": "Brittany offered to be chat facilitator but we still need a main facilitator! Do either of you mind taking on this role, and the other can be a break out room facilitator?",
+        "user": "U01ABLH7DPY",
+        "ts": "1604615472.009600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Yv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Brittany offered to be chat facilitator but we still need a main facilitator! Do either of you mind taking on this role, and the other can be a break out room facilitator?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604000439.001700",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "A64015F7-3740-43AA-8FBD-40B80871901A",
+        "type": "message",
+        "text": "Hey Chelsea! I’m good for either, so if you need to put me down for main facilitator that’s fine :relaxed: tomorrow morning I’ll send you an updated count of how many people we have registered!!",
+        "user": "U01ANS2G30R",
+        "ts": "1604628586.011300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vJIva",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey Chelsea! I’m good for either, so if you need to put me down for main facilitator that’s fine "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relaxed"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tomorrow morning I’ll send you an updated count of how many people we have registered!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604000439.001700",
+        "parent_user_id": "U01AA7U2ECA"
+    }
+]

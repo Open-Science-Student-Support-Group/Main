@@ -1,0 +1,48 @@
+[
+    {
+        "client_msg_id": "808afdbd-97a3-490c-b3fe-b27894dbd5ea",
+        "type": "message",
+        "text": "Hi everyone! My name is Emiko (she\/her\/hers) and I am a first year PhD student in the Brain &amp; Cognitive Science Experimental Psychology program. My supervisor is Dr. Penny Pexman. My first undergraduate degree was in theatre, but now I’m a stats nerd :stuck_out_tongue_closed_eyes: I’m looking forward to talking about Open Science practices with other students and being more intentional about incorporating Open Science practices into my research!",
+        "user": "U01ANS2G30R",
+        "ts": "1602272937.047400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wCts",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone! My name is Emiko (she\/her\/hers) and I am a first year PhD student in the Brain & Cognitive Science Experimental Psychology program. My supervisor is Dr. Penny Pexman. My first undergraduate degree was in theatre, but now I’m a stats nerd "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue_closed_eyes"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I’m looking forward to talking about Open Science practices with other students and being more intentional about incorporating Open Science practices into my research!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

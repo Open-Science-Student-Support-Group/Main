@@ -1,0 +1,126 @@
+[
+    {
+        "client_msg_id": "be3a52fa-f6cd-4600-b3a4-1d58b984ce3f",
+        "type": "message",
+        "text": "I can't access the poll",
+        "user": "U01A3FSJ6Q7",
+        "ts": "1600865808.000100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "g26aa546ca12",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/26aa546ca12d37af85bcf80c5525af48.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "Shumaila Rizwan",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "srinori2000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ixrM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can't access the poll"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600718282.008900",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "e9c4f508-7995-40de-aca0-c329dccc3906",
+        "type": "message",
+        "text": "<@U01A3FSJ6Q7> That’s strange! I’ve sent an invite for the poll to your ucalgary email, I hope you can access it through there!",
+        "user": "U01AA7U2ECA",
+        "ts": "1600875461.000300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WulO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01A3FSJ6Q7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " That’s strange! I’ve sent an invite for the poll to your ucalgary email, I hope you can access it through there!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600718282.008900",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "49754a9f-6c3a-4138-beaf-ccb20075acc9",
+        "type": "message",
+        "text": "I still cant",
+        "user": "U01A3FSJ6Q7",
+        "ts": "1600875735.000500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "g26aa546ca12",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/26aa546ca12d37af85bcf80c5525af48.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "Shumaila Rizwan",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "srinori2000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4+8w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I still cant"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1600718282.008900",
+        "parent_user_id": "U01AA7U2ECA"
+    }
+]

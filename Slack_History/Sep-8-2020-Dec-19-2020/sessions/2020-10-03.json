@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "cba4c362-0b91-42eb-adff-bb0960671b68",
+        "type": "message",
+        "text": "Hi Chelsea! Next week I can meet anytime after 11am on Monday, between 4pm - 5:30pm on Tuesday and pretty much all day Wednesday. I’m guessing earlier in the week is better, so we can try to have a presenter by the end of the week?",
+        "user": "U01ANS2G30R",
+        "ts": "1601738134.035100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kSPHj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Chelsea! Next week I can meet anytime after 11am on Monday, between 4pm - 5:30pm on Tuesday and pretty much all day Wednesday. I’m guessing earlier in the week is better, so we can try to have a presenter by the end of the week?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

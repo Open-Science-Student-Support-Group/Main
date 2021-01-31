@@ -1,0 +1,50 @@
+[
+    {
+        "client_msg_id": "ab7b68e8-ecca-4ec5-91fb-2c5635376998",
+        "type": "message",
+        "text": "I also had to look up sorrel drink and now I will be incorporating that into my holiday plans! Looking forward to the session today :slightly_smiling_face:",
+        "user": "U01ABLH7DPY",
+        "ts": "1607097450.020200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01ABLH7DPY",
+            "ts": "1607097465.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TJv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I also had to look up sorrel drink and now I will be incorporating that into my holiday plans! Looking forward to the session today "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606954619.019800",
+        "parent_user_id": "U01BM8QUSTS"
+    }
+]

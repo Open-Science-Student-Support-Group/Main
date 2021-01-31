@@ -1,0 +1,90 @@
+[
+    {
+        "client_msg_id": "ba6074bf-868a-4e40-bb5c-c30896d8ba71",
+        "type": "message",
+        "text": "Okay awesome, so we have a date and time for the hangout! What about the format? I am still pretty excited about trying out gather.town, but I understand that would be a bit of an experiment, so no worries if you think that is not such a good idea!",
+        "user": "U01AA7U2ECA",
+        "ts": "1607612226.008000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A54I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay awesome, so we have a date and time for the hangout! What about the format? I am still pretty excited about trying out gather.town, but I understand that would be a bit of an experiment, so no worries if you think that is not such a good idea!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5e89ad79-7d04-46ff-8786-542535a1ea2d",
+        "type": "message",
+        "text": "And we should probably let everyone know about the time we picked! Does anyone want to post in the general\/social channel? Make sure you add <!channel> so everyone gets notified :blush:",
+        "user": "U01AA7U2ECA",
+        "ts": "1607612472.009300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YOFt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And we should probably let everyone know about the time we picked! Does anyone want to post in the general\/social channel? Make sure you add "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " so everyone gets notified "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

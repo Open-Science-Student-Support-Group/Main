@@ -1,0 +1,327 @@
+[
+    {
+        "bot_id": "B01AGKD04SY",
+        "type": "message",
+        "text": "",
+        "user": "U01AP2WAHGR",
+        "ts": "1602171810.028900",
+        "team": "T01A754ECJZ",
+        "bot_profile": {
+            "id": "B01AGKD04SY",
+            "deleted": false,
+            "name": "GitHub",
+            "updated": 1599596265,
+            "app_id": "A8GBNUWU8",
+            "icons": {
+                "image_36": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-12-19\/288981919427_f45f04edd92902a96859_36.png",
+                "image_48": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-12-19\/288981919427_f45f04edd92902a96859_48.png",
+                "image_72": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-12-19\/288981919427_f45f04edd92902a96859_72.png"
+            },
+            "team_id": "T01A754ECJZ"
+        },
+        "attachments": [
+            {
+                "author_name": "GwenvdW",
+                "fallback": "[Open-Science-Student-Support-Group\/Main] <https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/compare\/ffe948a7172f...ba2f4a94c727|1 new commit> pushed to <https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/tree\/master|`master`>",
+                "text": "*<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/compare\/ffe948a7172f...ba2f4a94c727|1 new commit> pushed to <https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/tree\/master|`master`>*\n<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/commit\/ba2f4a94c727998af3c1f99f7149589502c476a7|`ba2f4a94`> - Updated via the Open Science Framework",
+                "footer": "<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main|Open-Science-Student-Support-Group\/Main>",
+                "id": 1,
+                "author_link": "https:\/\/github.com\/GwenvdW",
+                "author_icon": "https:\/\/avatars1.githubusercontent.com\/u\/66083270?v=4",
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "color": "24292f",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "982C0764-C314-4CE0-83D5-EC4F6DDB09E9",
+        "type": "message",
+        "text": "I like the landing page! It looks good to me",
+        "user": "U01AA7U4UHY",
+        "ts": "1602179547.029600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6REV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I like the landing page! It looks good to me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602129126.028700",
+        "parent_user_id": "U01ANS83U3T"
+    },
+    {
+        "client_msg_id": "6c020737-650a-4555-ae46-f8f37e43755c",
+        "type": "message",
+        "text": "Heya! I remember us talking about how presentation recordings should be made on the presenter’s computer? Would that be through zoom or some other program? If not through zoom, I don’t really know how to do it, so some pointers would be much appreciated!",
+        "user": "U01AA7U2ECA",
+        "ts": "1602184553.030800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C5S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Heya! I remember us talking about how presentation recordings should be made on the presenter’s computer? Would that be through zoom or some other program? If not through zoom, I don’t really know how to do it, so some pointers would be much appreciated!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602184553.030800",
+        "reply_count": 7,
+        "reply_users_count": 5,
+        "latest_reply": "1602266225.035900",
+        "reply_users": [
+            "U01AGDAUB1S",
+            "U01AA7U4UHY",
+            "U01ABLH7DPY",
+            "U01ANS83U3T",
+            "U01AA7U2ECA"
+        ],
+        "replies": [
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1602184831.030900"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1602188267.032700"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1602190665.033400"
+            },
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1602199312.033700"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1602261439.035000"
+            },
+            {
+                "user": "U01ANS83U3T",
+                "ts": "1602261482.035700"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1602266225.035900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "021c4cf6-62da-4a31-aae3-64fb877d7dae",
+        "type": "message",
+        "text": "Hey, if you record on Zoom I think it will include the shared screen and then the participant videos on the left (It seems like it is just whatever order they are in). You can probably ask those who don't want their faces recorded to take off video. Not sure how to do it another way though!",
+        "user": "U01AGDAUB1S",
+        "ts": "1602184831.030900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RxXr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, if you record on Zoom I think it will include the shared screen and then the participant videos on the left (It seems like it is just whatever order they are in). You can probably ask those who don't want their faces recorded to take off video. Not sure how to do it another way though!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602184553.030800",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "867192D0-24B7-4A48-B97E-7FF9DF2C32A7",
+        "type": "message",
+        "text": "If you’re on mac you just use Quicktime to record your screen. PC you might need to download an application as the native screen recording is a bit janky (I think anyways)",
+        "user": "U01AA7U4UHY",
+        "ts": "1602188267.032700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vcL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you’re on mac you just use Quicktime to record your screen. PC you might need to download an application as the native screen recording is a bit janky (I think anyways)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602184553.030800",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "F5144FCE-A0AF-40A6-B744-50506E2D46E0",
+        "type": "message",
+        "text": "If you choose to record on zoom you can set it so only your own self-view is visible ",
+        "user": "U01ABLH7DPY",
+        "ts": "1602190665.033400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6iZm4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you choose to record on zoom you can set it so only your own self-view is visible "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602184553.030800",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "f38d1371-7b9c-40eb-a335-a1f7cefd73e9",
+        "type": "message",
+        "text": "Windows 10 also has built-in screen recording software, but I think <@U01ABLH7DPY> has the best solution because it will hopefully avoid or at least reduce the need to redact anyone's names or video from the recording. Not that doing that would be hard, but it would be much quicker if we could simply slap a watermark on the video and upload it to SharePoint or YouTube for long-term storage",
+        "user": "U01ANS83U3T",
+        "ts": "1602199312.033700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6nv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Windows 10 also has built-in screen recording software, but I think "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01ABLH7DPY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has the best solution because it will hopefully avoid or at least reduce the need to redact anyone's names or video from the recording. Not that doing that would be hard, but it would be much quicker if we could simply slap a watermark on the video and upload it to SharePoint or YouTube for long-term storage"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602184553.030800",
+        "parent_user_id": "U01AA7U2ECA"
+    }
+]

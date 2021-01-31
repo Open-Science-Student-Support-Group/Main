@@ -1,0 +1,94 @@
+[
+    {
+        "client_msg_id": "779C80DC-D59D-4EEE-97F2-21880E8AA003",
+        "type": "message",
+        "text": "<https:\/\/elifesciences.org\/labs\/f779833b\/python-for-the-practicing-neuroscientist-an-online-educational-resource|https:\/\/elifesciences.org\/labs\/f779833b\/python-for-the-practicing-neuroscientist-an-online-educational-resource> ",
+        "user": "U01AA7U4UHY",
+        "ts": "1606591515.000200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "eLife",
+                "title": "Python for the practicing neuroscientist: an online educational resource",
+                "title_link": "https:\/\/elifesciences.org\/labs\/f779833b\/python-for-the-practicing-neuroscientist-an-online-educational-resource",
+                "text": "Learn to analyze neural data using Python with this interactive, case study-based approach",
+                "fallback": "eLife: Python for the practicing neuroscientist: an online educational resource",
+                "image_url": "https:\/\/iiif.elifesciences.org\/journal-cms\/labs_experiment%2F2020-08%2Fmedicine-4764731_1920_0.jpg\/full\/full\/0\/default.jpg",
+                "image_width": 376,
+                "image_height": 250,
+                "from_url": "https:\/\/elifesciences.org\/labs\/f779833b\/python-for-the-practicing-neuroscientist-an-online-educational-resource",
+                "image_bytes": 604766,
+                "service_icon": "https:\/\/elifesciences.org\/assets\/favicons\/apple-touch-icon-57x57.1ab0c037.png",
+                "id": 1,
+                "original_url": "https:\/\/elifesciences.org\/labs\/f779833b\/python-for-the-practicing-neuroscientist-an-online-educational-resource"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "enzTR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/elifesciences.org\/labs\/f779833b\/python-for-the-practicing-neuroscientist-an-online-educational-resource",
+                                "text": "https:\/\/elifesciences.org\/labs\/f779833b\/python-for-the-practicing-neuroscientist-an-online-educational-resource"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606591515.000200",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1606864642.005200",
+        "reply_users": [
+            "U01A3HZ3R63",
+            "U01AA7U4UHY"
+        ],
+        "replies": [
+            {
+                "user": "U01A3HZ3R63",
+                "ts": "1606755936.000200"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1606756762.002900"
+            },
+            {
+                "user": "U01A3HZ3R63",
+                "ts": "1606864642.005200"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01A3HZ3R63"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

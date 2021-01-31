@@ -1,0 +1,146 @@
+[
+    {
+        "client_msg_id": "d2d980a6-34a2-4ddf-9ee5-97f5103a5656",
+        "type": "message",
+        "text": "Hey <!channel>!! Registrations for this week’s session are coming in (10 so far) - if you have the chance to send out some specific invites that would be great!",
+        "user": "U01ANS2G30R",
+        "ts": "1605719876.003400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2I1B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! Registrations for this week’s session are coming in (10 so far) - if you have the chance to send out some specific invites that would be great!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01BM8QUSTS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Hey everyone, remember to fill in this survey if you haven’t already! :)",
+        "user": "U01AADVMMJ7",
+        "ts": "1605749252.004300",
+        "thread_ts": "1605140326.028100",
+        "root": {
+            "client_msg_id": "0a8ff39c-85b2-47e6-89b5-97909de3ed82",
+            "type": "message",
+            "text": "Hi everyone, we've created a survey to see how everyone's role in the organization is going, and so that we can use this information to prepare for next semester. Please fill in the survey separately for each role you have in the organization. Thank you!\n\n<https:\/\/forms.gle\/kYCth4rqfiuu7j696>",
+            "user": "U01AADVMMJ7",
+            "ts": "1605140326.028100",
+            "team": "T01A754ECJZ",
+            "attachments": [
+                {
+                    "service_name": "Google Docs",
+                    "title": "OSSSG Organization Member Survey",
+                    "title_link": "https:\/\/forms.gle\/kYCth4rqfiuu7j696",
+                    "text": "This survey is to better understand what your experience as an organization member has been like. If you are part of more than one group and have more than one role, please fill a survey for each of the roles separately.",
+                    "fallback": "Google Docs: OSSSG Organization Member Survey",
+                    "image_url": "https:\/\/lh4.googleusercontent.com\/b0dw9nxJBCkPM7EwXJ1xUU2Xzot6bqW2raUwnMplpp9_nrEXRCb-TrniZXta29ob-XtOKRo",
+                    "image_width": 333,
+                    "image_height": 250,
+                    "from_url": "https:\/\/forms.gle\/kYCth4rqfiuu7j696",
+                    "image_bytes": 31926,
+                    "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                    "id": 1,
+                    "original_url": "https:\/\/forms.gle\/kYCth4rqfiuu7j696"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "HzpE",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hi everyone, we've created a survey to see how everyone's role in the organization is going, and so that we can use this information to prepare for next semester. Please fill in the survey separately for each role you have in the organization. Thank you!\n\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/forms.gle\/kYCth4rqfiuu7j696"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1605140326.028100",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1605749252.004300",
+            "reply_users": [
+                "U01AADVMMJ7"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wgi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone, remember to fill in this survey if you haven’t already! :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "AD07941A-1A91-4DB7-82BD-EB4086B5181F",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U01AA7U2ECA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "client_msg_id": "3f27112f-c7cf-47c5-b520-3c2c3c17e37b",
+        "type": "message",
+        "text": "Okay, we can definitely do that! <@U01ANS83U3T> <@U01AADVMMJ7> does meeting some time on Dec. 9-11 work for you?",
+        "user": "U01AA7U2ECA",
+        "ts": "1606235208.007100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vrc\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay, we can definitely do that! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01ANS83U3T"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01AADVMMJ7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " does meeting some time on Dec. 9-11 work for you?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606080709.006800",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "58eeed99-fb34-4e75-8dce-75d4c63e7866",
+        "type": "message",
+        "text": "Hi Gwen, yeah it does",
+        "user": "U01AADVMMJ7",
+        "ts": "1606252832.007300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "bc87ba7ccce1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-25\/1445402318902_bc87ba7ccce142957a62_72.png",
+            "first_name": "Jassleen",
+            "real_name": "Jassleen Parmar",
+            "display_name": "Jassleen Parmar",
+            "team": "T01A754ECJZ",
+            "name": "jassleen.parmar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r8VwS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Gwen, yeah it does"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606080709.006800",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "eb171846-848f-41b4-80f7-005961487887",
+        "type": "message",
+        "text": "Hey! The 615 final is on the 11th so Dec. 9th would be more preferable for me :3",
+        "user": "U01ANS83U3T",
+        "ts": "1606276741.007500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2ge",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey! The 615 final is on the 11th so Dec. 9th would be more preferable for me :3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606080709.006800",
+        "parent_user_id": "U01AA7U2ECA"
+    }
+]

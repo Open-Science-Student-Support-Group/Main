@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "876F2E54-3012-472B-A187-5EB392046D4F",
+        "type": "message",
+        "text": "Hey, yes! Sorry, I’ve been sick over the weekend so this flew out of my mind. I’ll post the first one first thing tomorrow and then the second one on Friday along with a week check in! :)",
+        "user": "U01AADVMMJ7",
+        "ts": "1604991378.001500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "bc87ba7ccce1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-25\/1445402318902_bc87ba7ccce142957a62_72.png",
+            "first_name": "Jassleen",
+            "real_name": "Jassleen Parmar",
+            "display_name": "Jassleen Parmar",
+            "team": "T01A754ECJZ",
+            "name": "jassleen.parmar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h9giF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, yes! Sorry, I’ve been sick over the weekend so this flew out of my mind. I’ll post the first one first thing tomorrow and then the second one on Friday along with a week check in! :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1604890064.001400",
+        "parent_user_id": "U01AA7U2ECA"
+    }
+]

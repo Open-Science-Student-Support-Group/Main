@@ -1,0 +1,59 @@
+[
+    {
+        "type": "message",
+        "text": "Here are the notes from today's meetings! Have a great break everyone!!!",
+        "files": [
+            {
+                "id": "F01HW8MJX4G",
+                "created": 1608240750,
+                "timestamp": 1608240750,
+                "name": "Meeting agendas & notes Dec 17 .docx",
+                "title": "Meeting agendas &amp; notes Dec 17 .docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U01AGDAUB1S",
+                "editable": false,
+                "size": 75559,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01HW8MJX4G\/meeting_agendas___notes_dec_17_.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01HW8MJX4G\/download\/meeting_agendas___notes_dec_17_.docx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01HW8MJX4G-8145a78f1b\/meeting_agendas___notes_dec_17__converted.pdf?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01HW8MJX4G-8145a78f1b\/meeting_agendas___notes_dec_17__thumb_pdf.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01AGDAUB1S\/F01HW8MJX4G\/meeting_agendas___notes_dec_17_.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01HW8MJX4G-646b047cd9",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wc2i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here are the notes from today's meetings! Have a great break everyone!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01AGDAUB1S",
+        "display_as_bot": false,
+        "ts": "1608240760.011000"
+    }
+]

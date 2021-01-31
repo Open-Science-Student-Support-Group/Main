@@ -1,0 +1,421 @@
+[
+    {
+        "client_msg_id": "be8dfbb8-fd19-4c1f-bd33-b48d7fd9b6da",
+        "type": "message",
+        "text": "Thanks Kaylee! He is home and resting and doing as well as can be expected! He does have a naked leg and an \"under construction\" cone, so he looks kinda goofy, but that's okay! :slightly_smiling_face:",
+        "user": "U01AGDAUB1S",
+        "ts": "1603646225.016600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QjZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Kaylee! He is home and resting and doing as well as can be expected! He does have a naked leg and an \"under construction\" cone, so he looks kinda goofy, but that's okay! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603481349.010100",
+        "parent_user_id": "U01AGDAUB1S",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01AKC8FU2H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Hi Everyone! I hope you’ve been having a great weekend :slightly_smiling_face: Here are the slides from the Project Workflow session with Dr. Morin-Lessard, for anyone who wants to follow up on the resources and challenges. A video will be available soon too!",
+        "files": [
+            {
+                "id": "F01DA3PGZH8",
+                "created": 1603667727,
+                "timestamp": 1603667727,
+                "name": "OSSSG - Project Workflow EML.pptx",
+                "title": "OSSSG - Project Workflow EML.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "U01ANS2G30R",
+                "editable": false,
+                "size": 2261955,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01DA3PGZH8\/osssg_-_project_workflow_eml.pptx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01DA3PGZH8\/download\/osssg_-_project_workflow_eml.pptx?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01DA3PGZH8-35ff37de1a\/osssg_-_project_workflow_eml_converted.pdf?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01DA3PGZH8-35ff37de1a\/osssg_-_project_workflow_eml_thumb_pdf.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01ANS2G30R\/F01DA3PGZH8\/osssg_-_project_workflow_eml.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01DA3PGZH8-522b4e3607",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NnNn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Everyone! I hope you’ve been having a great weekend "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Here are the slides from the Project Workflow session with Dr. Morin-Lessard, for anyone who wants to follow up on the resources and challenges. A video will be available soon too!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01ANS2G30R",
+        "display_as_bot": false,
+        "ts": "1603667771.019000",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U01AADVMMJ7"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U01AGDAUB1S",
+                    "U01ABLH7DPY"
+                ],
+                "count": 2
+            },
+            {
+                "name": "blush",
+                "users": [
+                    "U01AA7U2ECA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5e015e47-6deb-470d-85db-87a37784563a",
+        "type": "message",
+        "text": "Thanks for attending the Project Workflow Session everyone! After attending the session, what is one method of project workflow you wish was discussed more, or that you knew more about?",
+        "user": "U01AADVMMJ7",
+        "ts": "1603668018.020600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "bc87ba7ccce1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-25\/1445402318902_bc87ba7ccce142957a62_72.png",
+            "first_name": "Jassleen",
+            "real_name": "Jassleen Parmar",
+            "display_name": "Jassleen Parmar",
+            "team": "T01A754ECJZ",
+            "name": "jassleen.parmar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hgJo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for attending the Project Workflow Session everyone! After attending the session, what is one method of project workflow you wish was discussed more, or that you knew more about?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603668018.020600",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1603732496.034800",
+        "reply_users": [
+            "U01AADVMMJ7",
+            "U01ANS2G30R",
+            "U01AA7U4UHY",
+            "U01AA7U2ECA"
+        ],
+        "replies": [
+            {
+                "user": "U01AADVMMJ7",
+                "ts": "1603668184.020700"
+            },
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1603668639.020900"
+            },
+            {
+                "user": "U01AADVMMJ7",
+                "ts": "1603669158.021100"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1603670389.026000"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1603730747.026600"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1603732496.034800"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1603732496.034800",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U01AA7U2ECA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e2284ffd-70d8-436d-883c-17309e9d505a",
+        "type": "message",
+        "text": "I personally wish I knew more about decision-tracking platforms, as mentioned by many others. Since it could help with knowing why certain decisions were made and what each data-cleaning entry consists of, making it easier to go back.",
+        "user": "U01AADVMMJ7",
+        "ts": "1603668184.020700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "bc87ba7ccce1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-25\/1445402318902_bc87ba7ccce142957a62_72.png",
+            "first_name": "Jassleen",
+            "real_name": "Jassleen Parmar",
+            "display_name": "Jassleen Parmar",
+            "team": "T01A754ECJZ",
+            "name": "jassleen.parmar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PNL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I personally wish I knew more about decision-tracking platforms, as mentioned by many others. Since it could help with knowing why certain decisions were made and what each data-cleaning entry consists of, making it easier to go back."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603668018.020600",
+        "parent_user_id": "U01AADVMMJ7"
+    },
+    {
+        "client_msg_id": "a870cf6e-6bc2-4d8f-a8fb-386cca124fdb",
+        "type": "message",
+        "text": "I also found the question of different kinds of organizational tools came up in conversation. Things like note-taking apps, task managers, reference tools, etc. It’s interesting to hear the approaches that others use, what they’ve tried that works and what hasn’t worked!",
+        "user": "U01ANS2G30R",
+        "ts": "1603668639.020900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eDiSM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I also found the question of different kinds of organizational tools came up in conversation. Things like note-taking apps, task managers, reference tools, etc. It’s interesting to hear the approaches that others use, what they’ve tried that works and what hasn’t worked!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603668018.020600",
+        "parent_user_id": "U01AADVMMJ7"
+    },
+    {
+        "client_msg_id": "afbde225-c3db-46b8-a82b-ab8dd184beb5",
+        "type": "message",
+        "text": "<@U01ANS2G30R> Yes! Especially with note-taking. It's funny to know a great majority of the people who attended just use the default IPhone note-taking app for their work even after admitting it's not good. That app is definitely one reason why I'm always lost :sweat_smile:",
+        "user": "U01AADVMMJ7",
+        "ts": "1603669158.021100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "bc87ba7ccce1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-25\/1445402318902_bc87ba7ccce142957a62_72.png",
+            "first_name": "Jassleen",
+            "real_name": "Jassleen Parmar",
+            "display_name": "Jassleen Parmar",
+            "team": "T01A754ECJZ",
+            "name": "jassleen.parmar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P4EqA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01ANS2G30R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Yes! Especially with note-taking. It's funny to know a great majority of the people who attended just use the default IPhone note-taking app for their work even after admitting it's not good. That app is definitely one reason why I'm always lost "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603668018.020600",
+        "parent_user_id": "U01AADVMMJ7",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U01AA7U2ECA",
+                    "U01ABLH7DPY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C1CAD34E-D860-4613-A6A0-ED08E4624A2E",
+        "type": "message",
+        "text": "Building off the idea of project workflow in collaborative situations, I would like to know more about how to document a workflow so that others can pick it up as easily as possible. Once you’re accustomed to something it becomes intuitive to you, but someone new to it might have no clue what any of it is about and will still need you to explain it despite documentation. Thinking about our GitHub\/Trello presentation here :sweat_smile:",
+        "user": "U01AA7U4UHY",
+        "ts": "1603670389.026000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X8U8U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Building off the idea of project workflow in collaborative situations, I would like to know more about how to document a workflow so that others can pick it up as easily as possible. Once you’re accustomed to something it becomes intuitive to you, but someone new to it might have no clue what any of it is about and will still need you to explain it despite documentation. Thinking about our GitHub\/Trello presentation here "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1603668018.020600",
+        "parent_user_id": "U01AADVMMJ7",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "U01ANS2G30R",
+                    "U01AADVMMJ7"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

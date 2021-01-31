@@ -1,0 +1,97 @@
+[
+    {
+        "client_msg_id": "a5db1280-6000-40c2-a4ed-923acee208d2",
+        "type": "message",
+        "text": "A timely example of open-data use: an open-source scraper tabulating vote changes in key battleground states: <https:\/\/alex.github.io\/nyt-2020-election-scraper\/battleground-state-changes.html?fbclid=IwAR3aWMBY1I9pk42fwmvs7ZoSQuiYSeUsX1Wc4jWILzXBC8_T3lDhAUDET7k>",
+        "user": "U01ANS2G30R",
+        "ts": "1604693958.017800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "ANN Election Data",
+                "title_link": "https:\/\/alex.github.io\/nyt-2020-election-scraper\/battleground-state-changes.html?fbclid=IwAR3aWMBY1I9pk42fwmvs7ZoSQuiYSeUsX1Wc4jWILzXBC8_T3lDhAUDET7k",
+                "text": "Battleground state changes, updated every five minutes using NYT data.",
+                "fallback": "ANN Election Data",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/772?s=400&u=7c00c7c8ac3691da556d7686e16ff08b797d4a38&v=4",
+                "from_url": "https:\/\/alex.github.io\/nyt-2020-election-scraper\/battleground-state-changes.html?fbclid=IwAR3aWMBY1I9pk42fwmvs7ZoSQuiYSeUsX1Wc4jWILzXBC8_T3lDhAUDET7k",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_name": "alex.github.io",
+                "id": 1,
+                "original_url": "https:\/\/alex.github.io\/nyt-2020-election-scraper\/battleground-state-changes.html?fbclid=IwAR3aWMBY1I9pk42fwmvs7ZoSQuiYSeUsX1Wc4jWILzXBC8_T3lDhAUDET7k"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U=hR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A timely example of open-data use: an open-source scraper tabulating vote changes in key battleground states: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/alex.github.io\/nyt-2020-election-scraper\/battleground-state-changes.html?fbclid=IwAR3aWMBY1I9pk42fwmvs7ZoSQuiYSeUsX1Wc4jWILzXBC8_T3lDhAUDET7k"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E7662495-078A-4138-B8BC-B7E4626D9C50",
+        "type": "message",
+        "text": "An interesting topic that arose in our breakout room: Does anyone have concerns about making their data open, then having your own research get scooped by another researcher?",
+        "user": "U01AA7U4UHY",
+        "ts": "1604709512.020100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PUU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "An interesting topic that arose in our breakout room: Does anyone have concerns about making their data open, then having your own research get scooped by another researcher?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

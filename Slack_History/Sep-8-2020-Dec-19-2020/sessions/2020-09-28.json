@@ -1,0 +1,934 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1601302562.000200",
+        "user": "U01AA7U2ECA",
+        "text": "<@U01AA7U2ECA> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1601302581.000400",
+        "user": "U01ANS2G30R",
+        "text": "<@U01ANS2G30R> has joined the channel",
+        "inviter": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1601302581.000600",
+        "user": "U01ABLH7DPY",
+        "text": "<@U01ABLH7DPY> has joined the channel",
+        "inviter": "U01AA7U2ECA"
+    },
+    {
+        "type": "message",
+        "text": "Hi <@U01ABLH7DPY> <@U01ANS2G30R>! I forgot to send you the results of the poll on the topics! Here it is though :slightly_smiling_face:",
+        "files": [
+            {
+                "id": "F01BJ06EYBU",
+                "created": 1601302765,
+                "timestamp": 1601302765,
+                "name": "Screen Shot 2020-09-28 at 8.16.58 AM.png",
+                "title": "Screen Shot 2020-09-28 at 8.16.58 AM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01AA7U2ECA",
+                "editable": false,
+                "size": 109072,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01BJ06EYBU\/screen_shot_2020-09-28_at_8.16.58_am.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T01A754ECJZ-F01BJ06EYBU\/download\/screen_shot_2020-09-28_at_8.16.58_am.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BJ06EYBU-d8e7939256\/screen_shot_2020-09-28_at_8.16.58_am_64.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BJ06EYBU-d8e7939256\/screen_shot_2020-09-28_at_8.16.58_am_80.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BJ06EYBU-d8e7939256\/screen_shot_2020-09-28_at_8.16.58_am_360.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_360_w": 360,
+                "thumb_360_h": 227,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BJ06EYBU-d8e7939256\/screen_shot_2020-09-28_at_8.16.58_am_480.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_480_w": 480,
+                "thumb_480_h": 302,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BJ06EYBU-d8e7939256\/screen_shot_2020-09-28_at_8.16.58_am_160.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BJ06EYBU-d8e7939256\/screen_shot_2020-09-28_at_8.16.58_am_720.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_720_w": 720,
+                "thumb_720_h": 453,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BJ06EYBU-d8e7939256\/screen_shot_2020-09-28_at_8.16.58_am_800.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_800_w": 800,
+                "thumb_800_h": 503,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BJ06EYBU-d8e7939256\/screen_shot_2020-09-28_at_8.16.58_am_960.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_960_w": 960,
+                "thumb_960_h": 604,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T01A754ECJZ-F01BJ06EYBU-d8e7939256\/screen_shot_2020-09-28_at_8.16.58_am_1024.png?t=xoxe-1347174488645-1612442201312-1573826913015-453545d9d1a501a4e497d7cb3f5eacde",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 644,
+                "original_w": 1289,
+                "original_h": 811,
+                "thumb_tiny": "AwAeADDSzTdw5604VH6jHNJuwD8gUdT0NAz3pOO+RQA7FJ07Gl70ZHrTAQdabnqAMfjTxUZFSwH45BzTRycU+mqPmNNgONHXtRRTA\/\/Z",
+                "permalink": "https:\/\/opensciencest-4fn7856.slack.com\/files\/U01AA7U2ECA\/F01BJ06EYBU\/screen_shot_2020-09-28_at_8.16.58_am.png",
+                "permalink_public": "https:\/\/slack-files.com\/T01A754ECJZ-F01BJ06EYBU-b844c90065",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VnO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01ABLH7DPY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01ANS2G30R"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I forgot to send you the results of the poll on the topics! Here it is though "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01AA7U2ECA",
+        "display_as_bot": false,
+        "ts": "1601302769.001400"
+    },
+    {
+        "client_msg_id": "c406cb8e-9d9a-4780-a0b9-03fa9f516f47",
+        "type": "message",
+        "text": "Could you create a proposal for which four topics (and in which order) you think would be best for the Fall semester? I think it would be great if you could propose it at the next core team meeting so we can discuss with the rest and make any final adjustments, if needed :slightly_smiling_face:",
+        "user": "U01AA7U2ECA",
+        "ts": "1601302945.003600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FnTie",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Could you create a proposal for which four topics (and in which order) you think would be best for the Fall semester? I think it would be great if you could propose it at the next core team meeting so we can discuss with the rest and make any final adjustments, if needed "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "589ebb03-b54e-4422-93dc-cb59e557168e",
+        "type": "message",
+        "text": "Just in case you didn’t see Michael’s comments, you might want to keep them in mind too: “_I think licensing and copyright could be rolled into data sharing\/ethics as well as research dissemination._\n\n_And reference managers could be tied into project workflow._\n\n_Talking to your supervisor might be good to tie into the first session (maybe as part of the discussion and as a challenge)—it’s important, but I don’t know if it needs its own session, and I think it’d be nice to bring it up as early as possible._\n\n_So I guess my main point here is we should use the poll to inform our decisions, but not let it make the decisions for us, especially since we’ll only have 4-5 (?) sessions in the fall._”",
+        "user": "U01AA7U2ECA",
+        "ts": "1601303014.004600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L6NrL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just in case you didn’t see Michael’s comments, you might want to keep them in mind too: “"
+                            },
+                            {
+                                "type": "text",
+                                "text": "I think licensing and copyright could be rolled into data sharing\/ethics as well as research dissemination.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "And reference managers could be tied into project workflow.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Talking to your supervisor might be good to tie into the first session (maybe as part of the discussion and as a challenge)—it’s important, but I don’t know if it needs its own session, and I think it’d be nice to bring it up as early as possible.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "So I guess my main point here is we should use the poll to inform our decisions, but not let it make the decisions for us, especially since we’ll only have 4-5 (?) sessions in the fall.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "db4e83c4-62e7-428b-8414-cb6080e0e0e0",
+        "type": "message",
+        "text": "Sounds good - thanks for the update! Chelsea, we can email or DM on Slack to discuss further, if that works for you?!",
+        "user": "U01ANS2G30R",
+        "ts": "1601308000.005200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GrNz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds good - thanks for the update! Chelsea, we can email or DM on Slack to discuss further, if that works for you?!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "52dbde62-f364-4576-a40d-10acf2a5cdf1",
+        "type": "message",
+        "text": "I created this channel for communication on session prep, so feel free to use this as well to discuss :wink:",
+        "user": "U01AA7U2ECA",
+        "ts": "1601308141.005800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=EZIE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I created this channel for communication on session prep, so feel free to use this as well to discuss "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01ANS2G30R"
+                ],
+                "count": 1
+            },
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U01ANS2G30R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3A416CCD-D814-45DD-A8E2-99398B91AF4F",
+        "type": "message",
+        "text": "Yeah we can totally discuss on slack Emiko, if that’s okay with you! Looks like there are four clear topics, and that they are relevant to the beginning Of the research pipeline like we wanted. ",
+        "user": "U01ABLH7DPY",
+        "ts": "1601316928.007700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lZXz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah we can totally discuss on slack Emiko, if that’s okay with you! Looks like there are four clear topics, and that they are relevant to the beginning Of the research pipeline like we wanted. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A5C09A98-2E71-4662-9EDD-2C3FFCC18F0A",
+        "type": "message",
+        "text": "In my opinion, talking to your supervisor would be too much to fit in the intro session like Michael suggested. But it could maybe be subsumed in a session about barriers to practicing open science as a student, and overcoming those barriers - maybe for session 2? ",
+        "user": "U01ABLH7DPY",
+        "ts": "1601317007.009400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Pj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In my opinion, talking to your supervisor would be too much to fit in the intro session like Michael suggested. But it could maybe be subsumed in a session about barriers to practicing open science as a student, and overcoming those barriers - maybe for session 2? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DA30119B-873B-4FAC-86DC-0B3FE8A8FAA0",
+        "type": "message",
+        "text": "Also thanks for making this channel Gwen - so convenient ",
+        "user": "U01ABLH7DPY",
+        "ts": "1601317033.009800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bHf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also thanks for making this channel Gwen - so convenient "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "052048cf-baab-4796-bea1-0fa20b95ae9b",
+        "type": "message",
+        "text": "I agree that talking to your supervisor would be a lot for the first session. I think that the discussion questions and challenges that Gwen has laid out for the first session provide a lot for conversation, and I think it would be tight to try to squeeze discussing with your supervisor in there. I wonder if addressing open science practices with your supervisor could actually run across all session threads? So much of the beginning of the research pipeline is work you would be presenting to your supervisor\/committee for feedback and approval, so I think that we can discuss how to present each element to your supervisor?",
+        "user": "U01ANS2G30R",
+        "ts": "1601317239.012300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IOH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree that talking to your supervisor would be a lot for the first session. I think that the discussion questions and challenges that Gwen has laid out for the first session provide a lot for conversation, and I think it would be tight to try to squeeze discussing with your supervisor in there. I wonder if addressing open science practices with your supervisor could actually run across all session threads? So much of the beginning of the research pipeline is work you would be presenting to your supervisor\/committee for feedback and approval, so I think that we can discuss how to present each element to your supervisor?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3fd7e1cf-8165-4fd5-9a4f-e41b635da478",
+        "type": "message",
+        "text": "I think a barriers to open science session would be nice - and it would bring in some of “dark side of open science” content for people to be aware of. That might make a good fourth session alongside the introduction, pre-registration, project workflow, and data planning\/sharing\/ethics.",
+        "user": "U01ANS2G30R",
+        "ts": "1601317351.013700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e+r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think a barriers to open science session would be nice - and it would bring in some of “dark side of open science” content for people to be aware of. That might make a good fourth session alongside the introduction, pre-registration, project workflow, and data planning\/sharing\/ethics."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d371a6b6-f556-4d79-83ca-60b8a68c1def",
+        "type": "message",
+        "text": "Although it would be nice to think of a more positive spin for the title\/content of a barriers session :slightly_smiling_face:",
+        "user": "U01ANS2G30R",
+        "ts": "1601317387.014400",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VVt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Although it would be nice to think of a more positive spin for the title\/content of a barriers session "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2BCF74D7-B74D-4CA0-82F6-7510FDB981D4",
+        "type": "message",
+        "text": "Great I like that idea a lot, of talking about the supervisor piece throughout. Maybe as of session 2 though, so people can go out and have those experiences with the challenges after session without the expectation that their supervisors will be against it - and gives something to discuss the next time in terms of how things went. ",
+        "user": "U01ABLH7DPY",
+        "ts": "1601332160.016700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mDRM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great I like that idea a lot, of talking about the supervisor piece throughout. Maybe as of session 2 though, so people can go out and have those experiences with the challenges after session without the expectation that their supervisors will be against it - and gives something to discuss the next time in terms of how things went. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C3FDE4E7-2229-4B47-9995-D8306B70E28B",
+        "type": "message",
+        "text": "Maybe the barriers session could be named like “troubleshooting open science” or something like that. Then it fits nicely at the end of the semester because we can summarize some of the barriers identified throughout the semesters discussions, and provide concrete support for how to go about continuing to implement all the techniques that were presented over the semester ",
+        "user": "U01ABLH7DPY",
+        "ts": "1601332261.019100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tgt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe the barriers session could be named like “troubleshooting open science” or something like that. Then it fits nicely at the end of the semester because we can summarize some of the barriers identified throughout the semesters discussions, and provide concrete support for how to go about continuing to implement all the techniques that were presented over the semester "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bf47b307-fd6d-4a86-b0d9-ff5c9aa0cf84",
+        "type": "message",
+        "text": "I think putting the barriers\/troubleshooting session at the end would work really well! So if we have intro and troubleshooting as the bookends for the semester, we just need to choose the order for the middle 2 - 3 sessions. I’d suggest the following order:\n\n1. Intro to Open Science\n2. Project Workflow OR Data Sharing\/Ethics\n3. Project Workflow OR Data Sharing\/Ethics\n4. Pre-registration\n5. Troubleshooting Open Science",
+        "user": "U01ANS2G30R",
+        "ts": "1601332485.021300",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01ANS2G30R",
+            "ts": "1601332544.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TZn4N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think putting the barriers\/troubleshooting session at the end would work really well! So if we have intro and troubleshooting as the bookends for the semester, we just need to choose the order for the middle 2 - 3 sessions. I’d suggest the following order:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Intro to Open Science"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Project Workflow OR Data Sharing\/Ethics"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Project Workflow OR Data Sharing\/Ethics"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Pre-registration"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Troubleshooting Open Science"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1ac331d0-8eb6-4895-a6c8-b857cc1dd86f",
+        "type": "message",
+        "text": "It seems like project workflow and data sharing\/ethics should go very early on in the planning process, since pre-registration can happen anytime before data analysis (unless you’re talking registered reports). But I don’t feel strongly one way or another about which of those two would be better as the second session. What do you think?",
+        "user": "U01ANS2G30R",
+        "ts": "1601332635.023100",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/LXm9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It seems like project workflow and data sharing\/ethics should go very early on in the planning process, since pre-registration can happen anytime before data analysis (unless you’re talking registered reports). But I don’t feel strongly one way or another about which of those two would be better as the second session. What do you think?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FA943B14-678B-404D-B522-625D2BA2BA4B",
+        "type": "message",
+        "text": "Yes I agree that those two topics should come before pre-reg. ",
+        "user": "U01ABLH7DPY",
+        "ts": "1601333492.023700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qP4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes I agree that those two topics should come before pre-reg. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E5AC90D3-2D27-4CB0-8D14-CD1691474B98",
+        "type": "message",
+        "text": "I don’t have a strong preference either but In my mind project workflow might be best for session 2? Since part of the workflow is to have reproducible code that will be posted with the data. P",
+        "user": "U01ABLH7DPY",
+        "ts": "1601333535.024900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/L0k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don’t have a strong preference either but In my mind project workflow might be best for session 2? Since part of the workflow is to have reproducible code that will be posted with the data. P"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4943e691-d11b-4acb-a75d-5f867172af51",
+        "type": "message",
+        "text": "Sure! Makes sense to me. So we can bring this outline for the semester to Friday’s meeting, and then we can ask for presenter suggestions for each session?",
+        "user": "U01ANS2G30R",
+        "ts": "1601333665.025700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "fd1605476f37",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404460718194_fd1605476f378bda1293_72.jpg",
+            "first_name": "ejmuraki",
+            "real_name": "ejmuraki",
+            "display_name": "Emiko",
+            "team": "T01A754ECJZ",
+            "name": "ejmuraki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wpqxu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure! Makes sense to me. So we can bring this outline for the semester to Friday’s meeting, and then we can ask for presenter suggestions for each session?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C8B03AC5-2BA1-42C1-8A86-2EECB77C21F8",
+        "type": "message",
+        "text": "Yep that works with me! ",
+        "user": "U01ABLH7DPY",
+        "ts": "1601352466.025900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "322acb057e26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1404760469347_322acb057e262fc5125b_72.png",
+            "first_name": "Chelsea",
+            "real_name": "Chelsea Moran",
+            "display_name": "Chelsea Moran",
+            "team": "T01A754ECJZ",
+            "name": "chelsea.moran1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xK=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yep that works with me! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "client_msg_id": "689bb4a8-4a89-4cee-892d-3546101d43a4",
+        "type": "message",
+        "text": "Hi <!everyone>, how are we doing in the penultimate week of classes? At this point, my focus is on a spirited sorrel drink, December 25th and the *5th and final OSSSG session of the semester!* \n\nIf you're interested in joining us in our session this Friday, you're still able to register using the link above. Hoping to see you there @4pm.",
+        "user": "U01BM8QUSTS",
+        "ts": "1606954619.019800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "01c8086c20a1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-16\/1434346692659_01c8086c20a1bbd0c488_72.png",
+            "first_name": "",
+            "real_name": "Jenelle Morgan",
+            "display_name": "Jenelle Morgan",
+            "team": "T01A754ECJZ",
+            "name": "jenelle.morgan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tRB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", how are we doing in the penultimate week of classes? At this point, my focus is on a spirited sorrel drink, December 25th and the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "5th and final OSSSG session of the semester! ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nIf you're interested in joining us in our session this Friday, you're still able to register using the link above. Hoping to see you there @4pm."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606954619.019800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1607097450.020200",
+        "reply_users": [
+            "U01AGDAUB1S",
+            "U01ABLH7DPY"
+        ],
+        "replies": [
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1607024918.020000"
+            },
+            {
+                "user": "U01ABLH7DPY",
+                "ts": "1607097450.020200"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U01AA7U2ECA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

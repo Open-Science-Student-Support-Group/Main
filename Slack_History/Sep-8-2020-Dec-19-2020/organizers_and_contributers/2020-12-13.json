@@ -1,0 +1,39 @@
+[
+    {
+        "bot_id": "B01AGKD04SY",
+        "type": "message",
+        "text": "",
+        "user": "U01AP2WAHGR",
+        "ts": "1607899625.007500",
+        "team": "T01A754ECJZ",
+        "bot_profile": {
+            "id": "B01AGKD04SY",
+            "deleted": false,
+            "name": "GitHub",
+            "updated": 1599596265,
+            "app_id": "A8GBNUWU8",
+            "icons": {
+                "image_36": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-12-19\/288981919427_f45f04edd92902a96859_36.png",
+                "image_48": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-12-19\/288981919427_f45f04edd92902a96859_48.png",
+                "image_72": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-12-19\/288981919427_f45f04edd92902a96859_72.png"
+            },
+            "team_id": "T01A754ECJZ"
+        },
+        "attachments": [
+            {
+                "author_name": "GwenvdW",
+                "fallback": "[Open-Science-Student-Support-Group\/Main] <https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/compare\/06a609c5d3a3...4583c9955ac3|1 new commit> pushed to <https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/tree\/master|`master`>",
+                "text": "*<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/compare\/06a609c5d3a3...4583c9955ac3|1 new commit> pushed to <https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/tree\/master|`master`>*\n<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/commit\/4583c9955ac3aae7a0ce9d35bb90f3217d5765f3|`4583c995`> - Updated via the Open Science Framework",
+                "footer": "<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main|Open-Science-Student-Support-Group\/Main>",
+                "id": 1,
+                "author_link": "https:\/\/github.com\/GwenvdW",
+                "author_icon": "https:\/\/avatars1.githubusercontent.com\/u\/66083270?v=4",
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "color": "24292f",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

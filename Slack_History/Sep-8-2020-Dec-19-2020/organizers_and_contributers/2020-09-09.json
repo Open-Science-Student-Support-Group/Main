@@ -1,0 +1,327 @@
+[
+    {
+        "client_msg_id": "b4b321c3-92b9-4bb2-98f3-dd31583c3671",
+        "type": "message",
+        "text": "<!channel> I checked the schedule of grad classes (and the honours thesis seminar) and the only gaps I’m seeing are on Monday between 12-2pm, Tuesday 12-2pm, Thursday 12-2pm and 4-6pm, and Friday 4-6pm, and created a doodle poll with these times only: <https:\/\/doodle.com\/poll\/2bcm4yabckdciyrf>. I’m planning to finish a blurb to go with it to send out to the department this afternoon! Has anyone heard back from (more) I\/O, clinical students or anyone else you reached out to?",
+        "user": "U01AA7U2ECA",
+        "ts": "1599674539.016200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Doodle: Open Science Student Support Group - round 2",
+                "title_link": "https:\/\/doodle.com\/poll\/2bcm4yabckdciyrf",
+                "text": "Doodle is the simplest way to schedule meetings with clients, colleagues, or friends. Find the best time for one-to-ones and team meetings with our user-friendly calendar tool. Get started today!",
+                "fallback": "Doodle: Open Science Student Support Group - round 2",
+                "image_url": "https:\/\/doodle.com\/graphics\/static\/facebookSharingThumbnail.png",
+                "from_url": "https:\/\/doodle.com\/poll\/2bcm4yabckdciyrf",
+                "image_width": 300,
+                "image_height": 200,
+                "image_bytes": 6864,
+                "service_icon": "https:\/\/cdn2.doodle.com\/dist\/i\/7479b568749fca315a2969e30cbee4f5.png",
+                "service_name": "doodle.com",
+                "id": 1,
+                "original_url": "https:\/\/doodle.com\/poll\/2bcm4yabckdciyrf"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tB8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I checked the schedule of grad classes (and the honours thesis seminar) and the only gaps I’m seeing are on Monday between 12-2pm, Tuesday 12-2pm, Thursday 12-2pm and 4-6pm, and Friday 4-6pm, and created a doodle poll with these times only: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/doodle.com\/poll\/2bcm4yabckdciyrf"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I’m planning to finish a blurb to go with it to send out to the department this afternoon! Has anyone heard back from (more) I\/O, clinical students or anyone else you reached out to?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01AA7U4UHY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7239219c-bb0d-4e69-b3d2-60df5a945d11",
+        "type": "message",
+        "text": "How’s this for a blurb to send out to all grad and honours students in the department of Psychology?\n“Open science practices aim to make science more transparent, reproducible, accessible and overall more rigorous and credible. Despite the inherent appeal of open science, it can be challenging to implement these practices into our everyday work as students. But everything is easier when we do it together! Therefore we are starting a student support group to learn more about open science practices, and support each other in implementing these practices and the struggles of grad school in general. We’ll have biweekly sessions with brief introductions on different open science practices, such as reproducible workflows, transparent writing and preregistration, practical challenges of different difficulty levels to get students started with these practices, and plenty of time to share difficulties and best practices. If this is something you would be interested in joining, please fill out <https:\/\/doodle.com\/poll\/2bcm4yabckdciyrf|this doodle poll> according to your availability in a typical week by *Tuesday night (Sept 15)*, and <https:\/\/join.slack.com\/t\/opensciencest-4fn7856\/shared_invite\/zt-h57ix65y-5yrXCVyah0gQSPhbHHRstA|join our slack channel>. More information about specific sessions will also be promoted through the Monday Memo from the end of September. If you have any questions, would like to know more or are interested in becoming involved with developing and organizing this group, contact Gwen at <mailto:gwen.vanderwijk@ucalgary.ca|gwen.vanderwijk@ucalgary.ca>.”",
+        "user": "U01AA7U2ECA",
+        "ts": "1599677953.018000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01AA7U2ECA",
+            "ts": "1599681522.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Slack",
+                "title": "Create Account",
+                "title_link": "https:\/\/join.slack.com\/t\/opensciencest-4fn7856\/shared_invite\/zt-h57ix65y-5yrXCVyah0gQSPhbHHRstA",
+                "text": "Slack is where work flows. It's where the people you need, the information you share, and the tools you use come together to get things done.",
+                "fallback": "Slack: Create Account",
+                "image_url": "https:\/\/a.slack-edge.com\/80588\/marketing\/img\/meta\/slack_hash_256.png",
+                "from_url": "https:\/\/join.slack.com\/t\/opensciencest-4fn7856\/shared_invite\/zt-h57ix65y-5yrXCVyah0gQSPhbHHRstA",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 5253,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/marketing\/img\/meta\/favicon-32.png",
+                "id": 2,
+                "original_url": "https:\/\/join.slack.com\/t\/opensciencest-4fn7856\/shared_invite\/zt-h57ix65y-5yrXCVyah0gQSPhbHHRstA"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PaqmH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How’s this for a blurb to send out to all grad and honours students in the department of Psychology?\n“Open science practices aim to make science more transparent, reproducible, accessible and overall more rigorous and credible. Despite the inherent appeal of open science, it can be challenging to implement these practices into our everyday work as students. But everything is easier when we do it together! Therefore we are starting a student support group to learn more about open science practices, and support each other in implementing these practices and the struggles of grad school in general. We’ll have biweekly sessions with brief introductions on different open science practices, such as reproducible workflows, transparent writing and preregistration, practical challenges of different difficulty levels to get students started with these practices, and plenty of time to share difficulties and best practices. If this is something you would be interested in joining, please fill out "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/doodle.com\/poll\/2bcm4yabckdciyrf",
+                                "text": "this doodle poll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " according to your availability in a typical week by "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Tuesday night (Sept 15)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", and "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/join.slack.com\/t\/opensciencest-4fn7856\/shared_invite\/zt-h57ix65y-5yrXCVyah0gQSPhbHHRstA",
+                                "text": "join our slack channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". More information about specific sessions will also be promoted through the Monday Memo from the end of September. If you have any questions, would like to know more or are interested in becoming involved with developing and organizing this group, contact Gwen at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:gwen.vanderwijk@ucalgary.ca",
+                                "text": "gwen.vanderwijk@ucalgary.ca"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599677953.018000",
+        "reply_count": 13,
+        "reply_users_count": 6,
+        "latest_reply": "1599793015.040500",
+        "reply_users": [
+            "U01AA7U4UHY",
+            "U01ANS2G30R",
+            "U01AA7U2ECA",
+            "U01AGDAUB1S",
+            "U01AAS88P0B",
+            "U01AADVMMJ7"
+        ],
+        "replies": [
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1599682580.019200"
+            },
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1599752011.019500"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1599754265.019700"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1599754291.019900"
+            },
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1599754383.020200"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1599754436.020500"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1599754496.021500"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1599754568.022900"
+            },
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1599775537.033800"
+            },
+            {
+                "user": "U01AAS88P0B",
+                "ts": "1599779636.034800"
+            },
+            {
+                "user": "U01AADVMMJ7",
+                "ts": "1599790244.038300"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1599790278.038500"
+            },
+            {
+                "user": "U01AA7U4UHY",
+                "ts": "1599793015.040500"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1599793015.040500"
+    },
+    {
+        "client_msg_id": "C1513D75-D204-4EEB-8A1B-5A7EA123BDD0",
+        "type": "message",
+        "text": "Some edits (it could probably still be refined more as it’s a bit too long, imo):\n\n\nGreetings from the UCalgary’s Open Science Student Support Group, \n\nOn behalf of the Open Science Student Support Group, I would like to invite you to attend our first biweekly Open Science Support Session taking place early in October.\n\nWhat is Open Science?\n\nOpen science aims to make science more transparent, reproducible, accessible, rigorous, and credible, by leveraging modern technologies and challenging traditional scholarly norms. Open science is science for the 21st Century!\n\nYou can learn more about open science and how it applies to your work here: <https:\/\/psyarxiv.com\/vzjdp\/|https:\/\/psyarxiv.com\/vzjdp\/>\n\nWhat is the Open Science Student Support Group?\n\nDespite the scientific, professional, and organizational benefits of open science, it can be challenging to implement open science practices into our everyday work as students. Many students don’t know where to begin and have not been taught about open science practices in their courses.\n\nTherefore, we are starting a student support group to learn more about open science practices, and support each other in implementing these practices and the struggles of grad school in general. We’ll have biweekly sessions with brief introductions on different open science practices, such as reproducible workflows, transparent writing and preregistration, practical challenges of different difficulty levels to get students started with these practices, and plenty of time to share difficulties and best practices.\n\nHow do I join the Open Science Student Support Group?\n\nIf you are interested in joining the Open Science Student Support Group, please:\n\n1. Join our slack channel ***ADD INVITATION LINK HERE LATER***\n2. Complete this doodle poll, indicating your availability in a typical week ***ADD POLL LINK HERE LATER***\n\nMore information about specific sessions will also be promoted through the Monday Memo from the end of September.\n\nIf you have any questions, or would like to be involved in developing and organizing this group, please contact Gwen van der Wijk at <mailto:gwen.vanderwijk@ucalgary.ca|gwen.vanderwijk@ucalgary.ca>.\n\nBest regards,\nGwen van der Wijk",
+        "user": "U01AA7U4UHY",
+        "ts": "1599682580.019200",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "PsyArXiv",
+                "title": "Easing Into Open Science: A Guide for Graduate Students and Their Advisors",
+                "title_link": "https:\/\/psyarxiv.com\/vzjdp\/",
+                "text": "This article provides a roadmap to assist graduate students and their advisors to engage in open science practices. We suggest eight open science practices that novice graduate students could begin adopting today. The topics we cover include journal clubs, project workflow, preprints, reproducible code, data sharing, transparent writing, preregistration, and registered reports.",
+                "fallback": "PsyArXiv: Easing Into Open Science: A Guide for Graduate Students and Their Advisors",
+                "image_url": "https:\/\/psyarxiv.com\/assets\/osf-assets\/files\/preprints-assets\/psyarxiv\/sharing-bb63d82c3d5f348879a14a84276505f9acb8c640.png",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1588971166,
+                "from_url": "https:\/\/psyarxiv.com\/vzjdp\/",
+                "image_bytes": 58625,
+                "service_icon": "https:\/\/psyarxiv.com\/assets\/osf-assets\/files\/preprints-assets\/psyarxiv\/favicon-bb63d82c3d5f348879a14a84276505f9acb8c640.ico",
+                "id": 1,
+                "original_url": "https:\/\/psyarxiv.com\/vzjdp\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ldyB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Some edits (it could probably still be refined more as it’s a bit too long, imo):\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nGreetings from the UCalgary’s Open Science Student Support Group, \n\nOn behalf of the Open Science Student Support Group, I would like to invite you to attend our first biweekly Open Science Support Session taking place early in October.\n\nWhat is Open Science?\n\nOpen science aims to make science more transparent, reproducible, accessible, rigorous, and credible, by leveraging modern technologies and challenging traditional scholarly norms. Open science is science for the 21st Century!\n\nYou can learn more about open science and how it applies to your work here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/psyarxiv.com\/vzjdp\/",
+                                "text": "https:\/\/psyarxiv.com\/vzjdp\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWhat is the Open Science Student Support Group?\n\nDespite the scientific, professional, and organizational benefits of open science, it can be challenging to implement open science practices into our everyday work as students. Many students don’t know where to begin and have not been taught about open science practices in their courses.\n\nTherefore, we are starting a student support group to learn more about open science practices, and support each other in implementing these practices and the struggles of grad school in general. We’ll have biweekly sessions with brief introductions on different open science practices, such as reproducible workflows, transparent writing and preregistration, practical challenges of different difficulty levels to get students started with these practices, and plenty of time to share difficulties and best practices.\n\nHow do I join the Open Science Student Support Group?\n\nIf you are interested in joining the Open Science Student Support Group, please:\n\n1. Join our slack channel ***ADD INVITATION LINK HERE LATER***\n2. Complete this doodle poll, indicating your availability in a typical week ***ADD POLL LINK HERE LATER***\n\nMore information about specific sessions will also be promoted through the Monday Memo from the end of September.\n\nIf you have any questions, or would like to be involved in developing and organizing this group, please contact Gwen van der Wijk at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:gwen.vanderwijk@ucalgary.ca",
+                                "text": "gwen.vanderwijk@ucalgary.ca"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\nBest regards,\nGwen van der Wijk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1599677953.018000",
+        "parent_user_id": "U01AA7U2ECA"
+    }
+]

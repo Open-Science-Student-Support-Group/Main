@@ -1,0 +1,197 @@
+[
+    {
+        "client_msg_id": "3FACAAEC-5D40-4AF5-93DB-19161C88E71C",
+        "type": "message",
+        "text": "Sharepoint or youtube for longterm video storage seems smart, especially since OSF is adding storage caps <https:\/\/help.osf.io\/hc\/en-us\/articles\/360054528874-OSF-Storage-Caps|https:\/\/help.osf.io\/hc\/en-us\/articles\/360054528874-OSF-Storage-Caps>",
+        "user": "U01AA7U4UHY",
+        "ts": "1602261439.035000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "OSF Guides",
+                "title": "OSF Storage Caps",
+                "title_link": "https:\/\/help.osf.io\/hc\/en-us\/articles\/360054528874-OSF-Storage-Caps",
+                "text": "   This article is licensed under CC0 for maximum reuse.    Beginning November 3, 2020, OSF will limit the capacity of private projects and components utilizing OSF Storage to 5 GB and public proje...",
+                "fallback": "OSF Guides: OSF Storage Caps",
+                "image_url": "https:\/\/theme.zdassets.com\/theme_assets\/9177534\/7beea9f55b8eba9a9db7d195c5bacf88f23384fd.png",
+                "from_url": "https:\/\/help.osf.io\/hc\/en-us\/articles\/360054528874-OSF-Storage-Caps",
+                "image_width": 614,
+                "image_height": 231,
+                "image_bytes": 13805,
+                "service_icon": "http:\/\/theme.zdassets.com\/theme_assets\/9177534\/074e80cde94caf17116aaf263643022947efa438.ico",
+                "id": 1,
+                "original_url": "https:\/\/help.osf.io\/hc\/en-us\/articles\/360054528874-OSF-Storage-Caps"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BbnE0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sharepoint or youtube for longterm video storage seems smart, especially since OSF is adding storage caps "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/help.osf.io\/hc\/en-us\/articles\/360054528874-OSF-Storage-Caps",
+                                "text": "https:\/\/help.osf.io\/hc\/en-us\/articles\/360054528874-OSF-Storage-Caps"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602184553.030800",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "61E96442-91BF-4D61-8190-557C14400878",
+        "type": "message",
+        "text": "Yeah one video would easily exceed that limit lol",
+        "user": "U01ANS83U3T",
+        "ts": "1602261482.035700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "2ea3c8990277",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-03\/1405115966386_2ea3c899027741a0abcd_72.png",
+            "first_name": "Matt",
+            "real_name": "Matt Dawson",
+            "display_name": "",
+            "team": "T01A754ECJZ",
+            "name": "matthew.dawson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8wuCO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah one video would easily exceed that limit lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602184553.030800",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "client_msg_id": "1330f975-eaff-4a85-a37d-3de280ca124f",
+        "type": "message",
+        "text": "Thanks for all the tips! I think I’ve figured out how to record my screen (and audio, this was not automatic :sweat_smile:) using QuickTime :slightly_smiling_face: Worst case scenario I rerecord it without an audience, but I think we should be good!",
+        "user": "U01AA7U2ECA",
+        "ts": "1602266225.035900",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "laoa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for all the tips! I think I’ve figured out how to record my screen (and audio, this was not automatic "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") using QuickTime "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Worst case scenario I rerecord it without an audience, but I think we should be good!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1602184553.030800",
+        "parent_user_id": "U01AA7U2ECA"
+    },
+    {
+        "bot_id": "B01AGKD04SY",
+        "type": "message",
+        "text": "",
+        "user": "U01AP2WAHGR",
+        "ts": "1602276092.036100",
+        "team": "T01A754ECJZ",
+        "bot_profile": {
+            "id": "B01AGKD04SY",
+            "deleted": false,
+            "name": "GitHub",
+            "updated": 1599596265,
+            "app_id": "A8GBNUWU8",
+            "icons": {
+                "image_36": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-12-19\/288981919427_f45f04edd92902a96859_36.png",
+                "image_48": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-12-19\/288981919427_f45f04edd92902a96859_48.png",
+                "image_72": "https:\/\/slack-files2.s3-us-west-2.amazonaws.com\/avatars\/2017-12-19\/288981919427_f45f04edd92902a96859_72.png"
+            },
+            "team_id": "T01A754ECJZ"
+        },
+        "attachments": [
+            {
+                "author_name": "GwenvdW",
+                "fallback": "[Open-Science-Student-Support-Group\/Main] <https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/compare\/ba2f4a94c727...1bcd437dfa9d|2 new commits> pushed to <https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/tree\/master|`master`>",
+                "text": "*<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/compare\/ba2f4a94c727...1bcd437dfa9d|2 new commits> pushed to <https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/tree\/master|`master`>*\n<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/commit\/30c393ef5043a81676f13235eb06921d23f64881|`30c393ef`> - slides for session 1\n<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main\/commit\/1bcd437dfa9dd5d57296fac8c944d950d90bfec8|`1bcd437d`> - Merge branch 'master' of <https:\/\/github.com\/Open-Science-Student-Support-Group\/Main>",
+                "footer": "<https:\/\/github.com\/Open-Science-Student-Support-Group\/Main|Open-Science-Student-Support-Group\/Main>",
+                "id": 1,
+                "author_link": "https:\/\/github.com\/GwenvdW",
+                "author_icon": "https:\/\/avatars1.githubusercontent.com\/u\/66083270?v=4",
+                "footer_icon": "https:\/\/github.githubassets.com\/favicon.ico",
+                "color": "24292f",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

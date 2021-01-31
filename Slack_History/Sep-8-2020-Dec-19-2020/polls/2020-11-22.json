@@ -1,0 +1,147 @@
+[
+    {
+        "client_msg_id": "4fe08352-ed60-4692-9baa-394051cf4a98",
+        "type": "message",
+        "text": "<!channel> Hi Everyone! Thanks for responding to the poll above! Based on that, I have set up a poll with times in the last week of the semester: <https:\/\/doodle.com\/poll\/n2rma8fyuziburqf?utm_source=poll&amp;utm_medium=link>. Please fill it out by *Tuesday night (Nov 24)*. I put in time slots of 2 hours, as I think there will be much to discuss :slightly_smiling_face: Have a great rest of your Sunday!",
+        "user": "U01AA7U2ECA",
+        "ts": "1606079451.015800",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Doodle: OSSSG organizational team meeting",
+                "title_link": "https:\/\/doodle.com\/poll\/n2rma8fyuziburqf?utm_source=poll&utm_medium=link",
+                "text": "Doodle is the simplest way to schedule meetings with clients, colleagues, or friends. Find the best time for one-to-ones and team meetings with our user-friendly calendar tool. Get started today!",
+                "fallback": "Doodle: OSSSG organizational team meeting",
+                "image_url": "https:\/\/doodle.com\/graphics\/static\/facebookSharingThumbnail.png",
+                "from_url": "https:\/\/doodle.com\/poll\/n2rma8fyuziburqf?utm_source=poll&utm_medium=link",
+                "image_width": 300,
+                "image_height": 200,
+                "image_bytes": 6864,
+                "service_icon": "https:\/\/cdn2.doodle.com\/dist\/i\/7479b568749fca315a2969e30cbee4f5.png",
+                "service_name": "doodle.com",
+                "id": 1,
+                "original_url": "https:\/\/doodle.com\/poll\/n2rma8fyuziburqf?utm_source=poll&amp;utm_medium=link"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ke9WX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi Everyone! Thanks for responding to the poll above! Based on that, I have set up a poll with times in the last week of the semester: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/doodle.com\/poll\/n2rma8fyuziburqf?utm_source=poll&utm_medium=link"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Please fill it out by "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Tuesday night (Nov 24)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I put in time slots of 2 hours, as I think there will be much to discuss "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Have a great rest of your Sunday!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606079451.015800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1606260020.018000",
+        "reply_users": [
+            "U01AGDAUB1S",
+            "U01AA7U2ECA"
+        ],
+        "replies": [
+            {
+                "user": "U01AGDAUB1S",
+                "ts": "1606082607.016000"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1606260020.018000"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "cbcdf57a-9a02-404a-9458-880b4b3f16da",
+        "type": "message",
+        "text": "Done! I did not put past 5pm (as I am trying to avoid any meetings past the word day) but if needed, I can attend the later times!",
+        "user": "U01AGDAUB1S",
+        "ts": "1606082607.016000",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "81afe241c15d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-02\/1397872543414_81afe241c15daae264e5_72.jpg",
+            "first_name": "Brittany",
+            "real_name": "Brittany Lindsay",
+            "display_name": "Brittany",
+            "team": "T01A754ECJZ",
+            "name": "bllindsa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uF+N5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Done! I did not put past 5pm (as I am trying to avoid any meetings past the word day) but if needed, I can attend the later times!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1606079451.015800",
+        "parent_user_id": "U01AA7U2ECA"
+    }
+]

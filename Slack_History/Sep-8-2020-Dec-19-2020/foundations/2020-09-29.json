@@ -1,0 +1,80 @@
+[
+    {
+        "client_msg_id": "de103172-c4c4-4590-9310-b35ef3c103b4",
+        "type": "message",
+        "text": "Hi <!channel>! How about a deadline to get the ball rolling? I think it’d be great if we could have most of the core responsibilities, and to which core unit they belong, worked out before our meeting on Friday, so we can discuss them with everyone and hopefully have more clarity on who is supposed to do what once the sessions get going! If you have a bit of time, please add your input to the ‘organizational structure’ document on OSF!",
+        "user": "U01AA7U2ECA",
+        "ts": "1601414025.003700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZmXb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! How about a deadline to get the ball rolling? I think it’d be great if we could have most of the core responsibilities, and to which core unit they belong, worked out before our meeting on Friday, so we can discuss them with everyone and hopefully have more clarity on who is supposed to do what once the sessions get going! If you have a bit of time, please add your input to the ‘organizational structure’ document on OSF!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601414025.003700",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1601515822.004800",
+        "reply_users": [
+            "U01ANS2G30R",
+            "U01AA7U2ECA"
+        ],
+        "replies": [
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1601484434.003800"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1601485817.004000"
+            },
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1601509467.004200"
+            },
+            {
+                "user": "U01AA7U2ECA",
+                "ts": "1601515761.004400"
+            },
+            {
+                "user": "U01ANS2G30R",
+                "ts": "1601515822.004800"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1601515822.004800"
+    }
+]

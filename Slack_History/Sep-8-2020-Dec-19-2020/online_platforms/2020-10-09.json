@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "CAB335AC-D981-444A-80B7-5CF2EFF2058B",
+        "type": "message",
+        "text": "Note to self: archive Slack for September ",
+        "user": "U01AA7U4UHY",
+        "ts": "1602289434.000600",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "667fa5ff9754",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-08\/1347287393925_667fa5ff9754fe068109_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael McCarth",
+            "display_name": "Michael",
+            "team": "T01A754ECJZ",
+            "name": "michael.mccarthy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cuENB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Note to self: archive Slack for September "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

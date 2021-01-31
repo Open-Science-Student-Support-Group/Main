@@ -1,0 +1,131 @@
+[
+    {
+        "client_msg_id": "7fee8d29-8cf5-4ee5-a5ec-465658916ef9",
+        "type": "message",
+        "text": "I'm looking up the best way to moderate community engagement, and this seems like a good link with the 5 steps near the bottom: <https:\/\/www.getopensocial.com\/blog\/community-management\/setting-community-moderation-guidelines>\n\n1. \"Unless the content is extremely offensive or even illegal, don’t delete content straight away since people may view this as censorship.\n2. Keep an eye on the discussion to see if the community corrects itself and if (other) users step in to correct the undesirable behavior.\n3. If the problem remains, try and help steer the conversation in the right direction by referring to the guidelines and reminding the person or people involved that this type of behavior isn’t welcome. \n4. If the person or people continue their behavior, contact them via a personal email or message and warn them that they will be removed from the community if they continue in this way.\n5. If the person or people involved still continue, block their account and delete the offending content. Be sure to make a statement to the general community explaining the situation and your decision. \"\nJust to start thinking about what moderation in our Slack looks like, since I'm sure we'll have a meeting soon about online community facilitating :slightly_smiling_face:",
+        "user": "U01AADVMMJ7",
+        "ts": "1602716491.001500",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "bc87ba7ccce1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-25\/1445402318902_bc87ba7ccce142957a62_72.png",
+            "first_name": "Jassleen",
+            "real_name": "Jassleen Parmar",
+            "display_name": "Jassleen Parmar",
+            "team": "T01A754ECJZ",
+            "name": "jassleen.parmar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Open Social",
+                "title": "Setting Up Community Moderation Guidelines",
+                "title_link": "https:\/\/www.getopensocial.com\/blog\/community-management\/setting-community-moderation-guidelines",
+                "text": "Learn about community guidelines and the tools Open Social offers to help you moderate your online community.",
+                "fallback": "Open Social: Setting Up Community Moderation Guidelines",
+                "image_url": "https:\/\/www.getopensocial.com\/sites\/default\/files\/twitter\/2018-02\/Community%20Guidelines.jpeg",
+                "image_width": 375,
+                "image_height": 250,
+                "ts": 1505117522,
+                "from_url": "https:\/\/www.getopensocial.com\/blog\/community-management\/setting-community-moderation-guidelines",
+                "image_bytes": 305701,
+                "service_icon": "https:\/\/www.getopensocial.com\/themes\/getopensocial\/images\/favicon\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.getopensocial.com\/blog\/community-management\/setting-community-moderation-guidelines"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cs1Iy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm looking up the best way to moderate community engagement, and this seems like a good link with the 5 steps near the bottom: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.getopensocial.com\/blog\/community-management\/setting-community-moderation-guidelines"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "\"Unless the content is extremely offensive or even illegal, don’t delete content straight away since people may view this as censorship."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Keep an eye on the discussion to see if the community corrects itself and if (other) users step in to correct the undesirable behavior."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If the problem remains, try and help steer the conversation in the right direction by referring to the guidelines and reminding the person or people involved that this type of behavior isn’t welcome. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If the person or people continue their behavior, contact them via a personal email or message and warn them that they will be removed from the community if they continue in this way."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "If the person or people involved still continue, block their account and delete the offending content. Be sure to make a statement to the general community explaining the situation and your decision. \""
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nJust to start thinking about what moderation in our Slack looks like, since I'm sure we'll have a meeting soon about online community facilitating "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

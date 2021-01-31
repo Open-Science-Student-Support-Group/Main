@@ -1,0 +1,87 @@
+[
+    {
+        "client_msg_id": "76161658-b1bc-4999-bd63-d667188bbd32",
+        "type": "message",
+        "text": "<!channel> Hi Everyone! In preparation for our general meeting on Thursday, we'd like to ask you all to vote on the topics you'd like to discuss with this group next semester! This is a poll that allows you to add your own topic ideas as well, so if you have additional ideas, please add them as soon as possible, so others can vote for those as well! Please vote for your *top 3* topics. The poll will be open until *Thursday (Dec 17) 12pm*. <https:\/\/poll.ly\/#\/G5NxQvD2>",
+        "user": "U01AA7U2ECA",
+        "ts": "1607961898.021700",
+        "team": "T01A754ECJZ",
+        "user_team": "T01A754ECJZ",
+        "source_team": "T01A754ECJZ",
+        "user_profile": {
+            "avatar_hash": "6e49adde29d9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-05\/1420879323393_6e49adde29d9eae9ce72_72.jpg",
+            "first_name": "Gwen",
+            "real_name": "Gwen van der Wijk",
+            "display_name": "Gwen",
+            "team": "T01A754ECJZ",
+            "name": "gwen.vanderwijk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "pollly",
+                "title_link": "https:\/\/poll.ly\/#\/G5NxQvD2",
+                "text": "pollly is your perfect partner to gather ideas and opinions no registering required, free and absolutely fool-proofed.",
+                "fallback": "pollly",
+                "image_url": "http:\/\/poll.ly\/share-image.png",
+                "from_url": "https:\/\/poll.ly\/#\/G5NxQvD2",
+                "image_width": 341,
+                "image_height": 250,
+                "image_bytes": 7372,
+                "service_icon": "https:\/\/poll.ly\/favicon.ico",
+                "service_name": "poll.ly",
+                "id": 1,
+                "original_url": "https:\/\/poll.ly\/#\/G5NxQvD2"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N6a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi Everyone! In preparation for our general meeting on Thursday, we'd like to ask you all to vote on the topics you'd like to discuss with this group next semester! This is a poll that allows you to add your own topic ideas as well, so if you have additional ideas, please add them as soon as possible, so others can vote for those as well! Please vote for your "
+                            },
+                            {
+                                "type": "text",
+                                "text": "top 3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " topics. The poll will be open until "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Thursday (Dec 17) 12pm",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/poll.ly\/#\/G5NxQvD2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
