@@ -1,8 +1,8 @@
-1) Your favourite day of the week; 
-2) Adjective that describes your work ethic; 
-3) Your least favourite colour; 
-4) A superpower you wish you had; 
-5) Your favourite weekend activity; 
+1) Your favourite day of the week; - Saturday
+2) Adjective that describes your work ethic; - chaotic
+3) Your least favourite colour; - brown-green
+4) A superpower you wish you had; - telekineses
+5) Your favourite weekend activity; - playing videogames
 6) A song you played a lot in the last month; 
 7) Favourite hang-out spot as a kid; 
 8) Your favourite body of water; 
